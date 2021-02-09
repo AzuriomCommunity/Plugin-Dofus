@@ -3,7 +3,7 @@
 namespace Azuriom\Plugin\Dofus\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Facades\DB;
+use Azuriom\Plugin\Dofus\Models\CharacterItem;
 
 class Character extends Model
 {
@@ -20,9 +20,8 @@ class Character extends Model
         return plugin_asset('dofus', "img/heads/{$this->Breed}_{$this->Sex}.png");
     }
 
-    public function getItems() {
-        return DB::connection('dofus_world')->table('characters_items')
-            ->Where('OwnerId', $this->Id)
+    public function items() {
+        return $this->hasMany(CharacterItem::class,'OwnerId')
             ->where(function($query) {
                 $query
                 ->orWhere('Position', 0) // 0 amulet
@@ -43,7 +42,6 @@ class Character extends Model
                 ->orWhere('Position', 15) // shield
                 ->orWhere('Position', 16); // Mount
             })
-            ->orderBy('Position')
-            ->get();
+            ->orderBy('Position');
     }
 }

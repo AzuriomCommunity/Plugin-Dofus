@@ -3,6 +3,8 @@
 namespace Azuriom\Plugin\Dofus\Providers;
 
 use PDO;
+use Illuminate\Support\Facades\Blade;
+use Azuriom\Plugin\Dofus\Components\StatComponent;
 use Azuriom\Extensions\Plugin\BasePluginServiceProvider;
 
 class DofusServiceProvider extends BasePluginServiceProvider
@@ -56,7 +58,7 @@ class DofusServiceProvider extends BasePluginServiceProvider
             'port' => '3306',
             'database' => 'decay__world',
             'username' => 'root',
-            'password' => '456123789',
+            'password' => '',
             'unix_socket' => '',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
@@ -75,7 +77,7 @@ class DofusServiceProvider extends BasePluginServiceProvider
             'port' => '3306',
             'database' => 'decay__auth',
             'username' => 'root',
-            'password' => '456123789',
+            'password' => '',
             'unix_socket' => '',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
@@ -99,6 +101,7 @@ class DofusServiceProvider extends BasePluginServiceProvider
     public function boot()
     {
         // $this->registerPolicies();
+        Blade::component('stat-component', StatComponent::class);
 
         $this->loadViews();
 
