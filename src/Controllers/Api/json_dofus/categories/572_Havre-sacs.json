@@ -1,0 +1,1978 @@
+{
+    "total_count": 17,
+    "articles": [{
+        "id": 9462,
+        "key": null,
+        "name": "Sidimote",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-sac sidimote\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-06-27\/b3cf9b92b52c2cf4243efa5e79b9548b.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-06-27T14:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9462\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9462\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-sac sidimote\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Havre-sac sidimote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/9517\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/9517\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 101,
+                    "category_id": 4,
+                    "name": "Havre-sac sidimote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 19,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2017-06-21T09:54:25+02:00",
+                    "added_account_id": 113040624,
+                    "modified_date": "2018-02-15T10:36:49+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Havre-sac sidimote", "Sidimote Haven Bag", "Sidimot-Wandertasche", "Merkasako sidimote", "Oasi-Zaino sidimote", "Saco de Viagem de sidimote", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-sac sidimote\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\n\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.\r\n\r\nAttention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.", "This item contains the Sidimote Haven Bag theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Design Sidimot-Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako sidimote\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino sidimote e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem de sidimote e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14626",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9462\/gallery_all_50_50.png"
+        }, {
+            "id": "15276",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9462\/game_15276_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "445703",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "974624",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11025,
+        "key": null,
+        "name": "Cale des pirates",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Cale des pirates\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/975ff801b13fc1f141c6b875606e3cf6.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12039\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12039\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Cale des pirates",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12039\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12039\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 592,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Cale des pirates",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 27,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-03-19T16:15:23+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2019-03-19T16:18:12+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Cale des pirates", "Pirate Hold Haven Bagg theme", "Design Frachtraum der Piraten-Wandertasche", "Merkasako Bodega de los piratas", "Oasi-Zaino Stiva dei Pirati", "Saco de Viagem Por\u00e3o dos Piratas", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15238",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11025\/game_15238_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "421653",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "982577",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10775,
+        "key": null,
+        "name": "Coqueline",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Coqueline\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/9c164ffeda1b216546e10acc29a61836.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10775\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10775\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Coqueline",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11940\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11940\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 577,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Coqueline",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 29,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T11:00:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Coqueline", "Mishell Haven Bag theme", "Design Mohnalisa-Wandertasche", "Tema \"Merkasako de Kaskarina\"", "Tema dell'Oasi-Zaino Konchiglia", "Tema do Saco de Viagem da Conchita", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13843",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10775\/gallery_all_50_50.png"
+        }, {
+            "id": "15243",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10775\/game_15243_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420078",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980188",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10776,
+        "key": null,
+        "name": "Champs",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Champs\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/37077a679f4b9243145d6f587aca50c3.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/11938\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/11938\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Champs",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11938\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11938\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 574,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Champs",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 25,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T10:51:17+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Champs", "Field Haven Bag theme", "Design Felder-Wandertasche", "Tema \"Merkasako de los campos\"", "Tema dell'Oasi-Zaino Campi", "Tema do Saco de Viagem dos Campos", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15242",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10776\/game_15242_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420079",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980241",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10777,
+        "key": null,
+        "name": "Harebourg",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Harebourg\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/41db501d0a46178719a61a18de262324.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10777\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10777\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Harebourg",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11941\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11941\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 575,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Harebourg",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 24,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T10:53:42+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2018-10-31T11:39:20+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Harebourg", "Harebourg Haven Bag theme", "Design Graf Primzahl-Wandertasche", "Tema \"Merkasako de Kontatr\u00e1s\"", "Tema dell'Oasi-Zaino Allarovescia", "Tema do Saco de Viagem Traspafrent", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13844",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10777\/gallery_all_50_50.png"
+        }, {
+            "id": "15241",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10777\/game_15241_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420075",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980294",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10779,
+        "key": null,
+        "name": "Pyramide",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Pyramide\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/6b35e1eca810d7bcb6932c4f490b553c.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10779\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10779\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Pyramide",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11943\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11943\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 573,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Pyramide",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 23,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T10:49:08+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Pyramide", "Pyramid Haven Bag theme", "Design Pyramiden-Wandertasche", "Tema \"Merkasako de pir\u00e1mide\"", "tema dell'Oasi-Zaino Piramide", "Tema do Saco de Viagem Pir\u00e2mide", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13846",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10779\/gallery_all_50_50.png"
+        }, {
+            "id": "15240",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10779\/game_15240_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420076",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980347",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10780,
+        "key": null,
+        "name": "Triton",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Triton\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/7814026a4e4ef50253d2e615d1a55846.jpg\" width=\"1264\" \/>\r\n<div class=\"ak-big-image-legend template_block_element\">\u00a0<\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/portrait_16403_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/portrait_16403_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Triton",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11944\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11944\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 572,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Triton",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 26,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T10:44:58+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2018-10-31T10:46:14+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Triton", "Submarine Haven Bag theme", "Design Unterwasser-Wandertasche", "Tema Merkasako de submarino", "Tema dell'Oasi-Zaino Tritonno", "Tema do Saco de Viagem Submarino", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13847",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/gallery_all_50_50.png"
+        }, {
+            "id": "15239",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/game_15239_all.png"
+        }, {
+            "id": "16403",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/portrait_16403_all_424_475.png"
+        }, {
+            "id": "16404",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "3",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10780\/portrait_16404_all_424_475.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420077",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980400",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10300,
+        "key": null,
+        "name": "Crypte",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Crypte\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/7510b11d2236ba9696efaea3ed8a7409.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10300\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10300\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Crypte\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<br \/>\r\nCet item est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Th\u00e8me de Havre-Sac Crypte",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10065\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10065\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 537,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Crypte",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 21,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-03-23T10:20:53+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2018-03-28T14:43:55+02:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Crypte", "Crypt Haven Bag theme", "Design Krypta-Wandertasche", "Tema \"Merkasako de la cripta\"", "Tema dell'Oasi-Zaino Cripta", "Tema do Saco de Viagem da cripta", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac Crypte\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\nCet item est li\u00e9 \u00e0 votre compte.", "This item contains the Crypt Haven Bag theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Design Krypta-Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako de taberna\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Taverna e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem da taberna e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13329",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10300\/gallery_all_50_50.png"
+        }, {
+            "id": "15245",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10300\/game_15245_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420081",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "977014",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10095,
+        "key": null,
+        "name": "Princesse",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Princesse\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/162f40defa5627bf658a07fb97090382.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10095\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10095\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Princesse\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Th\u00e8me de Havre-sac Princesse",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/9840\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/9840\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 489,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-sac Princesse",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 12,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2017-11-08T12:27:26+01:00",
+                    "added_account_id": 121284764,
+                    "modified_date": "2018-02-15T10:29:54+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-sac Princesse", "Princess Haven Bag", "Prinzessin - Wandertasche", "Merkasako de princesa", "Oasi-Zaino Principessa", "Saco de viagem da princesa", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac Princesse\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\n\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.\r\n\r\nAttention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.", "This item contains the Princess Haven Bagg theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Prinzessin - Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako de princesa\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Principessa e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem da princesa e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13098",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10095\/gallery_all_50_50.png"
+        }, {
+            "id": "15246",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10095\/game_15246_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420080",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975753",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10626,
+        "key": null,
+        "name": "Bateau des Forbans",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac bateau des Forbans ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/f9021c76e99e56d4c76f805c0212f6de.jpg\" width=\"1264\" \/>\r\n<div class=\"ak-big-image-legend template_block_element\">\u00a0<\/div>\r\n<\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/10456\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/10456\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac bateau des Forbans ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n",
+            "name": "Th\u00e8me de Havre-Sac bateau des Forbans",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10456\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10456\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 565,
+                    "category_id": 4,
+                    "name": "Havre-sac bateau des Forbans",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 30,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-09-18T11:58:16+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac bateau des Forbans", "Corsair Ship Haven Bag theme", "Design Schiff der Freibeuter-Wandertasche", "Tema \"Merkasako Barco de los bucaneros\"", "Tema dell'Oasi-Zaino Battello dei Corsari", "Tema do Saco de Viagem Navio dos Bucaneiros", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac bateau des Forbans ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.", "This item contains the Corsair Ship Haven Bag theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Design Schiff der Freibeuter-Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako Barco de los bucaneros\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Battello dei Corsari e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem Navio dos Bucaneiros e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15244",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10626\/game_15244_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420073",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "978995",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11175,
+        "key": null,
+        "name": "Anomalie Temporelle",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Anomalie Temporelle\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac. Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/39b33a0df284b5c1772651de9ad5b900.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12055\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12055\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Anomalie Temporelle",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12055\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12055\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 595,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Anomalie Temporelle",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 31,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-04-09T14:55:56+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Anomalie Temporelle", "Temporal Anomaly Haven Bagg theme", "Design Zeitanomalie-Wandertasche", "Merkasako Anomal\u00eda temporal", "Oasi-Zaino Anomalia Temporale", "Saco de Viagem Anomalia temporal", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15237",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11175\/game_15237_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "420074",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "984065",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8921,
+        "key": null,
+        "name": "Casino",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Casino ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<br \/>\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/668f19cf6a93bc2b31ccc043e9f2b53b.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2019-05-27T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8921\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8921\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Casino ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<br \/>\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Havre-Sac Casino",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/9119\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/9119\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 47,
+                    "category_id": 4,
+                    "name": "Havre-Sac Casino",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 11,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2016-12-06T14:43:09+01:00",
+                    "added_account_id": 82930224,
+                    "modified_date": "2018-02-15T10:36:44+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Havre-Sac Casino", "Casino Haven Bag theme", "Design Kasino-Wandertasche", "Tema \"Merkasako de Casino\"", "Tema dell'Oasi-Zaino Casin\u00f2", "Tema do Saco de Viagem de Cassino", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac Casino ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.\r\n\r\nAttention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.", "This item contains the Casino Haven Bag theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\n\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Design Kasino-Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\n\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako de Casino\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako.\r\n\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Casin\u00f2 e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\n\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem de Cassino e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\n\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12918",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8921\/gallery_all_50_50.png"
+        }, {
+            "id": "15249",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8921\/game_15249_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "419993",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973578",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10778,
+        "key": null,
+        "name": "Moon",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Moon ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor. Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"http:\/\/static.ankama.com\/upload\/backoffice\/direct\/2020-04-28\/fe4e3156ad0ed76f118e70d97140bf3a.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.25,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10778\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10778\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Th\u00e8me de Havre-Sac Moon",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/11942\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/11942\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 576,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Moon",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 28,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-10-31T10:58:08+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Moon", "Moon Haven Bagg theme", "Design Moon-Wandertasche", "Tema \"Merkasako de Moon\"", "Tema dell'Oasi-Zaino Moon", "Tema Saco de viagem da Moon", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13845",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10778\/gallery_all_50_50.png"
+        }, {
+            "id": "15641",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10778\/game_15641_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1149231",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1149524",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9010,
+        "key": null,
+        "name": "Steamer",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Steamer ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/47df1eb2f2c92a8de11dc7aae1f98e23.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-01-24T12:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/9030\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/9030\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Steamer ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Th\u00e8me du Havre-sac Steamer",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/9030\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/9030\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 41,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Steamer",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 18,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2016-10-24T16:47:57+02:00",
+                    "added_account_id": 82930224,
+                    "modified_date": "2018-02-15T10:36:30+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Havre-sac Steamer", "Foggernaut Haven Bag", "Steamer-Wandertasche", "Merkasako steamer", "Oasi-Zaino Steamer", "Saco de Viagem Steamer", "Foggernaut Haven Bag", "Foggernaut Haven Bag", "Foggernaut Haven Bag"],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac Steamer ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\n\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.\r\n\r\nAttention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.", "This item contains the Foggernaut Haven Bag theme and all its decorative elements.\r\n\r\nThe theme will automatically be added to your Haven Bag interface.\r\n\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Steamer-Wandertasche mit seinen Dekor-Elementen.\r\n\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\n\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako steamer\" y todos sus elementos decorativos\r\n\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\n\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Steamer e tutti i suoi elementi decorativi.\r\n\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\n\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem Steamer e todos os seus elementos decorativos.\r\n\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\n\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", "This item contains the Foggernaut Haven Bag theme and all its decorative elements.\r\n\r\nThe theme will automatically be added to your Haven Bag interface.\r\n\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "This item contains the Foggernaut Haven Bag theme and all its decorative elements.\r\n\r\nThe theme will automatically be added to your Haven Bag interface.\r\n\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "This item contains the Foggernaut Haven Bag theme and all its decorative elements.\r\n\r\nThe theme will automatically be added to your Haven Bag interface.\r\n\r\nPlease note, this Haven Bag theme is permanently linked to your account."]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15248",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9010\/game_15248_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "421652",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973737",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7771,
+        "key": null,
+        "name": "Taverne",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Taverne\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/063b0a8fa30892128980693c97171e7f.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2016-11-18T15:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8428\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8428\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Taverne\u00a0ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Th\u00e8me de Havre-Sac Taverne",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/8428\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/8428\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 7,
+                    "category_id": 5,
+                    "name": "Nothing",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 10,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2015-12-01T17:36:24+01:00",
+                    "added_account_id": 5293179,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": null,
+                    "definition_title": null,
+                    "definition_description": null
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15250",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7771\/game_15250_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "220829",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972076",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7508,
+        "key": null,
+        "name": "Allister",
+        "subtitle": null,
+        "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Allister ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cor.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p><strong>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/strong><\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"881\" src=\"https:\/\/s.ankama.com\/www\/static.ankama.com\/upload\/backoffice\/direct\/2019-05-27\/5a5a5d4399d4696b91ed94b58d6caa19.jpg\" width=\"1264\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2016-10-28T11:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8535\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8535\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Cet article contient le th\u00e8me de Havre-Sac Allister ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.<\/p>\r\n\r\n<p>Le th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.<\/p>\r\n\r\n<p>Attention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.<\/p>\r\n",
+            "name": "Th\u00e8me de Havre-Sac Allister",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/8535\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/8535\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 14,
+                    "category_id": 4,
+                    "name": "Th\u00e8me de Havre-Sac Allister",
+                    "restriction_id": null,
+                    "actions": [{
+                        "theme_id": 4,
+                        "type": "DofusHavenBagTheme",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2016-03-10T10:00:40+01:00",
+                    "added_account_id": 71129761,
+                    "modified_date": "2018-02-15T10:35:56+01:00",
+                    "modified_account_id": 121592648,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Th\u00e8me de Havre-Sac Allister", "Allister Haven Bag", "Wandertasche Allister", "Merkasako de Allister", "Oasi-Zaino Allister", "Saco de Viagem de Allister", null, null, null],
+                    "definition_description": ["Cet article contient le th\u00e8me de Havre-Sac Allister ainsi que tous ses \u00e9l\u00e9ments de d\u00e9cors.\r\n\r\nLe th\u00e8me se cr\u00e9ditera automatiquement dans votre interface Havre-Sac.\r\n\r\nAttention, le th\u00e8me de Havre-Sac est li\u00e9 \u00e0 votre compte.", "This item contains the Allister Haven Bag theme and all its decorative elements.\r\nThe theme will automatically be added to your Haven Bag interface.\r\nPlease note, this Haven Bag theme is permanently linked to your account.", "Dieser Artikel enth\u00e4lt das Design Allister-Wandertasche mit seinen Dekor-Elementen.\r\nDieses Design wird nach dem Erwerb automatisch zu der Wandertaschen-Benutzeroberfl\u00e4che hinzugef\u00fcgt.\r\nAchtung: das Wandertaschen-Design ist an euren Account gebunden.", "Este art\u00edculo contiene el tema \"Merkasako de Allister\" y todos sus elementos decorativos\r\nEl tema ser\u00e1 a\u00f1adido autom\u00e1ticamente en tu interfaz de merkasako\r\nAtenci\u00f3n: El tema del merkasako est\u00e1 ligado a tu cuenta.", "Questo oggetto contiene il tema dell'Oasi-Zaino Allister e tutti i suoi elementi decorativi.\r\nIl tema sar\u00e0 aggiunto automaticamente alla tua interfaccia dell'Oasi Zaino.\r\nAttenzione! Il tema dell'Oasi-Zaino sar\u00e0 vincolato al tuo account permanentemente.", "Este item cont\u00e9m o tema do Saco de Viagem Allister e todos os seus elementos decorativos.\r\nO tema ser\u00e1 creditado automaticamente \u00e0 sua interface de Saco de Viagem.\r\nAten\u00e7\u00e3o, este tema de Saco de Viagem ser\u00e1 vinculado permanentemente \u00e0 sua conta.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15251",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GAME",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7508\/game_15251_all.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "199143",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972008",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7473,
+        "key": null,
+        "name": "Salle de Havre-Sac",
+        "subtitle": null,
+        "description": "<p>Cet article vous permettra d'obtenir une salle (ou \u00ab pi\u00e8ce \u00bb) suppl\u00e9mentaire dans votre Havre-Sac. Cette salle sera <strong>accessible par t\u00e9l\u00e9portation<\/strong>. Chaque salle en votre possession vous permet d\u2019exposer un th\u00e8me de Havre Sac diff\u00e9rent (Th\u00e8mes disponibles s\u00e9par\u00e9ment).<br \/>\r\n<br \/>\r\nAttention, vous devez vous d\u00e9connecter pour que l'article soit cr\u00e9dit\u00e9\u00a0dans votre interface Havre-Sac. Cet article est li\u00e9 \u00e0 votre compte. Vous pouvez poss\u00e9der <strong>jusqu'\u00e0 10 salles de Havre-Sac<\/strong> suppl\u00e9mentaires.\u00a0Une Salle Suppl\u00e9mentaire n\u2019agrandit pas la capacit\u00e9 de stockage (inventaire) du Havre Sac.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>*Visuel non contractuel.<\/em><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8308\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/8308\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Salle suppl\u00e9mentaire de Havre-Sac",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/8308\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/8308\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 7,
+                    "category_id": 5,
+                    "name": "Nothing",
+                    "restriction_id": null,
+                    "actions": [{
+                        "type": "DofusHavenBagRoom",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2015-12-01T17:36:24+01:00",
+                    "added_account_id": 5293179,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": null,
+                    "definition_title": null,
+                    "definition_description": null
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "163942",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971763",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": null,
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": null,
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

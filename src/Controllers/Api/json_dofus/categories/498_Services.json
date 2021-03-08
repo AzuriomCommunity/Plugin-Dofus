@@ -1,0 +1,1646 @@
+{
+    "total_count": 15,
+    "articles": [{
+        "id": 5332,
+        "key": null,
+        "name": "Changement de blason d'alliance",
+        "subtitle": null,
+        "description": "<p>Rendez-vous \u00e0 l'\u00e9vidence, personne n'a compris que votre blason repr\u00e9sentait un Bwork \u00e9mancip\u00e9 chassant ses parents pour affirmer son ind\u00e9pendance. Personne. Rendez un service \u00e0 tout le monde, changez cet affreux blason d'alliance !<br \/>\r\n<br \/>\r\n<span style=\"color: rgb(255, 0, 0);\"><strong>Attention : seul le meneur de l'alliance peut utiliser cet objet. La potion est \u00e9changeable mais li\u00e9e 2 mois \u00e0 votre compte.\u00a0<\/strong><\/span><\/p>\r\n\r\n<p>Si vous \u00eates en train de jouer \u00e0 DOFUS au moment de l\u2019achat, vous devrez vous d\u00e9connecter et vous reconnecter pour attribuer la potion \u00e0 l\u2019un de vos personnages.<\/p>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": "2013-09-25T16:45:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/6608\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/6608\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Rendez-vous \u00e0 l'\u00e9vidence, personne n'a compris que votre blason repr\u00e9sentait un Bwork \u00e9mancip\u00e9 chassant ses parents pour affirmer son ind\u00e9pendance. Personne. Rendez un service \u00e0 tout le monde, changez cet affreux blason d'alliance !",
+            "name": "Potion de changement de blason d'alliance",
+            "free": false,
+            "quantity": "1",
+            "type": "VIRTUALGIFT",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/6608\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/6608\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": [{
+                "image": "https:\/\/static.ankama.com\/dofus\/www\/game\/items\/200\/12738.png",
+                "description": "Rendez-vous \u00e0 l'\u00e9vidence, personne n'a compris que votre blason repr\u00e9sentait un Bwork \u00e9mancip\u00e9 chassant ses parents pour affirmer son ind\u00e9pendance. Personne. Rendez un service \u00e0 tout le monde, changez cet affreux blason d'alliance !",
+                "name": "Potion de changement de blason d'alliance",
+                "id": "14292"
+            }],
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "114024",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": null,
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": null,
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5331,
+        "key": null,
+        "name": "Changement de nom d'alliance",
+        "subtitle": null,
+        "description": "<p>\"Les b\u00fbcherons de l'apocalypse\" \u00e9tait un nom d'alliance amusant lorsque vous aviez quinze ans et que vous r\u00eaviez d'\u00eatre b\u00fbcheron. Mais \u00e7a ne vous a pas beaucoup aid\u00e9 dans votre vie sentimentale ou tout simplement pour recruter d'autres guildes. Osez le renommage d'alliance et envisagez une nouvelle vie !<br \/>\r\n<br \/>\r\n<span style=\"color:#FF0000;\"><strong>Attention : seul le meneur de l'alliance peut utiliser cet objet. La potion est \u00e9changeable mais li\u00e9e 2 mois \u00e0 votre compte.\u00a0<\/strong><\/span><\/p>\r\n\r\n<p>Si vous \u00eates en train de jouer \u00e0 DOFUS au moment de l\u2019achat, vous devrez vous d\u00e9connecter et vous reconnecter pour attribuer la potion \u00e0 l\u2019un de vos personnages.<\/p>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": "2013-09-25T16:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13353\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13353\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Potion de renommage d'alliance",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13353\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13353\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1545,
+                    "category_id": 12,
+                    "name": "Potion de renommage d'alliance",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 14291,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:51:25+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion de renommage d'alliance", "Alliance Renaming Potion", "Allianzumbenennungstrank", "P\u00f3cima de cambio de nombre de alianza", "Pozione di Rinomina di Alleanza", "Po\u00e7\u00e3o de mudan\u00e7a de nome de alian\u00e7a", null, null, null],
+                    "definition_description": ["\"Les b\u00fbcherons de l'apocalypse\" \u00e9tait un nom d'alliance amusant lorsque vous aviez quinze ans et que vous r\u00eaviez d'\u00eatre b\u00fbcheron. Mais \u00e7a ne vous a pas beaucoup aid\u00e9 dans votre vie sentimentale ou tout simplement pour recruter d'autres guildes. Osez le renommage d'alliance et envisagez une nouvelle vie !", "\"The Lumberjacks of the Apocalypse\" was a cool name when you were fifteen and you dreamt of being a lumberjack, but somehow it didn't help much when it came to meeting girls or recruiting new guilds. Pack up the chopping block and start life afresh with a brand new alliance name!", "Der Allianzname \"Holzies der Akopallipse\" l\u00e4sst es bereits erahnen. Schon wieder eine Jugends\u00fcnde, die durch chronischen Mitgliedermangel und Schwierigkeiten im Liebesleben tausendfach geb\u00fc\u00dft wurde\u2026 Drum befreit euch von dieser Last durch einen schnellen Allianznamenswechsel und fangt ein neues Leben an!", "\u00abLos le\u00f1adores del apocalipsis\u00bb era un nombre gracioso cuando ten\u00edas quince a\u00f1os y so\u00f1abas con ser le\u00f1ador. Pero est\u00e1 claro que no te ha ayudado mucho en tu vida sentimental ni tampoco para reclutar a otros gremios. Atr\u00e9vete y cambia de nombre: \u00a1una nueva vida te est\u00e1 esperando!", "\"I macellai dell'apocalisse\" era un nome di alleanza divertente quando avevi quindici anni e sognavi di essere Macellaio, ma non ti ha aiutato n\u00e9 nella tua vita sentimentale, n\u00e9 nel reclutamento di altre gilde. Osa e rinomina l'alleanza, una nuova vita si aprir\u00e0 davanti a te!", "\"Os lenhadores do apocalipse\" era um nome de alian\u00e7a divertido quando voc\u00ea tinha quinze anos e sonhava em ser lenhador. Mas ele n\u00e3o te ajudou muito a melhorar a sua vida sentimental ou na hora de recrutar outras guildas. Ouse trocar o nome da sua alian\u00e7a e comece uma nova vida!", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "114023",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 1203,
+        "key": "SERVICE_COLOR",
+        "name": "Changement de couleurs",
+        "subtitle": null,
+        "description": "Quand ce tailleur d'Amakna vous a propos\u00e9 un prix \u00ab jamais vu \u00bb pour cette combinaison compl\u00e8te verte larve \u00e0 pois rouge gel\u00e9e, vous pensiez faire une tr\u00e8s bonne affaire. Mais maintenant que tout le monde vous surnomme \u00ab Soupauchou \u00bb, vous ne r\u00eavez plus que d'une chose : changer de couleurs !",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement des couleurs",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 683,
+                    "category_id": 12,
+                    "name": "Potion de changement des couleurs",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10861,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-10-25T12:16:06+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement des couleurs", "Colour Change Potion", "Trank zur Farbver\u00e4nderung", "P\u00f3cima de cambio de colores", "Pozione di Cambiamento di Colore", "Po\u00e7\u00e3o de mudan\u00e7a de cores", null, null, null],
+                    "definition_description": ["Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.", "Pink hair, mauve socks, fuchsia skin. Mother Nature wasn't kind to you, but now you've finally got the opportunity to change things. Mustard yellow, here you come!", "Rosa Haare, lila Socken, malvenfarbene Haut; die Natur hat euch vielleicht nicht gerade gesegnet, aber nun k\u00f6nnt ihr dem Abhilfe schaffen. Nun k\u00f6nnt ihr popelgr\u00fcn durchs Leben gehen.", "En la etiqueta se puede leer: \u00ab\u00bfCansado de que te traten de viejo verde? \u00bfTe gustar\u00eda que te vieran como a un pr\u00edncipe azul? \u00a1\u00a1Pues no lo pienses m\u00e1s y usa esta p\u00f3cima!!\u00bb.", "Capelli blu, calzini azzurri, pelle celeste. La natura non ti ha completamente rovinato, ma ora potrai finalmente rimediare. \u00c8 l'occasione che hai sempre sognato per poter vedere la vita nei toni degli escrementi di oca.", "Cabelo rosa, meias roxas, pele f\u00facsia. Talvez a M\u00e3e Natureza n\u00e3o tenha sido muito generosa com voc\u00ea, mas voc\u00ea finalmente vai poder dar um jeito nisso. Agora sim vai ficar tudo azul.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "42862",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 4519,
+        "key": "Changer de visage",
+        "name": "Changement de visage",
+        "subtitle": null,
+        "description": "Quand vous \u00e9tiez jeune, vous trouviez que cette cicatrice sur votre joue \u00e9tait trop cool ?<br \/>\r\nNa\u00efvement, vous pensiez que cela vous donnait un air de mauvais gar\u00e7on et que les Ecaflipettes vous tomberaient dans les bras...<br \/>\r\nMais aujourd'hui, vous vous \u00eates assagi et vous vous sentez plus \"Peace & Love\"... Mais les cicatrices, c'est pour la vie...<br \/>\r\nHeureusement, le Service de Changement de Visage est l\u00e0 pour vous permettre de retrouver des traits qui colleront mieux \u00e0 votre personnalit\u00e9 actuelle !",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": "2012-12-11T11:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/5880\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/5880\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Un ptit coup de lifting, parce que je le veau bien !",
+            "name": "Potion de changement de visage",
+            "free": false,
+            "quantity": "1",
+            "type": "VIRTUALGIFT",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/5880\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/5880\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": [{
+                "image": "https:\/\/static.ankama.com\/dofus\/www\/game\/items\/200\/12739.png",
+                "description": "Un ptit coup de lifting, parce que je le veau bien !",
+                "name": "Potion de changement de visage",
+                "id": "13518"
+            }],
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "102101",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 2732,
+        "key": "SERVICE_GUILD_EMBLEM",
+        "name": "Changement de blason de guilde",
+        "subtitle": null,
+        "description": "<p>Malheur ! Les blasons roses fushia et verts fluos sont pass\u00e9s de mode ! Maintenant, vous avez l\u2019air d\u2019\u00eatre des Has Been ! Pourtant non, votre guilde est \u00e0 la pointe de la mode, et justement, vous allez pouvoir remettre les pendules \u00e0 l\u2019heure avec le service de Changement de Blason de Guilde ! Avec ce service, vous allez pouvoir changer la forme, les couleurs et le logo de votre blason de guilde ! Une fois achet\u00e9, vous allez recevoir une bouteille \u00e0 utiliser en jeu qui vous permettra de donner un petit coup de jeune \u00e0 votre logo.<\/p>\r\n\r\n<p><b><font color=\"red\">Attention : seul le meneur de guilde peut utiliser cet objet. La potion est \u00e9changeable mais li\u00e9e 2 mois \u00e0 votre compte.<\/font><\/b><\/p>\r\n\r\n<p>Si vous \u00eates en train de jouer \u00e0 DOFUS au moment de l\u2019achat, vous devrez vous d\u00e9connecter et vous reconnecter pour attribuer la potion \u00e0 l\u2019un de vos personnages.<\/p>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": "2012-07-11T16:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/2592\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/2592\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Il n'est jamais facile de porter haut les couleurs de sa guilde quand son blason est vert fluo, et son embl\u00e8me de mauvais go\u00fbt. Avec cette potion vous allez enfin pouvoir donner \u00e0 votre guilde un blason \u00e0 la hauteur de vos ambitions de meneur d'hommes.",
+            "name": "Potion de changement de blason de guilde",
+            "free": false,
+            "quantity": "1",
+            "type": "VIRTUALGIFT",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/2592\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/2592\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": [{
+                "image": "https:\/\/static.ankama.com\/dofus\/www\/game\/items\/200\/12747.png",
+                "description": "Il n'est jamais facile de porter haut les couleurs de sa guilde quand son blason est vert fluo, et son embl\u00e8me de mauvais go\u00fbt. Avec cette potion vous allez enfin pouvoir donner \u00e0 votre guilde un blason \u00e0 la hauteur de vos ambitions de meneur d'hommes.",
+                "name": "Potion de changement de blason de guilde",
+                "id": "13270"
+            }],
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "54846",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": null,
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": null,
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 2731,
+        "key": "GUILD_NAME_CHANGE",
+        "name": "Changement de nom de guilde",
+        "subtitle": null,
+        "description": "<p>Votre guilde et vos potes sont super sympa, mais tout le monde se moque de votre nom ? C\u2019est vrai que \u00ab LES CHEUVALIERZ TROLOLO \u00bb c\u2019\u00e9tait cool \u00e0 l\u2019\u00e9poque, mais bizarrement, maintenant, vous vous rendez compte que certains autres joueurs vous \u00e9vitent... Pas de panique : le Changement de Nom de Guilde est l\u00e0 pour vous ! En quelques clics, vous pouvez r\u00e9cup\u00e9rer une potion qui vous permettra de vous renommer comme vous voulez et ainsi de retrouver une vie sociale \u00e9panouie !<\/p>\r\n\r\n<p><br \/>\r\n<b><font color=\"red\">Attention : seul le meneur de guilde peut utiliser cet objet. La potion est \u00e9changeable mais li\u00e9e 2 mois \u00e0 votre compte. <\/font><\/b><\/p>\r\n\r\n<p>i vous \u00eates en train de jouer \u00e0 DOFUS au moment de l\u2019achat, vous devrez vous d\u00e9connecter et vous reconnecter pour attribuer la potion \u00e0 l\u2019un de vos personnages.<\/p>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 700,
+        "startdate": "2012-07-11T11:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13351\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13351\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Potion de renommage de guilde",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13351\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13351\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1543,
+                    "category_id": 12,
+                    "name": "Potion de renommage de guilde",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13273,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:50:34+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion de renommage de guilde", "Guild Renaming Potion", "Gildenumbenennungstrank", "P\u00f3cima de cambio de nombre de gremio", "Pozione di Rinomina di Gilda", "Po\u00e7\u00e3o de mudan\u00e7a de nome de guilda", null, null, null],
+                    "definition_description": ["Une guilde peut avoir du v\u00e9cu, son meneur aussi. Il est toujours difficile d'avoir \u00e0 assumer ses erreurs de jeunesse : un \"sa\" au lieu d'un \"\u00e7a\", \"gay\" \u00e0 la place de \"gai\",  oublier le \"a\" de \"carotte\", un infinitif mal plac\u00e9, autant de raisons de vouloir changer le nom de sa guilde. Et \u00e7a vous est d\u00e9sormais possible !", "It's not exactly easy to take responsibility for the mistakes of your youth. A \"brung\" instead of a \"brought\", a \"lellow\" instead of \"yellow\", not forgetting \"an Iop\" instead of \"a Iop\". But hey, you could always just change your name... This potion will allow you to do just that.", "Gildennamen machen geringf\u00fcgige Jugends\u00fcnden bei der Rechtschreibung zu langanhaltenden \u00c4rgernissen. Zum Gl\u00fcck gibt es jetzt in Form dieses Trankes die M\u00f6glichkeit das Gildenwappen bald wieder voller Stolz \u00fcber dem Kopf zu tragen, ohne vor Scham schier im Boden versinken zu m\u00fcssen!", "Poco importa toda la experiencia y haza\u00f1as de los miembros de un gremio cuando por error, olvido, despiste o simplemente sue\u00f1o, el d\u00eda que se le dio nombre se puso \u00abGaydiadores\u00bb en lugar de \u00abGladiadores\u00bb, \u00abLos Imbecibles\u00bb en lugar de \u00abLos Invencibles\u00bb, \u00abShitman\u00bb en lugar de \u00abHitman\u00bb\u2026 Hay tantas razones para querer cambiar el nombre de tu gremio... \u00a1Y ahora es posible!", "Una gilda pu\u00f2 avere una storia, cos\u00ec come il suo leader. \u00c8 sempre difficile disfarsi degli errori di giovent\u00f9: un \"ke\" al posto di \"che\", un \"o\" al posto di \"ho\", un infinito al posto sbagliato... Sono tanti i motivi per cui vuoi cambiare il nome della tua gilda. Ora \u00e8 possibile!", "Uma guilda pode ser muito vivida e seu l\u00edder tamb\u00e9m. \u00c9 sempre dif\u00edcil ter de assumir os erros de juventude: um \"s\" em vez de \"\u00e7\", \"noz\" em vez de \"n\u00f3s\", mudar o \"u\" de luxo para um \"i\", enfim... muitas raz\u00f5es para querer mudar o nome de sua guilda. E agora \u00e9 poss\u00edvel!", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "54845",
+            "original_price": null,
+            "price": 700,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 4521,
+        "key": "Pack Relooking (Changer de couleurs et de visage)",
+        "name": "Pack Relooking (Changer de couleurs et de visage)",
+        "subtitle": null,
+        "description": "<div>Envie d'un nouveau look pour une nouvelle vie ?<br \/>\r\nLe Pack Relooking vous offre<strong> <\/strong>un<strong> changement de couleurs <\/strong>et un <strong>changement de visage<\/strong> pour un prix r\u00e9duit !<br \/>\r\n<br \/>\r\n- Changer de couleurs = 700 Og.<br \/>\r\n- Changer de visage = 700 Og.<br \/>\r\n- Prix du Pack = 1.300 Og (soit 100 Og de r\u00e9duction)<br \/>\r\n<br \/>\r\nA ce prix, il n'y a plus aucune excuse pour \u00eatre moche...<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"text-center\"><span style=\"color:#c0392b\"><strong>Compatible uniquement avec Dofus 2.0<\/strong><\/span><\/div>\r\n",
+        "currency": "OGR",
+        "original_price": 1400,
+        "price": 1300,
+        "startdate": "2012-12-11T17:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_200_200.png"
+        }],
+        "references": [{
+            "description": "Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement des couleurs",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 683,
+                    "category_id": 12,
+                    "name": "Potion de changement des couleurs",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10861,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-10-25T12:16:06+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement des couleurs", "Colour Change Potion", "Trank zur Farbver\u00e4nderung", "P\u00f3cima de cambio de colores", "Pozione di Cambiamento di Colore", "Po\u00e7\u00e3o de mudan\u00e7a de cores", null, null, null],
+                    "definition_description": ["Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.", "Pink hair, mauve socks, fuchsia skin. Mother Nature wasn't kind to you, but now you've finally got the opportunity to change things. Mustard yellow, here you come!", "Rosa Haare, lila Socken, malvenfarbene Haut; die Natur hat euch vielleicht nicht gerade gesegnet, aber nun k\u00f6nnt ihr dem Abhilfe schaffen. Nun k\u00f6nnt ihr popelgr\u00fcn durchs Leben gehen.", "En la etiqueta se puede leer: \u00ab\u00bfCansado de que te traten de viejo verde? \u00bfTe gustar\u00eda que te vieran como a un pr\u00edncipe azul? \u00a1\u00a1Pues no lo pienses m\u00e1s y usa esta p\u00f3cima!!\u00bb.", "Capelli blu, calzini azzurri, pelle celeste. La natura non ti ha completamente rovinato, ma ora potrai finalmente rimediare. \u00c8 l'occasione che hai sempre sognato per poter vedere la vita nei toni degli escrementi di oca.", "Cabelo rosa, meias roxas, pele f\u00facsia. Talvez a M\u00e3e Natureza n\u00e3o tenha sido muito generosa com voc\u00ea, mas voc\u00ea finalmente vai poder dar um jeito nisso. Agora sim vai ficar tudo azul.", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Potion de changement de visage",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13350\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13350\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1547,
+                    "category_id": 12,
+                    "name": "Potion de changement de visage",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13518,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T16:13:31+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion de changement de visage", "Face Change Potion", "Trank zur Gesichtsumwandlung", "P\u00f3cima de cambio de cara", "Pozione di Cambiamento di Volto", "Po\u00e7\u00e3o de mudan\u00e7a de rosto", null, null, null],
+                    "definition_description": ["Un ptit coup de lifting, parce que je le veau bien !", "A little face-lift never hurt no one. Because we're all worth it!", "Weil ich es mir wert bin\u2026 Ein kleines Lifting hat noch Niemandem geschadet!", "Un peque\u00f1o lifting, \u00a1porque yo lo valgo!", "Un colpetto di lifting, perch\u00e9 tu vali!", "Um pequeno lifting, porque voc\u00ea vale muito!", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14694",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_50_50.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1376923",
+            "original_price": 1400,
+            "price": 1300,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10012,
+        "key": null,
+        "name": "Pack d'autopilotage x3",
+        "subtitle": null,
+        "description": "<p>Cette potion conf\u00e8re \u00e0 une monture la capacit\u00e9 permanente d'autopilotage qui lui permet de se rendre automatiquement \u00e0 la destination indiqu\u00e9e.<\/p>\r\n\r\n<p><u><strong>Utilisation :<\/strong><\/u><\/p>\r\n\r\n<ul>\r\n\t<li>Appliquer la Potion d'Autopilotage\u00a0sur votre monture<\/li>\r\n\t<li>La monture gagne l'habilit\u00e9 de se d\u00e9placer automatiquement d'un point A \u00e0 un point B<\/li>\r\n\t<li>Ouvrez la carte du monde et cliquez droit sur la destination souhait\u00e9e<\/li>\r\n<\/ul>\r\n\r\n<p>Votre monture est capable de prendre les diff\u00e9rents raccourcis autoris\u00e9s dans le jeu. Si l'acc\u00e8s d'une zone n\u00e9cessite de parler \u00e0 un personnage du jeu,\u00a0d'actionner un zaap ou sur certaines zones (exemple : le labyrinthe du Dark Vlad),\u00a0\u00a0elle n'est pas assez intelligente pour le faire !\u00a0<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>La potion d\u2019autopilotage n\u2019est pas utilisable sur les montiliers, ces derniers ne sont pas consid\u00e9r\u00e9s comme des montures.<\/em><\/p>\r\n\r\n<p><em>La capacit\u00e9 d'autopilotage n'est pas un g\u00eane h\u00e9r\u00e9ditaire.<\/em><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 21.5,
+        "startdate": "2017-12-15T10:30:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10012\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10012\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Potion d'autopilotage",
+            "free": false,
+            "quantity": "3",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1540,
+                    "category_id": 12,
+                    "name": "Potion d'autopilotage",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19349,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:33:36+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion d'autopilotage", "Globally Pre-Sentient Potion", "Navigationstrank", "P\u00f3cima de autopilotaje", "Pozione da Pilota Automatico", "Po\u00e7\u00e3o de Piloto Autom\u00e1tico", null, null, null],
+                    "definition_description": ["Cette potion conf\u00e8re \u00e0 une monture la capacit\u00e9 permanente d'autopilotage qui lui permet de se rendre automatiquement \u00e0 la destination indiqu\u00e9e.", "This potion makes mounts Globally Pre-Sentient, giving them the ability to reach destinations shown to them automatically.", "Dieser Trank verleiht einem Reittier die Autopilot-F\u00e4higkeit, mit der es immer automatisch den angegebenen Zielort aufsucht.", "Esta p\u00f3cima confiere a una montura la habilidad permanente de autopilotaje, que le permite acudir autom\u00e1ticamente al destino indicado.", "Questa pozione conferisce alla cavalcatura la capacit\u00e0 permanente \"Autopilotata\" che le permette di andare automaticamente alla destinazione indicata.", "Esta po\u00e7\u00e3o deixa a montaria no piloto autom\u00e1tico de forma permanente, possibilitando que ela v\u00e1 automaticamente ao destino indicado.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14701",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10012\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "391587",
+            "original_price": null,
+            "price": 12000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975693",
+            "original_price": null,
+            "price": 20,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10009,
+        "key": null,
+        "name": "Autopilotage",
+        "subtitle": null,
+        "description": "<p>Cette potion conf\u00e8re \u00e0 une monture la capacit\u00e9 permanente d'autopilotage qui lui permet de se rendre automatiquement \u00e0 la destination indiqu\u00e9e.\u00a0<\/p>\r\n\r\n<p><u><strong>Utilisation :<\/strong><\/u><\/p>\r\n\r\n<ul>\r\n\t<li>Appliquer la Potion d'Autopilotage\u00a0sur votre monture<\/li>\r\n\t<li>La monture gagne l'habilit\u00e9 de se d\u00e9placer automatiquement d'un point A \u00e0 un point B<\/li>\r\n\t<li>Ouvrez la carte du monde et cliquez droit sur la destination souhait\u00e9e<\/li>\r\n<\/ul>\r\n\r\n<p>Votre monture est capable de prendre les diff\u00e9rents raccourcis autoris\u00e9s dans le jeu. Si l'acc\u00e8s d'une zone n\u00e9cessite de parler \u00e0 un personnage du jeu,\u00a0d'actionner un zaap ou sur certaines zones (exemple : le labyrinthe du Dark Vlad),\u00a0\u00a0elle n'est pas assez intelligente pour le faire !\u00a0<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>*La potion d\u2019autopilotage n\u2019est pas utilisable sur les montiliers, ces derniers ne sont pas consid\u00e9r\u00e9s comme des montures.<\/em><\/p>\r\n\r\n<p><em>La capacit\u00e9 d'autopilotage n'est pas un g\u00eane h\u00e9r\u00e9ditaire.<\/em><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 10.5,
+        "startdate": "2017-12-15T10:15:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Potion d'autopilotage",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13347\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1540,
+                    "category_id": 12,
+                    "name": "Potion d'autopilotage",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19349,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:33:36+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion d'autopilotage", "Globally Pre-Sentient Potion", "Navigationstrank", "P\u00f3cima de autopilotaje", "Pozione da Pilota Automatico", "Po\u00e7\u00e3o de Piloto Autom\u00e1tico", null, null, null],
+                    "definition_description": ["Cette potion conf\u00e8re \u00e0 une monture la capacit\u00e9 permanente d'autopilotage qui lui permet de se rendre automatiquement \u00e0 la destination indiqu\u00e9e.", "This potion makes mounts Globally Pre-Sentient, giving them the ability to reach destinations shown to them automatically.", "Dieser Trank verleiht einem Reittier die Autopilot-F\u00e4higkeit, mit der es immer automatisch den angegebenen Zielort aufsucht.", "Esta p\u00f3cima confiere a una montura la habilidad permanente de autopilotaje, que le permite acudir autom\u00e1ticamente al destino indicado.", "Questa pozione conferisce alla cavalcatura la capacit\u00e0 permanente \"Autopilotata\" che le permette di andare automaticamente alla destinazione indicata.", "Esta po\u00e7\u00e3o deixa a montaria no piloto autom\u00e1tico de forma permanente, possibilitando que ela v\u00e1 automaticamente ao destino indicado.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "391586",
+            "original_price": null,
+            "price": 6000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975610",
+            "original_price": null,
+            "price": 9.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9968,
+        "key": null,
+        "name": "Pack de 4 Mimibiotes",
+        "subtitle": null,
+        "description": "<p>Cette cr\u00e9ature prot\u00e9iforme absorbe l'apparence de l'unique repas de sa vie, avant de former une relation symbiotique fusionnelle sur un objet h\u00f4te du m\u00eame type que son repas. Quand le mimibiote est retir\u00e9 de force de son h\u00f4te il perd ses capacit\u00e9s adh\u00e9sives \u00e0 tout jamais, c'est pourquoi la plupart de ses utilisateurs le rel\u00e2che apr\u00e8s usage, sans m\u00eame verser une petite larme.<br \/>\r\n<br \/>\r\nLe Mimibiote vous permet de donner \u00e0 un objet l'apparence d'un autre objet du m\u00eame type et de niveau inf\u00e9rieur ou \u00e9gal au sien.<br \/>\r\nAttention, l'objet dont l'apparence sera copi\u00e9e sera d\u00e9truit dans le processus.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><strong><em>*Les mimibiotes sont li\u00e9s deux mois (au compte) \u00e0 partir de leur date d\u2019obtention. Lorsqu\u2019ils sont associ\u00e9s \u00e0 un objet, ils appliquent cette liaison de deux mois \u00e0 l\u2019objet final, ce qui signifie qu\u2019un objet non li\u00e9 peut se retrouver li\u00e9 deux mois (au compte) si vous lui associez un nouveau mimibiote.\u00a0Cette liaison peut \u00eatre supprim\u00e9e en effa\u00e7ant le mimibiote de l\u2019objet (le mimibiote sera alors d\u00e9finitivement d\u00e9truit).<\/em><\/strong><\/p>\r\n",
+        "currency": "OGR",
+        "original_price": 9000,
+        "price": 5000,
+        "startdate": "2017-11-24T12:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9968\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9968\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Mimibiote x4",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13349\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13349\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1546,
+                    "category_id": 12,
+                    "name": "Mimibiote x4",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 14485,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 4
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:55:40+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Mimibiote x4", "Mimisymbic x4", "Mimibiont x4", "Mimobionte x4", "Mimibio x4", "Mimibi\u00f3tico x4", null, null, null],
+                    "definition_description": ["Cette cr\u00e9ature prot\u00e9iforme absorbe l'apparence de l'unique repas de sa vie, avant de former une relation symbiotique fusionnelle sur un objet h\u00f4te du m\u00eame type que son repas. Quand le mimibiote est retir\u00e9 de force de son h\u00f4te, il perd ses capacit\u00e9s adh\u00e9sives \u00e0 tout jamais, c'est pourquoi la plupart de ses utilisateurs le rel\u00e2chent apr\u00e8s usage, sans m\u00eame verser une petite larme.", "This shape-shifting creature absorbs the appearance of the only meal it has in its life before forming a fusional symbiotic relationship with a host item of the same type. When the Mimisymbic is removed from its host by force, it loses its adhesive powers and shrivels up into a sad little ball of no use to anyone. Awww.", "Diese vielf\u00f6rmige Kreatur ist in der Lage, ein einziges Mal w\u00e4hrend seiner Existenz einen bestimmten Gegenstand bis ins kleinste Detail zu imitieren. Dabei wird dieser allerdings verzehrt, doch der Mimibiont kann dessen Aussehen bei einem beliebigen anderen Gegenstand zuverl\u00e4ssig reproduzieren. Wird er jedoch von diesem entfernt, verliert er all seine F\u00e4higkeiten. Deshalb wird er dann auch von den meisten Anwendern einfach aufgegeben.", "Esta criatura proteiforme adopta la apariencia del \u00fanico almuerzo de su vida antes de formar una relaci\u00f3n simbi\u00f3tica con el objeto hu\u00e9sped del mismo tipo que su almuerzo. Cuando se obliga a un mimobionte a separarse por la fuerza de su hu\u00e9sped, pierde su capacidad adherente para siempre. Por eso, la mayor\u00eda de los usuarios lo desechan tras usarlo, sin tan siquiera echar una lagrimita.", "Questa creatura proteiforme assorbe l'apparenza dell'unico pasto della sua vita, prima di formare una relazione simbiotica fusionale su un oggetto ospite dello stesso tipo del suo pasto. Quando il Mimibio \u00e8 rimosso con la forza dal suo ospite, perde per sempre le sue capacit\u00e0 adesive, motivo per cui la maggior parte dei suoi utilizzatori lo getta dopo l'uso senza versare neanche una lacrimuccia.", "Esta criatura proteiforme adota a apar\u00eancia da \u00fanica refei\u00e7\u00e3o da sua vida, antes de formar uma rela\u00e7\u00e3o simbi\u00f3tica com um item hospedeiro do mesmo tipo da sua refei\u00e7\u00e3o. Quando o mimibi\u00f3tico \u00e9 retirado \u00e0 for\u00e7a do seu hospedeiro, ele perde suas capacidades adesivas para sempre. Por isso, a maioria dos usu\u00e1rios o abandonam depois de us\u00e1-los, sem derramar uma l\u00e1grima sequer.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12917",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9968\/gallery_all_50_50.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "55",
+            "key": "dofus_supertype",
+            "name": "super type",
+            "metas": [{
+                "id": "415",
+                "key": "dofus_supertype_6",
+                "name": "Objet utilisable"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1376922",
+            "original_price": 9000,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7814,
+        "key": null,
+        "name": "Bundle \"Nouvelle vie\"",
+        "subtitle": null,
+        "description": "<p>Ce pack contient :<\/p>\r\n\r\n<ul>\r\n\t<li>Une potion pour changer de sexe<\/li>\r\n\t<li>Une potion pour changer de couleur<\/li>\r\n\t<li>\r\n\t<p>Une potion pour changer de nom\u00a0de personnage.\u00a0<\/p>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p>*Attention : en jeu, une seule potion peut \u00eatre consomm\u00e9e \u00e0 la fois.<\/p>\r\n\r\n<p>Les potions du bundle seront\u00a0li\u00e9es \u00e0 votre compte pendant 2 mois.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 9.05,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7814\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7814\/gallery_fr_200_200.png"
+        }],
+        "references": [{
+            "description": "Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement des couleurs",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 683,
+                    "category_id": 12,
+                    "name": "Potion de changement des couleurs",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10861,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-10-25T12:16:06+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement des couleurs", "Colour Change Potion", "Trank zur Farbver\u00e4nderung", "P\u00f3cima de cambio de colores", "Pozione di Cambiamento di Colore", "Po\u00e7\u00e3o de mudan\u00e7a de cores", null, null, null],
+                    "definition_description": ["Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.", "Pink hair, mauve socks, fuchsia skin. Mother Nature wasn't kind to you, but now you've finally got the opportunity to change things. Mustard yellow, here you come!", "Rosa Haare, lila Socken, malvenfarbene Haut; die Natur hat euch vielleicht nicht gerade gesegnet, aber nun k\u00f6nnt ihr dem Abhilfe schaffen. Nun k\u00f6nnt ihr popelgr\u00fcn durchs Leben gehen.", "En la etiqueta se puede leer: \u00ab\u00bfCansado de que te traten de viejo verde? \u00bfTe gustar\u00eda que te vieran como a un pr\u00edncipe azul? \u00a1\u00a1Pues no lo pienses m\u00e1s y usa esta p\u00f3cima!!\u00bb.", "Capelli blu, calzini azzurri, pelle celeste. La natura non ti ha completamente rovinato, ma ora potrai finalmente rimediare. \u00c8 l'occasione che hai sempre sognato per poter vedere la vita nei toni degli escrementi di oca.", "Cabelo rosa, meias roxas, pele f\u00facsia. Talvez a M\u00e3e Natureza n\u00e3o tenha sido muito generosa com voc\u00ea, mas voc\u00ea finalmente vai poder dar um jeito nisso. Agora sim vai ficar tudo azul.", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cette potion \u00e0 boire directement au goulot vous permettra de devenir lui si vous \u00e9tiez elle ou de devenir elle si vous \u00e9tiez lui. \u00c0 consommer sans mod\u00e9ration.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement de sexe",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 717,
+                    "category_id": 12,
+                    "name": "Potion de changement de sexe",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10862,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-12-17T11:00:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement de sexe", "Sex Change Potion", "Trank zur Geschlechtsumwandlung", "P\u00f3cima de cambio de sexo", "Pozione di Cambiamento di Sesso", "Po\u00e7\u00e3o de mudan\u00e7a de sexo", null, null, null],
+                    "definition_description": ["Cette potion \u00e0 boire directement au goulot vous permettra de devenir lui si vous \u00e9tiez elle ou de devenir elle si vous \u00e9tiez lui. \u00c0 consommer sans mod\u00e9ration.", "This potion, to be drunk directly from the bottle, will allow you to become him if you were her, or to become her if you were him. To be consumed without moderation.", "Dieser Trank wird direkt aus der Flasche getrunken und erlaubt euch aus einem er eine sie zu machen und umgekehrt. Darf ungem\u00e4ssigt genossen werden.", "Esta p\u00f3cima, que se bebe a morro, te har\u00e1 que seas \u00e9l si eres ella o que seas ella si eres \u00e9l.\r\n\u00a1Atenci\u00f3n! El abuso de su consumo no perjudica la salud.", "Questa pozione, da bere direttamente alla bottiglia, ti permetter\u00e0 di diventare un lui se sei una lei, o di diventare una lei se sei un lui. Da bere senza moderazione.", "Com esta po\u00e7\u00e3o, voc\u00ea virar\u00e1 \"ela\" se era \"ele\" ou \"ele\" se era \"ela\". Deve ser consumida com modera\u00e7\u00e3o.", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cette potion permet de changer de nom. Plus personne ne se souviendra que vous vous appeliez Xx-Roxxor-naruto-killer-f\u00e9ca-xX. Une nouvelle vie sans moquerie s'offre \u00e0 vous. Vous allez enfin devenir quelqu'un.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement de nom",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 718,
+                    "category_id": 12,
+                    "name": "Potion de changement de nom",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10860,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-12-17T11:01:06+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement de nom", "Name Change Potion", "Trank der Namens\u00e4nderung", "P\u00f3cima de cambio de nombre", "Pozione di Cambiamento di Nome", "Po\u00e7\u00e3o de mudan\u00e7a de nome", null, null, null],
+                    "definition_description": ["Cette potion permet de changer de nom. Plus personne ne se souviendra que vous vous appeliez Xx-Roxxor-naruto-killer-f\u00e9ca-xX. Une nouvelle vie sans moquerie s'offre \u00e0 vous. Vous allez enfin devenir quelqu'un.", "You can use this potion to change your name. No one will remember that you used to be called Xx-Haxor-naruto-killer-feca-xX-pl. A new life, free from teasing and name-calling, awaits you. Finally, you will be someone.", "Mit diesem Trank k\u00f6nnt ihr euren Namen \u00e4ndern. Niemand wird sich mehr daran erinnern, dass ihr Xx-Roxxor-naruto-killer-f\u00e9ca-xX geheissen habt. Ein neues Leben ohne H\u00e4nseleien steht euch bevor, endlich werdet ihr Jemand sein.", "Con esta p\u00f3cima podr\u00e1s cambiar de nombre, as\u00ed ya nadie se acordar\u00e1 de que hubo un tiempo en que te llamaste Xx-naruto-killer-feca-xX. Podr\u00e1s disfrutar de una nueva vida, sin bromas de mal gusto, y por fin llegar a ser alguien.", "Questa pozione permette di cambiare nome. Nessuno si ricorder\u00e0 che ti chiamavi Xx-Roxxor-naruto-killer-feca-xX. Una nuova vita senza prese in giro ti si apre davanti. Potrai finalmente diventare qualcuno.", "Voc\u00ea pode usar esta po\u00e7\u00e3o para trocar o seu nome. Ningu\u00e9m se lembrar\u00e1 de que voc\u00ea costumava se chamar Xx-naruto-matador-feca-xX-Br-Hue. Uma nova vida, livre de piadinhas e zombarias, o aguarda. Finalmente voc\u00ea ser\u00e1 algu\u00e9m na vida.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14690",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7814\/gallery_fr_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "393242",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972337",
+            "original_price": null,
+            "price": 8,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7806,
+        "key": "SERVICE_SEX2",
+        "name": "Changement de sexe",
+        "subtitle": null,
+        "description": "<p>Vous avez constat\u00e9 que votre nature profonde n'\u00e9tait finalement pas en accord avec votre apparence ext\u00e9rieure ? Vous avez de la chance ! Otoma\u00ef,<font color=\"#000000\" face=\"arial, serif\">\u00a0<\/font>savant fou devant l'\u00e9ternel, vous propose ici un miracle : r\u00e9concilier votre nature interne avec l'ext\u00e9rieur !<\/p>\r\n\r\n<p>La potion sera li\u00e9e \u00e0 votre compte pendant 2 mois.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.7,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cette potion \u00e0 boire directement au goulot vous permettra de devenir lui si vous \u00e9tiez elle ou de devenir elle si vous \u00e9tiez lui. \u00c0 consommer sans mod\u00e9ration.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement de sexe",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12393\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 717,
+                    "category_id": 12,
+                    "name": "Potion de changement de sexe",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10862,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-12-17T11:00:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement de sexe", "Sex Change Potion", "Trank zur Geschlechtsumwandlung", "P\u00f3cima de cambio de sexo", "Pozione di Cambiamento di Sesso", "Po\u00e7\u00e3o de mudan\u00e7a de sexo", null, null, null],
+                    "definition_description": ["Cette potion \u00e0 boire directement au goulot vous permettra de devenir lui si vous \u00e9tiez elle ou de devenir elle si vous \u00e9tiez lui. \u00c0 consommer sans mod\u00e9ration.", "This potion, to be drunk directly from the bottle, will allow you to become him if you were her, or to become her if you were him. To be consumed without moderation.", "Dieser Trank wird direkt aus der Flasche getrunken und erlaubt euch aus einem er eine sie zu machen und umgekehrt. Darf ungem\u00e4ssigt genossen werden.", "Esta p\u00f3cima, que se bebe a morro, te har\u00e1 que seas \u00e9l si eres ella o que seas ella si eres \u00e9l.\r\n\u00a1Atenci\u00f3n! El abuso de su consumo no perjudica la salud.", "Questa pozione, da bere direttamente alla bottiglia, ti permetter\u00e0 di diventare un lui se sei una lei, o di diventare una lei se sei un lui. Da bere senza moderazione.", "Com esta po\u00e7\u00e3o, voc\u00ea virar\u00e1 \"ela\" se era \"ele\" ou \"ele\" se era \"ela\". Deve ser consumida com modera\u00e7\u00e3o.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "812534",
+            "original_price": null,
+            "price": 2800,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972226",
+            "original_price": null,
+            "price": 5,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7803,
+        "key": "SERVICE_NAME2",
+        "name": "Changement de nom de personnage",
+        "subtitle": null,
+        "description": "<p>On a tous fait des erreurs de jeunesse, mais la v\u00f4tre est maintenant trop lourde \u00e0 porter ? Notre fine \u00e9quipe de bureaucrates bontariens et br\u00e2kmariens vous propose d'aller trifouiller dans votre \u00e9tat civil pour enfin effacer tout ce pass\u00e9 en changeant votre nom ! Avec ce service, un nouveau nom - et la nouvelle vie qui va avec - vous tend les bras !<\/p>\r\n\r\n<p>La potion sera li\u00e9e \u00e0 votre compte pendant 2 mois.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.65,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cette potion permet de changer de nom. Plus personne ne se souviendra que vous vous appeliez Xx-Roxxor-naruto-killer-f\u00e9ca-xX. Une nouvelle vie sans moquerie s'offre \u00e0 vous. Vous allez enfin devenir quelqu'un.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement de nom",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12394\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 718,
+                    "category_id": 12,
+                    "name": "Potion de changement de nom",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10860,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-12-17T11:01:06+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement de nom", "Name Change Potion", "Trank der Namens\u00e4nderung", "P\u00f3cima de cambio de nombre", "Pozione di Cambiamento di Nome", "Po\u00e7\u00e3o de mudan\u00e7a de nome", null, null, null],
+                    "definition_description": ["Cette potion permet de changer de nom. Plus personne ne se souviendra que vous vous appeliez Xx-Roxxor-naruto-killer-f\u00e9ca-xX. Une nouvelle vie sans moquerie s'offre \u00e0 vous. Vous allez enfin devenir quelqu'un.", "You can use this potion to change your name. No one will remember that you used to be called Xx-Haxor-naruto-killer-feca-xX-pl. A new life, free from teasing and name-calling, awaits you. Finally, you will be someone.", "Mit diesem Trank k\u00f6nnt ihr euren Namen \u00e4ndern. Niemand wird sich mehr daran erinnern, dass ihr Xx-Roxxor-naruto-killer-f\u00e9ca-xX geheissen habt. Ein neues Leben ohne H\u00e4nseleien steht euch bevor, endlich werdet ihr Jemand sein.", "Con esta p\u00f3cima podr\u00e1s cambiar de nombre, as\u00ed ya nadie se acordar\u00e1 de que hubo un tiempo en que te llamaste Xx-naruto-killer-feca-xX. Podr\u00e1s disfrutar de una nueva vida, sin bromas de mal gusto, y por fin llegar a ser alguien.", "Questa pozione permette di cambiare nome. Nessuno si ricorder\u00e0 che ti chiamavi Xx-Roxxor-naruto-killer-feca-xX. Una nuova vita senza prese in giro ti si apre davanti. Potrai finalmente diventare qualcuno.", "Voc\u00ea pode usar esta po\u00e7\u00e3o para trocar o seu nome. Ningu\u00e9m se lembrar\u00e1 de que voc\u00ea costumava se chamar Xx-naruto-matador-feca-xX-Br-Hue. Uma nova vida, livre de piadinhas e zombarias, o aguarda. Finalmente voc\u00ea ser\u00e1 algu\u00e9m na vida.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "825601",
+            "original_price": null,
+            "price": 2800,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972130",
+            "original_price": null,
+            "price": 5,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5289,
+        "key": null,
+        "name": "Mimibiote",
+        "subtitle": null,
+        "description": "<p><span style=\"color:#000000\">Cette cr\u00e9ature prot\u00e9iforme absorbe l'apparence de l'unique repas de sa vie, avant de former une relation symbiotique fusionnelle sur un objet h\u00f4te du m\u00eame type que son repas. Quand le mimibiote est retir\u00e9 de force de son h\u00f4te il perd ses capacit\u00e9s adh\u00e9sives \u00e0 tout jamais, c'est pourquoi la plupart de ses utilisateurs le rel\u00e2che apr\u00e8s usage, sans m\u00eame verser une petite larme.<\/span><br \/>\r\n<br \/>\r\nLe Mimibiote vous permet de donner \u00e0 un objet l'apparence d'un autre objet du m\u00eame type et de niveau inf\u00e9rieur ou \u00e9gal au sien.<br \/>\r\nAttention, l'objet dont l'apparence sera copi\u00e9e sera d\u00e9truit dans le processus.<\/p>\r\n\r\n<p><strong><em>*Les mimibiotes sont li\u00e9s deux mois (au compte) \u00e0 partir de leur date d\u2019obtention. Lorsqu\u2019ils sont associ\u00e9s \u00e0 un objet, ils appliquent cette liaison de deux mois \u00e0 l\u2019objet final, ce qui signifie qu\u2019un objet non li\u00e9 peut se retrouver li\u00e9 deux mois (au compte) si vous lui associez un nouveau mimibiote.\u00a0Cette liaison peut \u00eatre supprim\u00e9e en effa\u00e7ant le mimibiote de l\u2019objet (le mimibiote sera alors d\u00e9finitivement d\u00e9truit).<\/em><\/strong><\/p>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 2400,
+        "startdate": "2013-08-21T00:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13348\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13348\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Mimibiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13348\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13348\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1541,
+                    "category_id": 12,
+                    "name": "Mimibiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 14485,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T15:49:41+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Mimibiote", "Mimisymbic", "Mimibiont", "Mimobionte", "Mimibio", "Mimibi\u00f3tico", null, null, null],
+                    "definition_description": ["Cette cr\u00e9ature prot\u00e9iforme absorbe l'apparence de l'unique repas de sa vie, avant de former une relation symbiotique fusionnelle sur un objet h\u00f4te du m\u00eame type que son repas. Quand le mimibiote est retir\u00e9 de force de son h\u00f4te, il perd ses capacit\u00e9s adh\u00e9sives \u00e0 tout jamais, c'est pourquoi la plupart de ses utilisateurs le rel\u00e2chent apr\u00e8s usage, sans m\u00eame verser une petite larme.", "This shape-shifting creature absorbs the appearance of the only meal it has in its life before forming a fusional symbiotic relationship with a host item of the same type. When the Mimisymbic is removed from its host by force, it loses its adhesive powers and shrivels up into a sad little ball of no use to anyone. Awww.", "Diese vielf\u00f6rmige Kreatur ist in der Lage, ein einziges Mal w\u00e4hrend seiner Existenz einen bestimmten Gegenstand bis ins kleinste Detail zu imitieren. Dabei wird dieser allerdings verzehrt, doch der Mimibiont kann dessen Aussehen bei einem beliebigen anderen Gegenstand zuverl\u00e4ssig reproduzieren. Wird er jedoch von diesem entfernt, verliert er all seine F\u00e4higkeiten. Deshalb wird er dann auch von den meisten Anwendern einfach aufgegeben.", "Esta criatura proteiforme adopta la apariencia del \u00fanico almuerzo de su vida antes de formar una relaci\u00f3n simbi\u00f3tica con el objeto hu\u00e9sped del mismo tipo que su almuerzo. Cuando se obliga a un mimobionte a separarse por la fuerza de su hu\u00e9sped, pierde su capacidad adherente para siempre. Por eso, la mayor\u00eda de los usuarios lo desechan tras usarlo, sin tan siquiera echar una lagrimita.", "Questa creatura proteiforme assorbe l'apparenza dell'unico pasto della sua vita, prima di formare una relazione simbiotica fusionale su un oggetto ospite dello stesso tipo del suo pasto. Quando il Mimibio \u00e8 rimosso con la forza dal suo ospite, perde per sempre le sue capacit\u00e0 adesive, motivo per cui la maggior parte dei suoi utilizzatori lo getta dopo l'uso senza versare neanche una lacrimuccia.", "Esta criatura proteiforme adota a apar\u00eancia da \u00fanica refei\u00e7\u00e3o da sua vida, antes de formar uma rela\u00e7\u00e3o simbi\u00f3tica com um item hospedeiro do mesmo tipo da sua refei\u00e7\u00e3o. Quando o mimibi\u00f3tico \u00e9 retirado \u00e0 for\u00e7a do seu hospedeiro, ele perde suas capacidades adesivas para sempre. Por isso, a maioria dos usu\u00e1rios o abandonam depois de us\u00e1-los, sem derramar uma l\u00e1grima sequer.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "55",
+            "key": "dofus_supertype",
+            "name": "super type",
+            "metas": [{
+                "id": "415",
+                "key": "dofus_supertype_6",
+                "name": "Objet utilisable"
+            }]
+        }],
+        "pricelist": [{
+            "id": "114142",
+            "original_price": null,
+            "price": 2400,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

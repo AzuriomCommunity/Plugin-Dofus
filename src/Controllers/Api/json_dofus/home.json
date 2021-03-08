@@ -1,0 +1,1350 @@
+{
+    "categories": [{
+        "id": 558,
+        "key": null,
+        "name": "Abonnements",
+        "displaymode": "MOSAIC",
+        "description": null,
+        "url": "https:\/\/static.ankama.com\/shops\/img\/category\/558\/picto_all_64_64.png",
+        "child": []
+    }, {
+        "id": 618,
+        "key": null,
+        "name": "Ogrines",
+        "displaymode": "MOSAIC",
+        "description": null,
+        "url": "https:\/\/static.ankama.com\/shops\/img\/category\/618\/picto_all_64_64.png",
+        "child": []
+    }, {
+        "id": 498,
+        "key": "SERVICES_DOFUS_INGAME",
+        "name": "Services",
+        "displaymode": "MOSAIC",
+        "description": null,
+        "url": "https:\/\/static.ankama.com\/shops\/img\/category\/498\/picto_all_64_64.png",
+        "child": []
+    }, {
+        "id": 327,
+        "key": "ITEMS_DOFUS_INGAME",
+        "name": "Objets en jeu",
+        "displaymode": "MOSAIC",
+        "description": null,
+        "url": "https:\/\/static.ankama.com\/shops\/img\/category\/327\/picto_all_64_64.png",
+        "child": [{
+            "id": 346,
+            "key": null,
+            "name": "Attitudes",
+            "displaymode": "LIST",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/346\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 366,
+            "key": null,
+            "name": "Compagnons",
+            "displaymode": "LIST",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/366\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 624,
+            "key": null,
+            "name": "Coups Fatals",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/624\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 691,
+            "key": null,
+            "name": "Familiers",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/691\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 598,
+            "key": null,
+            "name": "Harnachements",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/598\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 572,
+            "key": null,
+            "name": "Havres-Sacs",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/572\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 582,
+            "key": null,
+            "name": "Blind Box",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/582\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 489,
+            "key": null,
+            "name": "Objets Vivants",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/489\/picto_all_64_64.png",
+            "child": []
+        }, {
+            "id": 328,
+            "key": null,
+            "name": "Panoplies d'apparat",
+            "displaymode": "MOSAIC",
+            "description": null,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/category\/328\/picto_all_64_64.png",
+            "child": []
+        }]
+    }, {
+        "id": 690,
+        "key": null,
+        "name": "Packs",
+        "displaymode": "MOSAIC",
+        "description": null,
+        "url": null,
+        "child": []
+    }],
+    "gondolahead_main": [],
+    "gondolahead_article": [{
+        "id": 4521,
+        "key": "Pack Relooking (Changer de couleurs et de visage)",
+        "name": "Pack Relooking (Changer de couleurs et de visage)",
+        "subtitle": null,
+        "description": "<div>Envie d'un nouveau look pour une nouvelle vie ?<br \/>\r\nLe Pack Relooking vous offre<strong> <\/strong>un<strong> changement de couleurs <\/strong>et un <strong>changement de visage<\/strong> pour un prix r\u00e9duit !<br \/>\r\n<br \/>\r\n- Changer de couleurs = 700 Og.<br \/>\r\n- Changer de visage = 700 Og.<br \/>\r\n- Prix du Pack = 1.300 Og (soit 100 Og de r\u00e9duction)<br \/>\r\n<br \/>\r\nA ce prix, il n'y a plus aucune excuse pour \u00eatre moche...<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"text-center\"><span style=\"color:#c0392b\"><strong>Compatible uniquement avec Dofus 2.0<\/strong><\/span><\/div>\r\n",
+        "currency": "OGR",
+        "original_price": 1400,
+        "price": 1300,
+        "startdate": "2012-12-11T17:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_200_200.png"
+        }],
+        "references": [{
+            "description": "Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Potion de changement des couleurs",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12395\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 683,
+                    "category_id": 12,
+                    "name": "Potion de changement des couleurs",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 10861,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2019-10-25T12:16:06+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Potion de changement des couleurs", "Colour Change Potion", "Trank zur Farbver\u00e4nderung", "P\u00f3cima de cambio de colores", "Pozione di Cambiamento di Colore", "Po\u00e7\u00e3o de mudan\u00e7a de cores", null, null, null],
+                    "definition_description": ["Du rose pour les cheveux, du mauve pour les chaussettes et du fuchsia pour la peau. La nature ne vous a peut-\u00eatre pas g\u00e2t\u00e9, mais vous avez enfin l'opportunit\u00e9 d'y rem\u00e9dier. L'occasion r\u00eav\u00e9e pour voir la vie en caca d'oie.", "Pink hair, mauve socks, fuchsia skin. Mother Nature wasn't kind to you, but now you've finally got the opportunity to change things. Mustard yellow, here you come!", "Rosa Haare, lila Socken, malvenfarbene Haut; die Natur hat euch vielleicht nicht gerade gesegnet, aber nun k\u00f6nnt ihr dem Abhilfe schaffen. Nun k\u00f6nnt ihr popelgr\u00fcn durchs Leben gehen.", "En la etiqueta se puede leer: \u00ab\u00bfCansado de que te traten de viejo verde? \u00bfTe gustar\u00eda que te vieran como a un pr\u00edncipe azul? \u00a1\u00a1Pues no lo pienses m\u00e1s y usa esta p\u00f3cima!!\u00bb.", "Capelli blu, calzini azzurri, pelle celeste. La natura non ti ha completamente rovinato, ma ora potrai finalmente rimediare. \u00c8 l'occasione che hai sempre sognato per poter vedere la vita nei toni degli escrementi di oca.", "Cabelo rosa, meias roxas, pele f\u00facsia. Talvez a M\u00e3e Natureza n\u00e3o tenha sido muito generosa com voc\u00ea, mas voc\u00ea finalmente vai poder dar um jeito nisso. Agora sim vai ficar tudo azul.", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Potion de changement de visage",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13350\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13350\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1547,
+                    "category_id": 12,
+                    "name": "Potion de changement de visage",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13518,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T16:13:31+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Potion de changement de visage", "Face Change Potion", "Trank zur Gesichtsumwandlung", "P\u00f3cima de cambio de cara", "Pozione di Cambiamento di Volto", "Po\u00e7\u00e3o de mudan\u00e7a de rosto", null, null, null],
+                    "definition_description": ["Un ptit coup de lifting, parce que je le veau bien !", "A little face-lift never hurt no one. Because we're all worth it!", "Weil ich es mir wert bin\u2026 Ein kleines Lifting hat noch Niemandem geschadet!", "Un peque\u00f1o lifting, \u00a1porque yo lo valgo!", "Un colpetto di lifting, perch\u00e9 tu vali!", "Um pequeno lifting, porque voc\u00ea vale muito!", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14694",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4521\/gallery_fr_50_50.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "410",
+                "key": null,
+                "name": "Service Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1376923",
+            "original_price": 1400,
+            "price": 1300,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": 498,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 13136,
+        "key": null,
+        "name": "Apparats Bal et Masque",
+        "subtitle": null,
+        "description": "<div>Avec cette panoplie, vous passerez incognito dans les plus prestigieuses f\u00eates du Monde des Douze. Profitez-en pour vous adonner \u00e0 toutes sortes de m\u00e9faits. (D\u00e9posez ces items sur des \u00e9quipements\u00a0d\u00e9j\u00e0 \u00e9quip\u00e9s pour transmettre leurs apparences)<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div><strong>Ses\u00a0couleurs s\u2019adapteront\u00a0\u00e0 celles de votre personnage !<\/strong><\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div><em>*Ces objets seront li\u00e9s au compte pendant 182 jours.\u00a0<\/em><\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div><em><img alt=\"\" src=\"http:\/\/static.ankama.com\/upload\/backoffice\/direct\/2021-02-16\/0cc1f2dc840dba3578db88afa9fd146d.gif\" \/><\/em><\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 9.99,
+        "startdate": "2021-02-16T09:00:00+01:00",
+        "enddate": "2021-03-18T00:00:00+01:00",
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13136\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13136\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Panoplie d\u2019apparat Bal et Masque",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13389\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13389\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1570,
+                    "category_id": 18,
+                    "name": "Panoplie d\u2019apparat Bal et Masque",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24951,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24952,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24953,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24954,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-02-15T11:39:05+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2021-02-15T11:56:06+01:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["panoplie d\u2019apparat Bal et Masque", "Ceremonial Mask Parade Set", "Prunkset Maskenball", "Set cosm\u00e9tico Baile y m\u00e1scara", "Panoplia di gala Ballo e Maschera", "Conjunto de apar\u00eancia Baile e M\u00e1scara", null, null, null],
+                    "definition_description": ["Avec cette panoplie, vous passerez incognito dans les plus prestigieuses f&ecirc;tes du Monde des Douze. Profitez-en pour vous adonner &agrave; toutes sortes de m&eacute;faits. (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "Go totally incognito at the most prestigious celebrations in the World of Twelve with this set. Perfect for getting up to trouble without getting in trouble. (Place this items over another, already-equipped to change its appearance.)", "Diese Prunkset erm&ouml;glicht euch, den schillerndsten Festen der Welt der Zw&ouml;lf unbemerkt beizuwohnen. So k&ouml;nnt ihr euch unterschiedlichsten Missetaten hingeben.&nbsp;(Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "Con esta set cosm&eacute;tico, pasar&aacute;s de inc&oacute;gnito en las fiestas m&aacute;s prestigiosas del Mundo de los Doce. Aprovecha para hacer todo tipo de fechor&iacute;as.&nbsp;(Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Con questa panoplia di gala potrai partecipare in incognito alle feste pi&ugrave; prestigiose del Mondo dei Dodici. Approfittane per darti a ogni sorta di malefatta.&nbsp;(Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "Com esta conjunto, voc&ecirc; se manter&aacute; no anonimato nas mais prestigiosas festas do Mundo dos Doze. Aproveite para fazer toda esp&eacute;cie de vigarice.&nbsp;(Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "16642",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13136\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1391182",
+            "original_price": null,
+            "price": 10000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1391261",
+            "original_price": null,
+            "price": 10,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": 328,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 12091,
+        "key": null,
+        "name": "Pack Karnaval",
+        "subtitle": null,
+        "description": "<p>Venez c\u00e9l\u00e9brer le\u00a0Karnaval des Tout-Fous au rythme de l'emote Carnaval* !<\/p>\r\n\r\n<p>M\u00eame si le port de la panoplie d'apparat Karnaval** est autoris\u00e9e toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/em><\/p>\r\n\r\n<p><em>**Ces\u00a0objets seront\u00a0li\u00e9s \u00e0 votre compte pendant 62 jours<\/em><\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"335\" src=\"http:\/\/static.ankama.com\/upload\/backoffice\/direct\/2020-02-25\/d26690c0cb357bf79c5ab1c10899c4be.gif\" width=\"600\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 8.49,
+        "startdate": "2021-02-25T09:00:00+01:00",
+        "enddate": "2021-03-11T00:00:00+01:00",
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "M\u00eame si le port du Caskarnaval est autoris\u00e9 toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.\r\n(D\u00e9posez ce chapeau sur un autre chapeau d\u00e9j\u00e0 \u00e9quip\u00e9 pour lui transmettre son apparence)<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Caskarnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12482\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12482\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 759,
+                    "category_id": 18,
+                    "name": "Caskarnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 15097,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:55:30+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Caskarnaval", "Karnaval Headdress", "Karneval Kappe", "Casco de karnaval", "Caskarnevale", "Karnachap\u00e9u", null, null, null],
+                    "definition_description": ["M\u00eame si le port du Caskarnaval est autoris\u00e9 toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.\r\n(D\u00e9posez ce chapeau sur un autre chapeau d\u00e9j\u00e0 \u00e9quip\u00e9 pour lui transmettre son apparence)", "Although there's no law forbidding you from wearing the Karnaval Headdress all year round, you ought to know that donning it when it's not Too-Faux Karnaval weekend is seen as a sure-fire fashion faux-pas.\r\n(Place this headgear over other, already-equipped headgear to change its appearance.)", "Klar ist es erlaubt, das ganze Jahr \u00fcber mit einer solchen Kappe auf dem Kopf herumzulaufen. Aber ob das auch au\u00dferhalb des Vertofurr\u00fcckten Karnevals ratsam ist, steht auf einem anderen Blatt. Ihr k\u00f6nntet sonst glatt f\u00fcr einen Narren gehalten werden.\r\n(Verkn\u00fcpft diese Kopfbedeckung mit einer anderen Kopfbedeckung, um dieser das Aussehen zu \u00fcbertragen.)", "Aunque est\u00e9 autorizado llevar este casco todo el a\u00f1o, se desaconseja lucirlo fuera del periodo de karnaval de los Lokitofus, a riesgo de que te tomen por un loco de verdad.\r\n(Pon este sombrero sobre otro que tengas equipado para proporcionarle su apariencia.)", "Anche se indossare questo casco \u00e8 autorizzato tutto l'anno, \u00e8 comunque sconsigliato equipaggiarlo al di fuori del periodo del Karnevale dei Pazzarelli, o rischi di essere preso, appunto, per un pazzarello.\r\n(Associa questo cappello a un altro cappello gi\u00e0 equipaggiato per cambiarne l'aspetto)", "Apesar de o uso do Karnachap\u00e9u ser autorizado o ano inteiro, ele \u00e9 desaconselhado fora do per\u00edodo do Karnaval dos Tofuli\u00f5es, pois podem acabar achando que voc\u00ea n\u00e3o bate bem da bola.\r\n(Coloque este chap\u00e9u por cima de outro chap\u00e9u que voc\u00ea j\u00e1 estiver usando para lhe transmitir sua apar\u00eancia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Tout comme le Caskarnaval, il vaut mieux garder cette cape pour certaines occasions particuli\u00e8res. Ne vous y trompez pas, la porter pendant un mariage, par exemple, pourrait \u00eatre assimil\u00e9 \u00e0 une tentative de trouble \u00e0 l\u2019ordre public.\r\n(D\u00e9posez cette cape sur une autre cape d\u00e9j\u00e0 \u00e9quip\u00e9e pour lui transmettre son apparence)<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Karnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12483\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12483\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 760,
+                    "category_id": 18,
+                    "name": "Cape Karnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 15098,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:56:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Karnaval", "Karnaval Cape", "Cape Karneval", "Capa de karnaval", "Mantello Karnevale", "Karnacapa", null, null, null],
+                    "definition_description": ["Tout comme le Caskarnaval, il vaut mieux garder cette cape pour certaines occasions particuli\u00e8res. Ne vous y trompez pas, la porter pendant un mariage, par exemple, pourrait \u00eatre assimil\u00e9 \u00e0 une tentative de trouble \u00e0 l\u2019ordre public.\r\n(D\u00e9posez cette cape sur une autre cape d\u00e9j\u00e0 \u00e9quip\u00e9e pour lui transmettre son apparence)", "Just like the matching headdress, it is suggested that you save this cape for special occasions. As much as you'd like to parade around a wedding reception with it on, you must admit that it's kind of rude to steal the bride's limelight so flagrantly.\r\n(Place this cape over another, already-equipped cape to change its appearance.)", "Genauso wie die Karneval Kappe sollte dieser Umhang ebenfalls f\u00fcr besondere Gelegenheiten vorbehalten sein. Also seid vorsichtig ... Beispielsweise bei einer Hochzeit k\u00f6nnte das Tragen dieses Umhangs als versuchte Ruhest\u00f6rung ausgelegt werden.\r\n(Verkn\u00fcpft diesen Umhang mit einem anderen Umhang, um diesem das Aussehen zu \u00fcbertragen.)", "Al igual que el casco de karnaval, es mejor reservar esta capa para ciertas ocasiones particulares. No obstante, cuidado: lucirla durante la celebraci\u00f3n de un matrimonio podr\u00eda considerarse como una tentativa de provocar desorden p\u00fablico.\r\n(Pon esta capa sobre otra que tengas equipada para proporcionarle su apariencia.)", "Proprio come per il casco, \u00e8 preferibile tenere da parte questo mantello per determinate occasioni speciali. Ma non tutte: indossare questo mantello a un matrimonio, per esempio, potrebbe essere considerato un tentativo di disturbo dell'ordine pubblico.\r\n(Associa questo mantello a un altro mantello gi\u00e0 equipaggiato per cambiarne l'aspetto)", "Assim como o Karnachap\u00e9u, \u00e9 melhor guardar essa capa para certas ocasi\u00f5es especiais. Mas tome cuidado: se voc\u00ea us\u00e1-la em um casamento, por exemplo, pode acabar sendo acusado de perturba\u00e7\u00e3o da ordem p\u00fablica.\r\n(Coloque esta capa sobre outra capa que voc\u00ea j\u00e1 estiver usando para lhe transmitir sua apar\u00eancia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Carnaval.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Carnaval<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Carnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12484\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12484\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 758,
+                    "category_id": 17,
+                    "name": "Carnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 20386,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:55:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Carnaval", "Carnival", "Emote-Schriftrolle: \"Karneval\"", "Carnaval", "Carnevale", "Carnaval", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Carnaval.", "Use this scroll to learn the Carnival emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"Karneval\" erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Carnaval.", "Questa pergamena ti permette di imparare l'emote Carnevale.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote \"Carnaval\".", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15498",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1394587",
+            "original_price": null,
+            "price": 8000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1394986",
+            "original_price": null,
+            "price": 7.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": 328,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }],
+    "hightlight_carousel": [{
+        "id": 1744,
+        "image": [{
+            "width": 208,
+            "height": 129,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_208_129.jpg"
+        }, {
+            "width": 288,
+            "height": 178,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_288_178.jpg"
+        }, {
+            "width": 590,
+            "height": 178,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_590_178.jpg"
+        }, {
+            "width": 667,
+            "height": 240,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_667_240.jpg"
+        }, {
+            "width": 396,
+            "height": 221,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_396_221.jpg"
+        }, {
+            "width": 420,
+            "height": 234,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_420_234.jpg"
+        }, {
+            "width": 950,
+            "height": 531,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1744\/mea_fr_950_531.jpg"
+        }],
+        "mode": "CAROUSEL",
+        "type": "ARTICLE",
+        "link": "https:\/\/www.dofus.com\/fr\/boutique\/18-abonnements\/13144-pack-bal-masque",
+        "description": "Jusqu\u2019au 17 mars inclus (23 h 59)\u00a0",
+        "name": "Pack Bal et Masque",
+        "external_category": null,
+        "external_article": {
+            "id": 13144,
+            "key": null,
+            "name": "Pack Bal et Masque",
+            "subtitle": null,
+            "description": "<div>D\u00e9cid\u00e9ment, les Douziens n\u2019en finissent jamais de faire la f\u00eate\u00a0! L\u2019ambiance d\u00e9cha\u00een\u00e9e du Karnaval des Tout-Fous vous manque d\u00e9j\u00e0\u00a0? Qu\u2019importe, d\u00e8s aujourd\u2019hui et jusqu\u2019au mercredi 17 mars inclus, la f\u00eate continue avec le Pack Bal et Masque\u00a0!<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div>\r\n<ul>\r\n\t<li>Une panoplie d\u2019apparat Bal et Masque colorisable*\u00a0;<\/li>\r\n\t<li>Un familier Plumo colorisable* ;<\/li>\r\n\t<li>Une emote Ola** ;<\/li>\r\n\t<li>6 000 ogrines ;<\/li>\r\n\t<li>Ainsi que 15 jours d\u2019abonnement !<\/li>\r\n<\/ul>\r\n\r\n<div><strong>Ses\u00a0couleurs s\u2019adapteront\u00a0\u00e0 celles de votre personnage !<\/strong><\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div>\r\n<div><em>*Ces objets seront li\u00e9s au compte pendant 182 jours.\u00a0<\/em><\/div>\r\n\r\n<div><em>**Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/em><\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div><em><img alt=\"\" height=\"388\" src=\"http:\/\/static.ankama.com\/upload\/backoffice\/direct\/2021-02-16\/1f2ab37899a4c0eac34c7270259bf321.gif\" width=\"692\" \/><\/em><\/div>\r\n<\/div>\r\n<\/div>\r\n",
+            "currency": "CHF",
+            "original_price": null,
+            "price": 26.99,
+            "startdate": "2021-02-16T09:00:00+01:00",
+            "enddate": "2021-03-18T00:00:00+01:00",
+            "showCountDown": false,
+            "stock": null,
+            "is_free": false,
+            "image": [{
+                "width": 70,
+                "height": 70,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/gallery_fr_70_70.png"
+            }, {
+                "width": 200,
+                "height": 200,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/gallery_fr_200_200.png"
+            }, {
+                "width": 290,
+                "height": 325,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/portrait_16660_all_424_475.png"
+            }, {
+                "width": 424,
+                "height": 475,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/portrait_16660_all_424_475.png"
+            }],
+            "references": [{
+                "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+                "name": "Jour d'abonnement DOFUS",
+                "free": false,
+                "quantity": "15",
+                "type": "VIRTUALSUBSCRIPTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": null
+            }, {
+                "description": "",
+                "name": "Ogrines",
+                "free": false,
+                "quantity": "6000",
+                "type": "OGRINE",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": null
+            }, {
+                "description": "",
+                "name": "Panoplie d\u2019apparat Bal et Masque",
+                "free": false,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13389\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13389\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1570,
+                        "category_id": 18,
+                        "name": "Panoplie d\u2019apparat Bal et Masque",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 24951,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }, {
+                            "item_id": 24952,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }, {
+                            "item_id": 24953,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }, {
+                            "item_id": 24954,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2021-02-15T11:39:05+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": "2021-02-15T11:56:06+01:00",
+                        "modified_account_id": 145961480,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["panoplie d\u2019apparat Bal et Masque", "Ceremonial Mask Parade Set", "Prunkset Maskenball", "Set cosm\u00e9tico Baile y m\u00e1scara", "Panoplia di gala Ballo e Maschera", "Conjunto de apar\u00eancia Baile e M\u00e1scara", null, null, null],
+                        "definition_description": ["Avec cette panoplie, vous passerez incognito dans les plus prestigieuses f&ecirc;tes du Monde des Douze. Profitez-en pour vous adonner &agrave; toutes sortes de m&eacute;faits. (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "Go totally incognito at the most prestigious celebrations in the World of Twelve with this set. Perfect for getting up to trouble without getting in trouble. (Place this items over another, already-equipped to change its appearance.)", "Diese Prunkset erm&ouml;glicht euch, den schillerndsten Festen der Welt der Zw&ouml;lf unbemerkt beizuwohnen. So k&ouml;nnt ihr euch unterschiedlichsten Missetaten hingeben.&nbsp;(Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "Con esta set cosm&eacute;tico, pasar&aacute;s de inc&oacute;gnito en las fiestas m&aacute;s prestigiosas del Mundo de los Doce. Aprovecha para hacer todo tipo de fechor&iacute;as.&nbsp;(Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Con questa panoplia di gala potrai partecipare in incognito alle feste pi&ugrave; prestigiose del Mondo dei Dodici. Approfittane per darti a ogni sorta di malefatta.&nbsp;(Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "Com esta conjunto, voc&ecirc; se manter&aacute; no anonimato nas mais prestigiosas festas do Mundo dos Doze. Aproveite para fazer toda esp&eacute;cie de vigarice.&nbsp;(Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                    }
+                }
+            }, {
+                "description": "",
+                "name": "Plumo",
+                "free": false,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13384\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13384\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1565,
+                        "category_id": 19,
+                        "name": "Plumo",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 24955,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2021-02-15T11:05:44+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": null,
+                        "modified_account_id": null,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["Plumo", "Dustoro", "Plumo", "Plumiero", "Piumo", "Plumal", null, null, null],
+                        "definition_description": ["Cette adorable boule de plumes est un oiseau d&#39;une esp&egrave;ce rare, r&eacute;put&eacute;e pour sa capacit&eacute; &agrave; faire la roue. Cependant, celui-ci en est incapable, et a donc &eacute;t&eacute; rejet&eacute; par ses cong&eacute;n&egrave;res. Comme quoi, l&#39;absence de comp&eacute;tences gymnastiques peut &ecirc;tre tr&egrave;s pr&eacute;judiciable.\r\n\r\n\r\n(D&eacute;posez ce familier sur un autre familier d&eacute;j&agrave; &eacute;quip&eacute; pour lui transmettre son apparence)", "\r\nThis adorable ball of feathers is a very rare species of bird renowned for its ability to do cartwheels. This particular bird, however, cannot do cartwheels and so it&#39;s been ostracised by its peers. It just goes to show that a lack of gymnastics skills can have very sorry consequences.\r\n\r\n\r\n\r\n(Place this pet over another, already-equipped pet to change its appearance.)\r\n", "\r\nDieses reizende Federkn&auml;ul geh&ouml;rt zu einer seltenen Vogelspezies, die daf&uuml;r bekannt ist, unaufh&ouml;rlich Rad zu schlagen. Dieser hier schaffte es jedoch nicht und wurde daher von seinen Artgenossen versto&szlig;en. Da sieht man mal wieder, dass zu wenig sportliches K&ouml;nnen durchaus seine Nachteile hat.\r\n\r\n&nbsp;\r\n\r\n(Verkn&uuml;pft diesen Vertrauten mit einem bereits ausger&uuml;steten Vertrauten, um diesem das Aussehen zu &uuml;bertragen.)\r\n", "\r\nEsta adorable bola de plumas es un p&aacute;jaro de una especie rara, reputada por su capacidad de pavonearse. Sin embargo, este es incapaz de hacerlo, y por eso ha sido rechazado por sus cong&eacute;neres. Lo cual demuestra que la ausencia de competencias gimn&aacute;sticas puede ser perjudicial.\r\n\r\n&nbsp;\r\n\r\n(Pon esta mascota sobre otra que tengas equipada para proporcionarle su apariencia.)\r\n&nbsp;\r\n", "Questa adorabile palla di piume &egrave; un uccello di una specie rara, nota per la sua capacit&agrave; di fare la ruota. Tuttavia questo esemplare non ne &egrave; capace ed &egrave; stato quindi respinto dai suoi simili. Ci&ograve; dimostra che la mancanza di abilit&agrave; ginniche pu&ograve; essere molto pregiudizievole.\r\n\r\n(Associa questo famiglio a un altro famiglio gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "\r\nEsta ador&aacute;vel bola de pena &eacute; um p&aacute;ssaro de uma esp&eacute;cie rara, muito dada a se pavonear. Entretanto, como este n&atilde;o consegue, ele foi rejeitado pelos demais. A humildade pode ser muito prejudicial.\r\n\r\n&nbsp;\r\n\r\n(Coloque esta mascote sobre outra mascote que j&aacute; estiver usando para transmitir sua apar&ecirc;ncia)\r\n", null, null, null]
+                    }
+                }
+            }, {
+                "description": "",
+                "name": "Ola",
+                "free": false,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13390\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13390\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1474,
+                        "category_id": 17,
+                        "name": "Ola",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 20384,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2020-11-02T17:29:00+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": null,
+                        "modified_account_id": null,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["Ola", "Emote Scroll: Big Wave", "Emote-Schriftrolle: \"La-Ola-Welle\"", "Hacer la ola", "Ola", "Fazer a \"ola\"", null, null, null],
+                        "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Ola.", "Use this scroll to learn the Big Wave emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"La-Ola-Welle\" erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Hacer la ola.", "Questa pergamena ti permette di imparare l'emote Ola.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote \"Fazer a \"ola\"\".", null, null, null]
+                    }
+                }
+            }],
+            "promo": [{
+                "name": "",
+                "description": "",
+                "image": null,
+                "start_date": null,
+                "end_date": null,
+                "gifts": null,
+                "flag": {
+                    "key": "FAVOURITE",
+                    "value": "Coup de coeur"
+                },
+                "discounts": null,
+                "conditions": [{
+                    "key": "ACCUMULATIVE",
+                    "compare": "=",
+                    "values": ["1"]
+                }, {
+                    "key": "ARTICLE-ARTICLE",
+                    "compare": "IN",
+                    "values": ["13144", "13146", "12814", "12816", "13082", "13083"]
+                }],
+                "show_percent": false,
+                "show_countdown": false
+            }],
+            "media": [{
+                "id": "16660",
+                "key": null,
+                "lang": "ALL",
+                "type": "IMAGE",
+                "param": "PORTRAIT",
+                "order": "0",
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/portrait_16660_all_424_475.png"
+            }, {
+                "id": "16661",
+                "key": null,
+                "lang": "LANG",
+                "type": "IMAGE",
+                "param": "GALLERY",
+                "order": "1",
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/gallery_fr_50_50.png"
+            }, {
+                "id": "16673",
+                "key": "",
+                "lang": "LANG",
+                "type": "IMAGE",
+                "param": "ABO_COMPARE",
+                "order": "2",
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13144\/abo_compare_16673_fr.png"
+            }],
+            "metas": [{
+                "id": "130",
+                "key": null,
+                "name": "Type de Pack Abonnement",
+                "metas": [{
+                    "id": "2692",
+                    "key": "abo_special_offer",
+                    "name": "Pack offre Sp\u00e9ciale"
+                }]
+            }],
+            "pricelist": [{
+                "id": "1392028",
+                "original_price": null,
+                "price": 24.99,
+                "currency": "EUR",
+                "country": "FR",
+                "paymentmode": "OK"
+            }],
+            "most_precise_category_id": null,
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "availability": "NORMAL",
+            "marketing_display": {
+                "flag": {
+                    "key": "FAVOURITE",
+                    "value": "Coup de coeur"
+                },
+                "discount_percent": null,
+                "countdown": null
+            }
+        },
+        "external_gondolahead": null,
+        "external_direct": null
+    }, {
+        "id": 1710,
+        "image": [{
+            "width": 208,
+            "height": 129,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_208_129.jpg"
+        }, {
+            "width": 288,
+            "height": 178,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_288_178.jpg"
+        }, {
+            "width": 590,
+            "height": 178,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_590_178.jpg"
+        }, {
+            "width": 667,
+            "height": 240,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_667_240.jpg"
+        }, {
+            "width": 396,
+            "height": 221,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_396_221.jpg"
+        }, {
+            "width": 420,
+            "height": 234,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_420_234.jpg"
+        }, {
+            "width": 950,
+            "height": 531,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/highlights\/1710\/mea_all_950_531.jpg"
+        }],
+        "mode": "CAROUSEL",
+        "type": "ARTICLE",
+        "link": "https:\/\/www.dofus.com\/fr\/boutique\/18-abonnements\/13018-pack-1",
+        "description": "Nouvelle panoplie, nouvelle emote, nouveau montilier !",
+        "name": "Votre pack d\u2019abo pour Pandala #3",
+        "external_category": null,
+        "external_article": {
+            "id": 13018,
+            "key": null,
+            "name": "Pack 1 an",
+            "subtitle": null,
+            "description": "<div>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS 2 pendant 360 jours, et recevez en cadeau la Panopli\u00e9e*, l'Emote Origami* et le montilier Ekirin* !<\/div>\r\n\r\n<div><br \/>\r\nCet abonnement vous donne \u00e9galement acc\u00e8s \u00e0 DOFUS Retro.<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"ak-payment-warning-info\"><span style=\"color:#e74c3c\"><strong>*ATTENTION: OBJET COMPATIBLE UNIQUEMENT AVEC DOFUS 2 : Ces objets sont li\u00e9s pendant 6 mois au compte.<\/strong><\/span><\/div>\r\n",
+            "currency": "CHF",
+            "original_price": null,
+            "price": 51.7,
+            "startdate": "2020-12-15T09:00:00+01:00",
+            "enddate": null,
+            "showCountDown": false,
+            "stock": null,
+            "is_free": false,
+            "image": [{
+                "width": 70,
+                "height": 70,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_70_70.png"
+            }, {
+                "width": 200,
+                "height": 200,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_200_200.png"
+            }, {
+                "width": 290,
+                "height": 325,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+            }, {
+                "width": 424,
+                "height": 475,
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+            }],
+            "references": [{
+                "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+                "name": "Jour d'abonnement DOFUS",
+                "free": false,
+                "quantity": "360",
+                "type": "VIRTUALSUBSCRIPTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": null
+            }, {
+                "description": "",
+                "name": "Panopli\u00e9e",
+                "free": true,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1523,
+                        "category_id": 18,
+                        "name": "Panopli\u00e9e",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 24148,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }, {
+                            "item_id": 24149,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }, {
+                            "item_id": 24147,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2020-12-14T15:31:55+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": null,
+                        "modified_account_id": null,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["Panopli\u00e9e", "Dedlof Set", "Faltset", "Panoplegada", "Panopliegata", "Conjundobrado", null, null, null],
+                        "definition_description": ["Ne vous m&eacute;prenez pas, le papier a beaucoup de vertus, et peut si on le plie de la bonne mani&egrave;re devenir ultra-r&eacute;sistant. C&#39;est le cas de cette panoplie qui est structurellement parfait car il est constitu&eacute; de papier pli&eacute; 12 fois sur lui-m&ecirc;me, ce qui semble &ecirc;tre un record.&nbsp; (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "We all know that paper can cause horrific flesh wounds, but it also becomes ultra-strong if folded the right way. This attire is a great example. It is structurally perfect having been made from paper folded 12 times, which is probably a record.&nbsp; (Place this items over another, already-equipped to change its appearance.)", "Lasst euch nicht t&auml;uschen: das Papier hat viele Vorteile und wird &auml;u&szlig;erst robust, wenn man es nur auf die richtige Art und Weise faltet. Das gilt auch f&uuml;r diesen Prunk-Set, der extrem robust ist, da er aus zw&ouml;lffach gefaltetem Papier besteht. Das ist absoluter Rekord.&nbsp; (Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "No te confundas: el papel tiene muchas virtudes y, si se dobla bien, puede llegar a ser ultrarresistente. Como sucede con este panoplia, cuya estructura es perfecta, porque est&aacute; hecho con papel plegado doce veces sobre s&iacute;, lo cual parece ser todo un r&eacute;cord.&nbsp; (Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Non credere! La carta ha un sacco di propriet&agrave;, tanto che se la si piega in modo giusto, pu&ograve; addirittura diventare super resistente. &Egrave; proprio il caso di questo panoplia che &egrave; strutturalmente perfetto perch&eacute; &egrave; costituito da un foglio di carta ripiegato per 12 volte su se stesso, quasi un&#39;impresa da record.&nbsp; (Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "N&atilde;o se engane: o papel tem muitas virtudes e, dobrado do jeito certo, pode ser ultrarresistente. &Eacute; o caso deste conjunto, que tem uma estrutura perfeita, pois &eacute; constitu&iacute;da de papel dobrado 12 vezes, um recorde.&nbsp; (Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                    }
+                }
+            }, {
+                "description": "",
+                "name": "Origami",
+                "free": true,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1520,
+                        "category_id": 17,
+                        "name": "Origami",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 24174,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2020-12-14T09:45:24+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": null,
+                        "modified_account_id": null,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["Origami", "Origami", "Origami", "Origami", "Origami", "Origami", null, null, null],
+                        "definition_description": ["Ce parchemin vous permet d&#39;apprendre l&#39;attitude Origami", "Use this scroll to learn the Origami emote.", "Mit dieser Schriftrolle k&ouml;nnt ihr das Emote &bdquo;Origami&ldquo; erlernen.", "Con este pergamino, podr&aacute;s aprender la actitud Origami.", "Questa pergamena ti permette di imparare l&#39;emote Origami.", "Com este pergaminho, voc&ecirc; poder&aacute; aprender o emote Origami.", null, null, null]
+                    }
+                }
+            }, {
+                "description": "",
+                "name": "Ekirin",
+                "free": true,
+                "quantity": "1",
+                "type": "GAMEACTION",
+                "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_70_70.png",
+                "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_475_475.png",
+                "reference_accountstatus": null,
+                "reference_icegift": null,
+                "reference_virtualgift": null,
+                "reference_kard": null,
+                "reference_krosmaster": null,
+                "reference_nothing": null,
+                "reference_tactilewars": null,
+                "reference_virtualsubscriptionlevel": null,
+                "reference_video": null,
+                "reference_music": null,
+                "reference_flag": null,
+                "reference_chartransfer": null,
+                "reference_digitalcomic": null,
+                "reference_premium": null,
+                "reference_recurringvirtualsubscription": null,
+                "reference_ogrine": null,
+                "reference_gameaction": {
+                    "definition": {
+                        "id": 1521,
+                        "category_id": 40,
+                        "name": "Ekirin",
+                        "restriction_id": null,
+                        "actions": [{
+                            "item_id": 24175,
+                            "effect": null,
+                            "bond": null,
+                            "distribution": "ALL_SERVER",
+                            "type": "DofusItem",
+                            "quantity": 1
+                        }],
+                        "online_date": null,
+                        "offline_date": null,
+                        "added_date": "2020-12-14T09:50:48+01:00",
+                        "added_account_id": 145961480,
+                        "modified_date": null,
+                        "modified_account_id": null,
+                        "available_date": null,
+                        "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                        "definition_title": ["Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", null, null, null],
+                        "definition_description": ["On raconte que seul un grand aventurier peut monter le fier Ekirin. Si vous vous sentez &agrave; la hauteur, tentez votre chance et prouvez votre valeur.\r\n(D&eacute;posez ce montilier sur un autre montilier d&eacute;j&agrave; &eacute;quip&eacute; pour lui transmettre son apparence)", "They say that only a great adventurer can ride the proud Ekirin. If you feel up to it, try your luck and prove your worth.\r\n(Place this petsmount over another, already-equipped petsmount to change its appearance.)", "Man sagt, dass nur ein gro&szlig;er Abenteurer auf dem stolzen Igamori reiten kann. Wenn ihr euch dem gewachsen f&uuml;hlt, nutzt die Chance und stellt euer K&ouml;nnen unter Beweis.", "Dicen que solo un gran aventurero puede ir a lomos del ilustre ekirin. Si crees que est&aacute;s a la altura, prueba a ver y demuestra tu val&iacute;a.\r\n(Pon esta mascotura sobre otra que tengas equipada para proporcionarle su apariencia.)", "Si dice che solo un grande avventuriero possa cavalcare il fiero Ekirin. Se ti senti all&#39;altezza, tenta la fortuna e prova il tuo valore.", "Dizem que s&oacute; um grande aventureiro pode montar no altivo Igamori. Se voc&ecirc; acha que est&aacute; &agrave; altura do desafio, tente a sorte e mostre o seu valor.", null, null, null]
+                    }
+                }
+            }],
+            "promo": [{
+                "name": "",
+                "description": "",
+                "image": null,
+                "start_date": null,
+                "end_date": null,
+                "gifts": null,
+                "flag": {
+                    "key": "MOST_ECONOMICAL",
+                    "value": "Le plus \u00e9conomique"
+                },
+                "discounts": null,
+                "conditions": [{
+                    "key": "ACCUMULATIVE",
+                    "compare": "=",
+                    "values": ["1"]
+                }, {
+                    "key": "ARTICLE-ARTICLE",
+                    "compare": "IN",
+                    "values": ["12716", "12715", "12738", "12751", "13018", "12739", "12752", "13017"]
+                }],
+                "show_percent": false,
+                "show_countdown": false
+            }],
+            "media": [{
+                "id": "16438",
+                "key": null,
+                "lang": "LANG",
+                "type": "IMAGE",
+                "param": "GALLERY",
+                "order": "0",
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_50_50.png"
+            }, {
+                "id": "16452",
+                "key": null,
+                "lang": "ALL",
+                "type": "IMAGE",
+                "param": "PORTRAIT",
+                "order": "1",
+                "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+            }],
+            "metas": [{
+                "id": "44",
+                "key": "ARTICLE_TYPE",
+                "name": "Type d'articles",
+                "metas": [{
+                    "id": "409",
+                    "key": null,
+                    "name": "Abonnement Dofus"
+                }]
+            }],
+            "pricelist": [{
+                "id": "1351386",
+                "original_price": null,
+                "price": 42000,
+                "currency": "OGR",
+                "country": "WD",
+                "paymentmode": "OG"
+            }, {
+                "id": "1356751",
+                "original_price": null,
+                "price": 48,
+                "currency": "EUR",
+                "country": "FR",
+                "paymentmode": "OK"
+            }],
+            "most_precise_category_id": null,
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "availability": "NORMAL",
+            "marketing_display": {
+                "flag": {
+                    "key": "MOST_ECONOMICAL",
+                    "value": "Le plus \u00e9conomique"
+                },
+                "discount_percent": null,
+                "countdown": null
+            }
+        },
+        "external_gondolahead": null,
+        "external_direct": null
+    }],
+    "hightlight_image": [],
+    "hightlight_popup": []
+}

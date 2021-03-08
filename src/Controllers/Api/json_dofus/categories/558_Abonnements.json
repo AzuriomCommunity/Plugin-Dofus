@@ -1,0 +1,1182 @@
+{
+    "total_count": 6,
+    "articles": [{
+        "id": 11255,
+        "key": null,
+        "name": "Pack 1 mois",
+        "subtitle": null,
+        "description": "<p>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS 2 et de DOFUS Retro pendant 30\u00a0jours !<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.45,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/portrait_16399_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/portrait_16399_all_424_475.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "30",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14610",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/gallery_fr_50_50.png"
+        }, {
+            "id": "16399",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11255\/portrait_16399_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "409",
+                "key": null,
+                "name": "Abonnement Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "441219",
+            "original_price": null,
+            "price": 4200,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "984510",
+            "original_price": null,
+            "price": 5,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8234,
+        "key": null,
+        "name": "Pack Novice",
+        "subtitle": null,
+        "description": "<p>Pour votre premier abonnement, profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS pendant 30 jours \u00e0 un prix r\u00e9duit. Recevez en cadeau le compagnon Lumino\u00a0et la\u00a0Panoplie Divine <strong>compatible uniquement avec DOFUS 2.<\/strong><\/p>\r\n\r\n<p>Cet abonnement vous donne \u00e9galement acc\u00e8s \u00e0 DOFUS Retro.<\/p>\r\n\r\n<p>Lumino, est un compagnon qui sera \u00e0 vos c\u00f4t\u00e9s durant les combats. Il vous apportera des soins mais pr\u00e9viendra aussi certains de vos dommages. Un alli\u00e9 de choix pour ceux qui foncent toujours dans la m\u00eal\u00e9e\u00a0!<\/p>\r\n\r\n<p><em>\/!\\ L'achat de ce pack est valable une seule fois par compte.<\/em><\/p>\r\n\r\n<p>\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.35,
+        "startdate": "2016-07-19T09:45:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8234\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8234\/gallery_fr_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "30",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }, {
+            "description": "Cet objet permet d'appeler Lumino qui combattra \u00e0 vos c\u00f4t\u00e9s.<p>Niveau : 30<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Signe de Lumino",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13138\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13138\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1367,
+                    "category_id": 16,
+                    "name": "Signe de Lumino",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 14961,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-08-25T11:52:09+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-08-25T11:52:38+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Signe de Lumino", "Photo-Signal", "Luminos Zeichen", "Se\u00f1al de L\u00famino", "Insegna di Lumino", "Sinal do Lumino", null, null, null],
+                    "definition_description": ["Cet objet permet d'appeler Lumino qui combattra \u00e0 vos c\u00f4t\u00e9s.", "This item lets you summon Lumino, who will fight by your side.", "Dieser Gegenstand erlaubt es euch, Lumino im Kampf zu euch zu rufen.", "Con este objeto, podr\u00e1s llamar a L\u00famino para que combata a tu lado.", "Questo oggetto permette di chiamare Lumino per farlo combattere al tuo fianco.", "Com este item, voc\u00ea poder\u00e1 chamar o Lumino para que ele lute ao seu lado.", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Panoplie Divine",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13346\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13346\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1539,
+                    "category_id": 18,
+                    "name": "Panoplie Divine",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19464,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 19466,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 19465,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2021-01-07T11:48:39+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Panoplie Divine", "Divine set", "G\u00f6ttliches Set", "Set Divina", "Panoplia Divina", "Conjunto Divino", null, null, null],
+                    "definition_description": [null, null, null, null, null, null, null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11365",
+            "key": "",
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8234\/gallery_fr_50_50.png"
+        }, {
+            "id": "16529",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "ABO_COMPARE",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8234\/abo_compare_16529_fr.png"
+        }],
+        "metas": [{
+            "id": "130",
+            "key": null,
+            "name": "Type de Pack Abonnement",
+            "metas": [{
+                "id": "2693",
+                "key": "abo_starter_pack",
+                "name": "Pack Starter"
+            }]
+        }],
+        "pricelist": [{
+            "id": "884100",
+            "original_price": null,
+            "price": 3500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972737",
+            "original_price": null,
+            "price": 4,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11020,
+        "key": null,
+        "name": "Pack 7 jours",
+        "subtitle": null,
+        "description": "<p>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS 2 et de DOFUS Retro pendant 7 jours !<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 2.15,
+        "startdate": "2019-03-20T10:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/portrait_16401_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/portrait_16401_all_424_475.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "7",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14232",
+            "key": "",
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/gallery_fr_50_50.png"
+        }, {
+            "id": "16401",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11020\/portrait_16401_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "409",
+                "key": null,
+                "name": "Abonnement Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "373724",
+            "original_price": null,
+            "price": 1100,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "982524",
+            "original_price": null,
+            "price": 2,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 13018,
+        "key": null,
+        "name": "Pack 1 an",
+        "subtitle": null,
+        "description": "<div>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS 2 pendant 360 jours, et recevez en cadeau la Panopli\u00e9e*, l'Emote Origami* et le montilier Ekirin* !<\/div>\r\n\r\n<div><br \/>\r\nCet abonnement vous donne \u00e9galement acc\u00e8s \u00e0 DOFUS Retro.<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"ak-payment-warning-info\"><span style=\"color:#e74c3c\"><strong>*ATTENTION: OBJET COMPATIBLE UNIQUEMENT AVEC DOFUS 2 : Ces objets sont li\u00e9s pendant 6 mois au compte.<\/strong><\/span><\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 51.7,
+        "startdate": "2020-12-15T09:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "360",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }, {
+            "description": "",
+            "name": "Panopli\u00e9e",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1523,
+                    "category_id": 18,
+                    "name": "Panopli\u00e9e",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24148,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24149,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24147,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T15:31:55+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Panopli\u00e9e", "Dedlof Set", "Faltset", "Panoplegada", "Panopliegata", "Conjundobrado", null, null, null],
+                    "definition_description": ["Ne vous m&eacute;prenez pas, le papier a beaucoup de vertus, et peut si on le plie de la bonne mani&egrave;re devenir ultra-r&eacute;sistant. C&#39;est le cas de cette panoplie qui est structurellement parfait car il est constitu&eacute; de papier pli&eacute; 12 fois sur lui-m&ecirc;me, ce qui semble &ecirc;tre un record.&nbsp; (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "We all know that paper can cause horrific flesh wounds, but it also becomes ultra-strong if folded the right way. This attire is a great example. It is structurally perfect having been made from paper folded 12 times, which is probably a record.&nbsp; (Place this items over another, already-equipped to change its appearance.)", "Lasst euch nicht t&auml;uschen: das Papier hat viele Vorteile und wird &auml;u&szlig;erst robust, wenn man es nur auf die richtige Art und Weise faltet. Das gilt auch f&uuml;r diesen Prunk-Set, der extrem robust ist, da er aus zw&ouml;lffach gefaltetem Papier besteht. Das ist absoluter Rekord.&nbsp; (Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "No te confundas: el papel tiene muchas virtudes y, si se dobla bien, puede llegar a ser ultrarresistente. Como sucede con este panoplia, cuya estructura es perfecta, porque est&aacute; hecho con papel plegado doce veces sobre s&iacute;, lo cual parece ser todo un r&eacute;cord.&nbsp; (Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Non credere! La carta ha un sacco di propriet&agrave;, tanto che se la si piega in modo giusto, pu&ograve; addirittura diventare super resistente. &Egrave; proprio il caso di questo panoplia che &egrave; strutturalmente perfetto perch&eacute; &egrave; costituito da un foglio di carta ripiegato per 12 volte su se stesso, quasi un&#39;impresa da record.&nbsp; (Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "N&atilde;o se engane: o papel tem muitas virtudes e, dobrado do jeito certo, pode ser ultrarresistente. &Eacute; o caso deste conjunto, que tem uma estrutura perfeita, pois &eacute; constitu&iacute;da de papel dobrado 12 vezes, um recorde.&nbsp; (Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Origami",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1520,
+                    "category_id": 17,
+                    "name": "Origami",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24174,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T09:45:24+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Origami", "Origami", "Origami", "Origami", "Origami", "Origami", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d&#39;apprendre l&#39;attitude Origami", "Use this scroll to learn the Origami emote.", "Mit dieser Schriftrolle k&ouml;nnt ihr das Emote &bdquo;Origami&ldquo; erlernen.", "Con este pergamino, podr&aacute;s aprender la actitud Origami.", "Questa pergamena ti permette di imparare l&#39;emote Origami.", "Com este pergaminho, voc&ecirc; poder&aacute; aprender o emote Origami.", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Ekirin",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1521,
+                    "category_id": 40,
+                    "name": "Ekirin",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24175,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T09:50:48+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", null, null, null],
+                    "definition_description": ["On raconte que seul un grand aventurier peut monter le fier Ekirin. Si vous vous sentez &agrave; la hauteur, tentez votre chance et prouvez votre valeur.\r\n(D&eacute;posez ce montilier sur un autre montilier d&eacute;j&agrave; &eacute;quip&eacute; pour lui transmettre son apparence)", "They say that only a great adventurer can ride the proud Ekirin. If you feel up to it, try your luck and prove your worth.\r\n(Place this petsmount over another, already-equipped petsmount to change its appearance.)", "Man sagt, dass nur ein gro&szlig;er Abenteurer auf dem stolzen Igamori reiten kann. Wenn ihr euch dem gewachsen f&uuml;hlt, nutzt die Chance und stellt euer K&ouml;nnen unter Beweis.", "Dicen que solo un gran aventurero puede ir a lomos del ilustre ekirin. Si crees que est&aacute;s a la altura, prueba a ver y demuestra tu val&iacute;a.\r\n(Pon esta mascotura sobre otra que tengas equipada para proporcionarle su apariencia.)", "Si dice che solo un grande avventuriero possa cavalcare il fiero Ekirin. Se ti senti all&#39;altezza, tenta la fortuna e prova il tuo valore.", "Dizem que s&oacute; um grande aventureiro pode montar no altivo Igamori. Se voc&ecirc; acha que est&aacute; &agrave; altura do desafio, tente a sorte e mostre o seu valor.", null, null, null]
+                }
+            }
+        }],
+        "promo": [{
+            "name": "",
+            "description": "",
+            "image": null,
+            "start_date": null,
+            "end_date": null,
+            "gifts": null,
+            "flag": {
+                "key": "MOST_ECONOMICAL",
+                "value": "Le plus \u00e9conomique"
+            },
+            "discounts": null,
+            "conditions": [{
+                "key": "ACCUMULATIVE",
+                "compare": "=",
+                "values": ["1"]
+            }, {
+                "key": "ARTICLE-ARTICLE",
+                "compare": "IN",
+                "values": ["12716", "12715", "12738", "12751", "13018", "12739", "12752", "13017"]
+            }],
+            "show_percent": false,
+            "show_countdown": false
+        }],
+        "media": [{
+            "id": "16438",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/gallery_fr_50_50.png"
+        }, {
+            "id": "16452",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13018\/portrait_16452_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "409",
+                "key": null,
+                "name": "Abonnement Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1351386",
+            "original_price": null,
+            "price": 42000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1356751",
+            "original_price": null,
+            "price": 48,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "MOST_ECONOMICAL",
+                "value": "Le plus \u00e9conomique"
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 13020,
+        "key": null,
+        "name": "Pack 6 mois",
+        "subtitle": null,
+        "description": "<div>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS 2 pendant 180 jours, et recevez en cadeau la Panopli\u00e9e* et le l'Emote Origami* !<\/div>\r\n\r\n<div><br \/>\r\nCet abonnement vous donne \u00e9galement acc\u00e8s \u00e0 DOFUS Retro.<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"ak-payment-warning-info\"><span style=\"color:#e74c3c\"><strong>*ATTENTION: OBJET COMPATIBLE UNIQUEMENT AVEC DOFUS 2 : Ces objets sont li\u00e9s pendant 6 mois au compte.<\/strong><\/span><\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 29.6,
+        "startdate": "2020-12-15T09:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/portrait_16450_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/portrait_16450_all_424_475.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "180",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }, {
+            "description": "",
+            "name": "Panopli\u00e9e",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1523,
+                    "category_id": 18,
+                    "name": "Panopli\u00e9e",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24148,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24149,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24147,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T15:31:55+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Panopli\u00e9e", "Dedlof Set", "Faltset", "Panoplegada", "Panopliegata", "Conjundobrado", null, null, null],
+                    "definition_description": ["Ne vous m&eacute;prenez pas, le papier a beaucoup de vertus, et peut si on le plie de la bonne mani&egrave;re devenir ultra-r&eacute;sistant. C&#39;est le cas de cette panoplie qui est structurellement parfait car il est constitu&eacute; de papier pli&eacute; 12 fois sur lui-m&ecirc;me, ce qui semble &ecirc;tre un record.&nbsp; (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "We all know that paper can cause horrific flesh wounds, but it also becomes ultra-strong if folded the right way. This attire is a great example. It is structurally perfect having been made from paper folded 12 times, which is probably a record.&nbsp; (Place this items over another, already-equipped to change its appearance.)", "Lasst euch nicht t&auml;uschen: das Papier hat viele Vorteile und wird &auml;u&szlig;erst robust, wenn man es nur auf die richtige Art und Weise faltet. Das gilt auch f&uuml;r diesen Prunk-Set, der extrem robust ist, da er aus zw&ouml;lffach gefaltetem Papier besteht. Das ist absoluter Rekord.&nbsp; (Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "No te confundas: el papel tiene muchas virtudes y, si se dobla bien, puede llegar a ser ultrarresistente. Como sucede con este panoplia, cuya estructura es perfecta, porque est&aacute; hecho con papel plegado doce veces sobre s&iacute;, lo cual parece ser todo un r&eacute;cord.&nbsp; (Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Non credere! La carta ha un sacco di propriet&agrave;, tanto che se la si piega in modo giusto, pu&ograve; addirittura diventare super resistente. &Egrave; proprio il caso di questo panoplia che &egrave; strutturalmente perfetto perch&eacute; &egrave; costituito da un foglio di carta ripiegato per 12 volte su se stesso, quasi un&#39;impresa da record.&nbsp; (Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "N&atilde;o se engane: o papel tem muitas virtudes e, dobrado do jeito certo, pode ser ultrarresistente. &Eacute; o caso deste conjunto, que tem uma estrutura perfeita, pois &eacute; constitu&iacute;da de papel dobrado 12 vezes, um recorde.&nbsp; (Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Origami",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1520,
+                    "category_id": 17,
+                    "name": "Origami",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24174,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T09:45:24+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Origami", "Origami", "Origami", "Origami", "Origami", "Origami", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d&#39;apprendre l&#39;attitude Origami", "Use this scroll to learn the Origami emote.", "Mit dieser Schriftrolle k&ouml;nnt ihr das Emote &bdquo;Origami&ldquo; erlernen.", "Con este pergamino, podr&aacute;s aprender la actitud Origami.", "Questa pergamena ti permette di imparare l&#39;emote Origami.", "Com este pergaminho, voc&ecirc; poder&aacute; aprender o emote Origami.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "16435",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/gallery_fr_50_50.png"
+        }, {
+            "id": "16450",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13020\/portrait_16450_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "409",
+                "key": null,
+                "name": "Abonnement Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1351932",
+            "original_price": null,
+            "price": 22900,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1356244",
+            "original_price": null,
+            "price": 27.5,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 13022,
+        "key": null,
+        "name": "Pack 3 mois",
+        "subtitle": null,
+        "description": "<div>Profitez de l\u2019int\u00e9gralit\u00e9 de DOFUS pendant 90 jours, et recevez en cadeau la Panopli\u00e9e !<\/div>\r\n\r\n<div><br \/>\r\nCet abonnement vous donne \u00e9galement acc\u00e8s \u00e0 DOFUS Retro.<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"ak-payment-warning-info\"><span style=\"color:#e74c3c\"><strong>*ATTENTION: OBJET COMPATIBLE UNIQUEMENT AVEC DOFUS 2 : Ces objets sont li\u00e9s pendant 6 mois au compte.<\/strong><\/span><\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 15.6,
+        "startdate": "2020-12-15T09:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/portrait_16448_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/portrait_16448_all_424_475.png"
+        }],
+        "references": [{
+            "description": "<p>En vous abonnant, vous pourrez acc\u00e9der \u00e0 l'int\u00e9gralit\u00e9 du monde de DOFUS, aux guildes, au PvP... et <a href=\"http:\/\/www.dofus.com\/fr\/mmorpg\/pourquoi-s-abonner\">\u00e0 bien d'autres avantages !<\/a><\/p>\r\n",
+            "name": "Jour d'abonnement DOFUS",
+            "free": false,
+            "quantity": "90",
+            "type": "VIRTUALSUBSCRIPTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10\/fr_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }, {
+            "description": "",
+            "name": "Panopli\u00e9e",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1523,
+                    "category_id": 18,
+                    "name": "Panopli\u00e9e",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24148,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24149,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24147,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T15:31:55+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Panopli\u00e9e", "Dedlof Set", "Faltset", "Panoplegada", "Panopliegata", "Conjundobrado", null, null, null],
+                    "definition_description": ["Ne vous m&eacute;prenez pas, le papier a beaucoup de vertus, et peut si on le plie de la bonne mani&egrave;re devenir ultra-r&eacute;sistant. C&#39;est le cas de cette panoplie qui est structurellement parfait car il est constitu&eacute; de papier pli&eacute; 12 fois sur lui-m&ecirc;me, ce qui semble &ecirc;tre un record.&nbsp; (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "We all know that paper can cause horrific flesh wounds, but it also becomes ultra-strong if folded the right way. This attire is a great example. It is structurally perfect having been made from paper folded 12 times, which is probably a record.&nbsp; (Place this items over another, already-equipped to change its appearance.)", "Lasst euch nicht t&auml;uschen: das Papier hat viele Vorteile und wird &auml;u&szlig;erst robust, wenn man es nur auf die richtige Art und Weise faltet. Das gilt auch f&uuml;r diesen Prunk-Set, der extrem robust ist, da er aus zw&ouml;lffach gefaltetem Papier besteht. Das ist absoluter Rekord.&nbsp; (Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "No te confundas: el papel tiene muchas virtudes y, si se dobla bien, puede llegar a ser ultrarresistente. Como sucede con este panoplia, cuya estructura es perfecta, porque est&aacute; hecho con papel plegado doce veces sobre s&iacute;, lo cual parece ser todo un r&eacute;cord.&nbsp; (Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Non credere! La carta ha un sacco di propriet&agrave;, tanto che se la si piega in modo giusto, pu&ograve; addirittura diventare super resistente. &Egrave; proprio il caso di questo panoplia che &egrave; strutturalmente perfetto perch&eacute; &egrave; costituito da un foglio di carta ripiegato per 12 volte su se stesso, quasi un&#39;impresa da record.&nbsp; (Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "N&atilde;o se engane: o papel tem muitas virtudes e, dobrado do jeito certo, pode ser ultrarresistente. &Eacute; o caso deste conjunto, que tem uma estrutura perfeita, pois &eacute; constitu&iacute;da de papel dobrado 12 vezes, um recorde.&nbsp; (Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                }
+            }
+        }],
+        "promo": [{
+            "name": "",
+            "description": "",
+            "image": null,
+            "start_date": null,
+            "end_date": null,
+            "gifts": null,
+            "flag": {
+                "key": "TOP_SELLERS",
+                "value": "Top ventes"
+            },
+            "discounts": null,
+            "conditions": [{
+                "key": "ACCUMULATIVE",
+                "compare": "=",
+                "values": ["1"]
+            }, {
+                "key": "ARTICLE-ARTICLE",
+                "compare": "IN",
+                "values": ["13022", "13021"]
+            }],
+            "show_percent": false,
+            "show_countdown": false
+        }],
+        "media": [{
+            "id": "16433",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/gallery_fr_50_50.png"
+        }, {
+            "id": "16448",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13022\/portrait_16448_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "409",
+                "key": null,
+                "name": "Abonnement Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1352478",
+            "original_price": null,
+            "price": 11900,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1355832",
+            "original_price": null,
+            "price": 14.5,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "TOP_SELLERS",
+                "value": "Top ventes"
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

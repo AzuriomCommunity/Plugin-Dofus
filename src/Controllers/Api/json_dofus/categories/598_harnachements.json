@@ -1,0 +1,2036 @@
+{
+    "total_count": 18,
+    "articles": [{
+        "id": 10265,
+        "key": null,
+        "name": "Muldo Cryptique",
+        "subtitle": null,
+        "description": "<p>Il faut avoir le coeur bien accroch\u00e9 et un solide sens de l'humour macabre pour s'\u00e9quiper d'un harnachemeent de muldo Crypte... Des chevauch\u00e9es garanties sang pour sang frissons !<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10265\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10265\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "D'apr\u00e8s son nom, on pourrait croire que cet harnachement est difficile \u00e0 d\u00e9chiffrer. Ce qui n'est pas vraiment un probl\u00e8me, un harnachement n'est pas le genre d'objet qu'on a besoin de d\u00e9crypter. Sauf si il est dans une crypte et que vous avez besoin de l'en sortir, mais le \"d\u00e9crypter\" n'est pas le bon terme non plus.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Harnachement de Muldo Cryptique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13038\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13038\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1095,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo Cryptique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19735,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:51:39+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo Cryptique", "Cryptic Seemyool Harness", "Krypta-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua cr\u00edpticos", "Bardatura da Acquavallo Criptica", "Arreios de Marmula Cr\u00edptica", null, null, null],
+                    "definition_description": ["D'apr\u00e8s son nom, on pourrait croire que cet harnachement est difficile \u00e0 d\u00e9chiffrer. Ce qui n'est pas vraiment un probl\u00e8me, un harnachement n'est pas le genre d'objet qu'on a besoin de d\u00e9crypter. Sauf si il est dans une crypte et que vous avez besoin de l'en sortir, mais le \"d\u00e9crypter\" n'est pas le bon terme non plus.", "Judging by its name, you would expect this harness to be difficult to decrypt. That's not really a problem, since harnesses are the sort of item that don't need decrypting. Unless it's in a crypt and you need to take it out of there, but then \"decrypt\" isn't really the right word for that either.", "Seinem Namen nach zu urteilen, k\u00f6nnte man meinen, dass dieses Zaumzeug schwer zu durchschauen ist. Tats\u00e4chlich aber ist das kein Problem. Ein Zaumzeug ist n\u00e4mlich kein Gegenstand, den man irgendwie entschl\u00fcsseln m\u00fcsste. Au\u00dfer wenn ihr euch vor eurer verschlossenen Haust\u00fcr befindet und den Schl\u00fcssel verloren habt. Aber auch dann geht es nicht wirklich ums \u201eEntschl\u00fcsseln\u201c.", "Por su nombre, podr\u00edamos pensar que estos arreos son dif\u00edciles de descifrar. Pero no es el caso, ya que unos arreos no son el tipo de objeto que haya que desencriptar. A menos que est\u00e9n en una cripta y tengas la necesidad de salir, pero \u00abdesencriptar\u00bb tampoco es el t\u00e9rmino indicado.", "Se si d\u00e0 retta al suo nome, si potrebbe credere che questa bardatura sia difficile da decriptare. Eppure non \u00e8 vero, soprattutto se si considera che una bardatura non \u00e8 il genere di oggetto che si debba decriptare. L'unica eccezione sarebbe se l'oggetto si trovasse in una cripta e bisognasse tirarlo fuori, ma questo \u00e8 un altro problema.", "Pelo nome, fica parecendo que estes arreios s\u00e3o dif\u00edceis de decifrar. O que n\u00e3o chega a ser problema, porque n\u00e3o \u00e9 o tipo de objeto que precisa ser descriptado. A n\u00e3o ser que eles estejam em uma cripta e voc\u00ea precise tir\u00e1-los de l\u00e1, mas \"descriptar\" n\u00e3o \u00e9 bem a palavra certa.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14790",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10265\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515428",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "976603",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10792,
+        "key": null,
+        "name": "Volkorne Dragombre",
+        "subtitle": null,
+        "description": "<p>Est-ce un nez, une corne, un porte-manteau ? Quoi qu'il en soit, ce gros appendice permettra \u00e0 votre volkorne d'enfoncer la cage thoracique de vos ennemis lorsque vous leur foncerez dessus.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10792\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10792\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Est-ce un nez, une corne, un porte-manteau ? Quoi qu'il en soit, ce gros appendice permettra \u00e0 votre volkorne d'enfoncer la cage thoracique de vos ennemis lorsque vous leur foncerez dessus.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Harnachement Dragombre",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13046\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13046\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1098,
+                    "category_id": 23,
+                    "name": "Harnachement Dragombre",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 20372,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T15:57:29+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement Dragombre", "Shadragon Harness", "Dracobscuros--Zaumzeug", "Arreos dragosombra", "Bardatura da Scaraceronte Dragombra", "Arreios Dragombrios", null, null, null],
+                    "definition_description": ["Est-ce un nez, une corne, un porte-manteau ? Quoi qu'il en soit, ce gros appendice permettra \u00e0 votre volkorne d'enfoncer la cage thoracique de vos ennemis lorsque vous leur foncerez dessus.", "Is it a nose? A horn? A coat rack? No matter. This large appendage will let your Rhineetle pierce your enemies' thoracic cages when you rush them.", "Ist das eine Nase, ein Horn oder ein Kleiderhaken? Wie dem auch sei, mit diesem gro\u00dfen Dingsbums wird euer Nask\u00e4fer den Brustkorb eurer Gegner in St\u00fccke rei\u00dfen, wenn ihr direkt auf sie zureitet.", "\u00bfEs una nariz, un cuerno, una percha? Sea lo que sea, este gran ap\u00e9ndice permitir\u00e1 a tu vueloceronte hundir la caja tor\u00e1cica de tus enemigos cuando te abalances sobre ellos.", "\u00c8 un naso, un corno o un attaccapanni? Ad ogni modo, questa grossa appendice permetter\u00e0 al tuo Scaraceronte di sfondare la gabbia toracica dei tuoi avversari quando ti getterai a testa bassa contro di loro.", "\u00c9 um nariz, um chifre ou um cabideiro? O que quer que seja, este grande ap\u00eandice permite que seu Vulk\u00f3rnio destrua a caixa tor\u00e1cica dos inimigos quando avan\u00e7ar neles.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13859",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10792\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515440",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "980681",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11062,
+        "key": null,
+        "name": "Dragokronique",
+        "subtitle": null,
+        "description": "<p>Beaucoup on surestim\u00e9s les capacit\u00e9s de leur Dragodinde apr\u00e8s avoir \u00e9quip\u00e9 cet harnachement. Il est fortement d\u00e9conseill\u00e9 de tenter la travers\u00e9e d'un lac de lave \u00e0 la nage ou encore de sauter des falaises d'Incarnam.\u00a0<br \/>\r\n\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11062\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11062\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Beaucoup ont surestim\u00e9 les capacit\u00e9s de leur Dragodinde apr\u00e8s avoir \u00e9quip\u00e9 cet harnachement. Il est fortement d\u00e9conseill\u00e9 de tenter la travers\u00e9e d'un lac de lave \u00e0 la nage ou encore de sauter des falaises d'Incarnam.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Harnachement Dragokronique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13041\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13041\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1097,
+                    "category_id": 23,
+                    "name": "Harnachement Dragokronique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 21011,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:54:42+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T11:54:50+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement Dragokronique", "Dragokronik Harness", "Zaumzeug des Dracronismus", "Arreos de draganakr\u00f3nico", "Bardatura Draganakronica", "Arreios Drakr\u00f4nicos", null, null, null],
+                    "definition_description": ["Beaucoup ont surestim\u00e9 les capacit\u00e9s de leur Dragodinde apr\u00e8s avoir \u00e9quip\u00e9 cet harnachement. Il est fortement d\u00e9conseill\u00e9 de tenter la travers\u00e9e d'un lac de lave \u00e0 la nage ou encore de sauter des falaises d'Incarnam.", "Many have overestimated their Dragoturkeys' capacities after equipping this harness. Attempting to swim across a lake of lava or jump off the Incarnam cliffs is strongly discouraged.", "Viele haben bereits die F\u00e4higkeiten ihres Dracotruters \u00fcbersch\u00e4tzt, nachdem sie dieses Zaumzeug angelegt hatten. Es wird mit \u00e4u\u00dferstem Nachdruck geraten, weder einen Lavasee zu durchschwimmen noch von den Klippen von Incarnam zu springen.", "Muchos han sobrestimado las habilidades de su dragopavo tras equiparle estos arreos. No se recomienda tratar de atravesar un lago de lava a nado o saltar desde los acantilados de Incarnam.", "Molti hanno sovrastimato le capacit\u00e0 del loro Dragacchino dopo aver equipaggiato questa bardatura. \u00c8 fortemente sconsigliato di tentare la traversata di un lago di lava a nuoto, e anche di saltare dalle falesie di Incarnam.", "Muitos superestimaram seus Dragoperus depois de equipar estes arreios. Aconselha-se a n\u00e3o tentar atravessar um lago de lava a nado nem saltar dos penhascos de Incarnam.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15913",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11062\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515442",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "982862",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10554,
+        "key": null,
+        "name": "Volkorne Dragosaure",
+        "subtitle": null,
+        "description": "<p>Le vert de l\u2019espoir m\u00eal\u00e9 d\u2019une pointe d\u2019agressivit\u00e9 : avec ce harnachement draconique, vous pouvez esp\u00e9rer que personne ne traitera votre volkorne de \u00ab petit scarab\u00e9e \u00bb.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10554\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10554\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Votre Volkorne a enfin l'air m\u00e9chant.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Harnachement Volkorne Dragosaure",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13039\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13039\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1096,
+                    "category_id": 23,
+                    "name": "Harnachement Volkorne Dragosaure",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19991,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:52:30+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement Volkorne Dragosaure", "Rhineetle Draeggosaure Harness", "Dragosaurier-Zaumzeug f\u00fcr Nask\u00e4fer", "Arreos de vueloceronte dragosaurio", "Bardatura Scaraceronte Dragosauro", "Arreios de Vulk\u00f3rnio Dragossauro", null, null, null],
+                    "definition_description": ["Votre Volkorne a enfin l'air m\u00e9chant.", "Your Rhineetle finally looks mean.", "Damit sieht euer Nask\u00e4fer endlich richtig b\u00f6se aus.", "Por fin tiene pinta de malvado tu vueloceronte.", "Il tuo Scaraceronte ha, finalmente, un'espressione cattiva.", "At\u00e9 que enfim seu Vulk\u00f3rnio ficou com cara de mau.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14795",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10554\/gallery_all_50_50.png"
+        }, {
+            "id": "14797",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10554\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515431",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "978010",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10625,
+        "key": null,
+        "name": "Muldo Forban",
+        "subtitle": null,
+        "description": "<p>Fendre les flots sur un muldo, \u00e7a ne vous suffit pas ? Ce harnachement r\u00e9pondra \u00e0 vos app\u00e9tits de conqu\u00eate, tandis que votre muldo se sentira pousser des ailes ! Ce qui, avouez-le, ne manque pas d\u2019allure.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10625\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10625\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Le gouvernail fix\u00e9 \u00e0 l'arri\u00e8re de cet harnachement permet de diriger votre muldo comme un navire pirate. Cela n\u00e9cessite juste de vous tenir sur votre muldo en sens inverse de la marche et donc de conduire sans voir o\u00f9 vous allez, ou bien de vous mettre dans le sens de la marche pour voir o\u00f9 vous allez mais de faire avancer votre muldo en sens inverse de votre orientation, c'est \u00e0 dire en marche arri\u00e8re dans le sens de la marche. Vous allez voir, on s'y fait tr\u00e8s vite.<\/p>\r\n",
+            "name": "Harnachement de Muldo Forban",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10437\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10437\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 562,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo Forban",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 20068,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-09-13T15:51:25+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2020-07-27T15:54:38+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo Forban", "Corsair Seemyool Harness", "Freibeuter-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua de bucanero", "Bardatura da Acquavallo Corsaro", "Arreios de Marmula do Bucaneiro", null, null, null],
+                    "definition_description": ["Le gouvernail fix\u00e9 \u00e0 l'arri\u00e8re de cet harnachement permet de diriger votre muldo comme un navire pirate. Cela n\u00e9cessite juste de vous tenir sur votre muldo en sens inverse de la marche et donc de conduire sans voir o\u00f9 vous allez, ou bien de vous mettre dans le sens de la marche pour voir o\u00f9 vous allez mais de faire avancer votre muldo en sens inverse de votre orientation, c'est \u00e0 dire en marche arri\u00e8re dans le sens de la marche. Vous allez voir, on s'y fait tr\u00e8s vite.", "The rudder attached to the back of this harness lets you steer your Seemyool as you would a pirate ship. You just need to sit on your Seemyool facing backwards, and steer without seeing where you are going; alternatively, you can sit facing forwards to see where you're going but make your Seemyool move opposite to all your instructions \u2013 that is backwards when you're going forwards. You'll get used to it right quick, you'll see.", "Das Ruder am Ende dieses Zaumzeugs erm\u00f6glicht es euch, euren Seequagga wie ein Piratenschiff zu steuern. Dazu m\u00fcsst ihr euren Seequagga lediglich entgegengesetzt zur Fahrtrichtung drehen und dann lenken, ohne dabei nach vorne zu sehen. Oder aber ihr setzt euch mit Blick nach vorne hin, damit ihr seht, wohin ihr fahrt, und treibt euren Seequagga in entgegengesetzter Richtung an, also quasi im R\u00fcckw\u00e4rtsgang. Ihr werdet schon sehen, man gew\u00f6hnt sich schnell daran.", "El tim\u00f3n incorporado a la parte trasera de estos arreos permite dirigir tu mulagua como si de un barco pirata se tratase. Solo tienes que montarte en tu mulagua en el sentido contrario de la marcha y conducir si ver por d\u00f3nde vas o, si no, colocarte en el sentido de la marcha para ver por d\u00f3nde vas , pero haciendo que tu mulagua avance en el sentido contrario de tu orientaci\u00f3n, es decir, marcha atr\u00e1s en el sentido de la marcha. Te acostumbrar\u00e1s r\u00e1pido, ya ver\u00e1s.", "Il timone fissato sul retro della bardatura permette di dirigere il tuo Acquavallo come se fosse un battello pirata. Per farlo devi sederti sull'Acquavallo nel senso contrario a quello di marcia, il che vuol dire che devi guidare senza vedere dove vai, oppure puoi sederti nel senso di marcia per vedere dove vai, ma devi far avanzare l'Acquavallo nel senso opposto al tuo orientamento, ovvero in retromarcia nel senso della marcia. Vedrai, dopo un po' \u00e8 facile da capire.", "O leme preso na parte de tr\u00e1s dos arreios \u00e9 para voc\u00ea dirigir sua Marmula como se fosse um navio pirata. Voc\u00ea s\u00f3 vai ter que montar nela virado para tr\u00e1s e, portanto, gui\u00e1-la sem ver o caminho, ou ent\u00e3o sentar virado para a frente para ver aonde voc\u00eas v\u00e3o mas fazer a Marmula andar no sentido contr\u00e1rio \u00e0 sua orienta\u00e7\u00e3o \u2014 ou seja, de r\u00e9. N\u00e3o se preocupe, voc\u00ea vai pegar rapidinho.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14794",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10625\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515429",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "978942",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9671,
+        "key": null,
+        "name": "Muldo Zombique",
+        "subtitle": null,
+        "description": "<p>Si vous trouvez de bon go\u00fbt d\u2019affubler votre fid\u00e8le destrier de la d\u00e9pouille n\u00e9cros\u00e9e d\u2019un de ses cong\u00e9n\u00e8res, vous devriez s\u00e9rieusement songer \u00e0 arr\u00eater de manger des Corbacs au petit-d\u00e9jeuner ou d\u2019\u00e9couter du Kr\u00e2msta\u00efn toute la journ\u00e9e.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9671\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9671\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Si vous trouvez de bon go\u00fbt d\u2019affubler votre fid\u00e8le destrier de la d\u00e9pouille n\u00e9cros\u00e9e d\u2019un de ses cong\u00e9n\u00e8res, vous devriez s\u00e9rieusement songer \u00e0 arr\u00eater de manger des Corbacs au petit-d\u00e9jeuner ou d\u2019\u00e9couter du Kr\u00e2msta\u00efn toute la journ\u00e9e.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Muldo Zombique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13037\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13037\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1093,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo Zombique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19136,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:49:43+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo Zombique", "Zombite Seemyool Harness", "Zombie-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua z\u00f3mbicos", "Bardatura da Acquavallo Zombica", "Arreios de Marmula Zumbi", null, null, null],
+                    "definition_description": ["Si vous trouvez de bon go\u00fbt d\u2019affubler votre fid\u00e8le destrier de la d\u00e9pouille n\u00e9cros\u00e9e d\u2019un de ses cong\u00e9n\u00e8res, vous devriez s\u00e9rieusement songer \u00e0 arr\u00eater de manger des Corbacs au petit-d\u00e9jeuner ou d\u2019\u00e9couter du Kr\u00e2msta\u00efn toute la journ\u00e9e.", "If you think dressing your loyal destrier in the necrotised skin of one of its fellow creatures is tasteful, you should consider cutting back on eating Crobaks for breakfast or listening to Kramstine all day long.", "Wenn ihr es f\u00fcr stilvoll haltet, euer treues Ross mit den nekrotischen \u00dcberresten eines seiner Artgenossen zu schm\u00fccken, dann solltet ihr es in Erw\u00e4gung ziehen, damit aufzuh\u00f6ren, Rablinge zum Fr\u00fchst\u00fcck zu essen oder den ganzen Tag lang Kramstein zu h\u00f6ren.", "Si te parece de buen gusto vestir a tu fiel corcel con los restos mortales necrosados de uno de sus cong\u00e9neres, deber\u00edas plantearte seriamente dejar de desayunar cuerboks o de estar todo el d\u00eda escuchando Krammstain.", "Se trovi di buon gusto agghindare il tuo fedele destriero con le spoglie necrotizzate di uno dei suoi simili, dovresti davvero smettere di mangiare Cuervoc a colazione o di ascoltare Drammstain tutto il giorno.", "Se voc\u00ea acha que \u00e9 uma boa ideia vestir seu fiel corcel com os restos necrosados de um parente dele, talvez seja melhor parar de comer Corvocs no caf\u00e9 da manh\u00e3 ou de escutar Kramstain o dia inteiro.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14793",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9671\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515432",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975225",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9683,
+        "key": null,
+        "name": "Muldo Likrone",
+        "subtitle": null,
+        "description": "Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9683\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9683\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Muldo Likrone",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13045\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13045\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1094,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo Likrone",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18800,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:50:33+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo Likrone", "Unikron Seemyool Harness", "Einohr-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua urikornio", "Bardatura da Acquavallo Lunicorno", "Arreios de Marmula Unikr\u00f4nio", null, null, null],
+                    "definition_description": ["Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.", "Myth or reality? There've never been so many Unikrons reported since this harness was put into service.", "Mythos oder Realit\u00e4t? Es sind noch nie so viele Einohren gesichtet worden wie seit der Markteinf\u00fchrung dieses Zaumzeugs.", "\u00bfMito o realidad? Nunca se han avistado tantos urikornios como desde que salieron al mercado estos arreos.", "Leggenda o realt\u00e0? Non ci sono mai stati tanti avvistamenti di Lunicorni come dal momento in cui questa bardatura \u00e8 stata resa disponibile.", "Mito ou verdade? Desde o lan\u00e7amento destes arreios, o n\u00famero de relatos de apari\u00e7\u00f5es de Unikr\u00f4nios aumentou consideravelmente.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14791",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9683\/gallery_all_50_50.png"
+        }, {
+            "id": "14792",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9683\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515430",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975278",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9470,
+        "key": null,
+        "name": "Dragodinde Magmatique",
+        "subtitle": null,
+        "description": "<p>Ce harnachement est id\u00e9al pour prot\u00e9ger votre dragodinde lorsqu\u2019elle doit traverser les landes de Sidimote \u00e0 toute vitesse parce que vous avez le feu aux fesses.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2019-08-05T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9470\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9470\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce harnachement est id\u00e9al pour prot\u00e9ger votre dragodinde lorsqu\u2019elle doit traverser les landes de Sidimote \u00e0 toute vitesse parce que vous avez le feu aux fesses.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde Magmatique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13035\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13035\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1092,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Magmatique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18881,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:48:29+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T11:48:31+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Magmatique", "Magmatic Dragoturkey Harness", "Magma-Zaumzeug f\u00fcr Dracotruter", "Arreos de dragopavo magm\u00e1tico", "Bardatura da Dragacchino Magmatica", "Arreios de Dragoperu Magm\u00e1tico", null, null, null],
+                    "definition_description": ["Ce harnachement est id\u00e9al pour prot\u00e9ger votre dragodinde lorsqu\u2019elle doit traverser les landes de Sidimote \u00e0 toute vitesse parce que vous avez le feu aux fesses.", "This harness is perfect for protecting your Dragoturkey when it needs to cross the Sidimote Moors at full speed because you're hot to trot.", "Dieses Zaumzeug sch\u00fctzt euren Dracotruter, wenn er das Sidimot-Gebiet mit vollem Tempo durchqueren muss, weil euch mal wieder jemand Feuer unter dem Hintern gemacht hat.", "Estos arreos son ideales para proteger a tu dragopavo cuando atraviese las landas de Sidimote a toda velocidad porque tienes el fuego pegado al trasero.", "Questa bardatura \u00e8 ideale per proteggere il tuo Dragacchino quando deve attraversare le Lande di Sidimote.", "Estes arreios s\u00e3o ideais para proteger o seu Dragoperu enquanto voc\u00eas atravessam as Estepes de Sidimote na maior velocidade para fugir quando o circo pega fogo.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14796",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9470\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515441",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975020",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8894,
+        "key": null,
+        "name": "Dragodinde des Glaces",
+        "subtitle": null,
+        "description": "<p>Ce harnachement est insensible \u00e0 la fonte des glaces. Vous pouvez donc continuer \u00e0 vivre sans vous soucier des cons\u00e9quences de vos actes sur le r\u00e9chauffement climatique.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2018-07-20T11:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13087\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13087\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce harnachement est insensible \u00e0 la fonte des glaces. Vous pouvez donc continuer \u00e0 vivre sans vous soucier des cons\u00e9quences de vos actes sur le r\u00e9chauffement climatique.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde des Glaces",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13087\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13087\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1139,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde des Glaces",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18524,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:29:23+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde des Glaces", "Ice Dragoturkey Harness", "Eis-Zaumzeug f\u00fcr Dracotruter", "Arreos de dragopavo de los hielos", "Bardatura da Dragacchino dei Ghiacci", "Arreios de Dragoperu do Gelo", null, null, null],
+                    "definition_description": ["Ce harnachement est insensible \u00e0 la fonte des glaces. Vous pouvez donc continuer \u00e0 vivre sans vous soucier des cons\u00e9quences de vos actes sur le r\u00e9chauffement climatique.", "This harness is insusceptible to thawing. You can therefore continue living without worrying about the consequences of your actions on climate change.", "Diesem Zaumzeug macht die Eisschmelze nichts aus. Ihr k\u00f6nnt also unbek\u00fcmmert weiterleben, ohne euch um die Konsequenzen eurer Handlungen auf die Klimaerw\u00e4rmung Gedanken machen zu m\u00fcssen.", "Estos arreos son inmunes al deshielo. Con ellos puedes seguir viviendo sin preocuparte por las consecuencias de tus actos en el cambio clim\u00e1tico.", "Questa bardatura \u00e8 insensibile alla fusione dei ghiacci. Quindi potrai continuare a vivere senza preoccuparti delle conseguenze delle tue azioni sul riscaldamento climatico.", "Este arreio \u00e9 insens\u00edvel ao derretimento das geleiras. Portanto, voc\u00ea pode continuar vivendo sem se preocupar com as consequ\u00eancias dos seus atos para o aquecimento global.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "308518",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973472",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9529,
+        "key": null,
+        "name": "Muldo Coquillage",
+        "subtitle": null,
+        "description": "Ce harnachement constitu\u00e9 de coquillages et de coraux fera votre Muldo se sentir comme un poisson dans l\u2019eau lors de vos excursions sous-marines.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2018-07-20T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": true,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9529\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9529\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Gr\u00e2ce \u00e0 ce harnachement constitu\u00e9 de coquillages et de coraux, votre Muldo se sentira comme un poisson dans l\u2019eau lors de vos excursions sous-marines.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Muldo coquillage",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13090\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13090\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1142,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo coquillage",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18152,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:42:48+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo coquillage", "Shell Seemyool Harness", "Muschel-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua bivalvos", "Bardatura da Acquavallo Conchiglia", "Arreios de Marmula Unikr\u00f4nio", null, null, null],
+                    "definition_description": ["Gr\u00e2ce \u00e0 ce harnachement constitu\u00e9 de coquillages et de coraux, votre Muldo se sentira comme un poisson dans l\u2019eau lors de vos excursions sous-marines.", "Thanks to this harness made from shells and coral, your Seemyool will feel like a fish in the water during your underwater outings.", "Mit diesem Zaumzeug aus Muscheln und Korallen wird euer Seequagga sich wie ein Fisch im Wasser f\u00fchlen, wenn ihr in den Tiefen des Meeres unterwegs seid.", "Gracias a estos arreos formados de valvas y corales, tu mulagua se sentir\u00e1 como pez en el agua durante vuestras excursiones submarinas.", "Questa bardatura \u00e8 costituita da conchiglie e coralli e il tuo Acquavallo si sentir\u00e0 come un pesce nell'acqua indossandola durante le vostre escursioni sottomarine.", "Com estes arreios feitos de conchas e corais, sua Marmula se sentir\u00e1 um peixe dentro d'\u00e1gua em suas excurs\u00f5es submarinas.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12971",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9529\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515443",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "975106",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8362,
+        "key": null,
+        "name": "Dragodinde Royal",
+        "subtitle": null,
+        "description": "<p>On dit que \u00ab l\u2019habit ne fait pas le moine \u00bb, mais \u00e9quiper votre dragodinde de cet attirail est un minimum n\u00e9cessaire pour faire partie de la garde Royale d\u2019Amakna.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2018-07-20T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13088\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13088\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "On dit que \u00ab l\u2019habit ne fait pas le moine \u00bb, mais \u00e9quiper votre dragodinde de cet attirail est un minimum n\u00e9cessaire pour faire partie de la garde Royale d\u2019Amakna.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde Royal",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13088\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13088\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1140,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Royal",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17840,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:36:39+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Royal", "Royal Dragoturkey Harness", "Zaumzeug f\u00fcr K\u00f6nigliche Dracotruter", "Arreos de dragopavo reales", "Bardatura da Dragacchino Reale", "Arreios de Dragoperu real", null, null, null],
+                    "definition_description": ["On dit que \u00ab l\u2019habit ne fait pas le moine \u00bb, mais \u00e9quiper votre dragodinde de cet attirail est un minimum n\u00e9cessaire pour faire partie de la garde Royale d\u2019Amakna.", "They say clothes don't make the man, or the Dragoturkey in this case, but wearing this harness is the least your mount must do if it wants to someday be part of the Royal Amaknian guard.", "Also, auch wenn Kleider keine Leute machen, solltet ihr euren Dracotruter mit dieser Ausstattung ausr\u00fcsten. Um Teil der k\u00f6niglichen Garde Amaknas zu sein, ist dies das Mindeste.", "Aunque se diga que el h\u00e1bito no hace al monje, equipar a tu dragopavo con estos arreos es lo m\u00ednimo que se puede hacer para formar parte de la guardia real de Amakna.", "Si dice che \"l'abito non fa il monaco\", ma equipaggiare il tuo Dragacchino con questa bardatura \u00e8 il minimo necessario per far parte della Guardia Reale.", "Dizem que o h\u00e1bito n\u00e3o faz o monge, mas equipar seu Dragoperu com estes arreios \u00e9 o m\u00ednimo necess\u00e1rio para fazer parte da guarda real de Amakna.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "308516",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973083",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9145,
+        "key": null,
+        "name": "Dragodinde D\u00e9sertique",
+        "subtitle": null,
+        "description": "Ce harnachement est con\u00e7u pour r\u00e9cup\u00e9rer et recycler les fluides corporels de la dragodinde afin de limiter sa d\u00e9shydratation en milieu aride.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2018-07-20T10:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9145\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9145\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce harnachement est con\u00e7u pour r\u00e9cup\u00e9rer et recycler les fluides corporels de la dragodinde afin de limiter sa d\u00e9shydratation en milieu aride.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde D\u00e9sertique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13089\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13089\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1141,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde D\u00e9sertique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18631,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:38:50+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-28T11:38:52+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde D\u00e9sertique", "Desert Dragoturkey Harness", "Zaumzeug f\u00fcr W\u00fcsten-Dracotruter", "Arreos de dragopavo des\u00e9rtico", "Bardatura da Dragacchino del Deserto", "Arreios de Dragoperu Des\u00e9rtico", null, null, null],
+                    "definition_description": ["Ce harnachement est con\u00e7u pour r\u00e9cup\u00e9rer et recycler les fluides corporels de la dragodinde afin de limiter sa d\u00e9shydratation en milieu aride.", "This harness is specially designed to collect and recycle the Dragoturkey's bodily fluids in order to limit its dehydration in arid climates.", "Mit diesem Zaumzeug k\u00f6nnt ihr die K\u00f6rperfl\u00fcssigkeiten des Dracotruters auffangen und recyclen, damit er bei Hitze nicht so schnell austrocknet.", "Estos arreos est\u00e1n pensados para recuperar y reciclar los fluidos corporales del dragopavo y as\u00ed limitar su deshidrataci\u00f3n en el desierto.", "Questa bardatura \u00e8 concepita per recuperare e riciclare i fluidi del tuo Dragacchino per limitare la sua disidratazione in un luogo arido.", "Estes arreios foram projetados para recuperar e reciclar os fluidos corporais do Dragoperu de modo a limitar a desidrata\u00e7\u00e3o da criatura em ambientes \u00e1ridos.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14583",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9145\/gallery_all_50_50.png"
+        }, {
+            "id": "14584",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9145\/gallery_all_50_50.png"
+        }, {
+            "id": "14585",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9145\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "308517",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973796",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8993,
+        "key": null,
+        "name": "Dragodinde Mekantik",
+        "subtitle": null,
+        "description": "<p>En \u00e9quipant ce harnachement sur votre dragodinde, vous la transformerez en un moyen de locomotion m\u00e9canis\u00e9 100% \u00e9cologique et bon march\u00e9.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-12-05T15:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8993\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8993\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "En \u00e9quipant ce harnachement sur votre dragodinde, vous la transformerez en un moyen de locomotion m\u00e9canis\u00e9 100% \u00e9cologique et bon march\u00e9.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde Mekantik",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13151\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13151\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1449,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Mekantik",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18453,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-09-08T16:49:20+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Mekantik", "Mechancient Dragoturkey Harness", "Mechantik-Zaumzeug f\u00fcr Dracotruter", "Arreos de dragopavo mecantiguos", "Bardatura da Dragacchino Meccantico", "Arreios de Dragoperu Mekantik", null, null, null],
+                    "definition_description": ["En \u00e9quipant ce harnachement sur votre dragodinde, vous la transformerez en un moyen de locomotion m\u00e9canis\u00e9 100% \u00e9cologique et bon march\u00e9.", "By putting this harness on your Dragoturkey, you'll transform it into a mechanised mode of transport \u2013 100% environmentally-friendly and inexpensive.", "Wenn ihr euren Dracotruter mit diesem Zaumzeug ausr\u00fcstet, verwandelt ihr ihn in ein mechanisches Fortbewegungsmittel, das nicht nur umweltfreundlich, sondern auch au\u00dferordentlich g\u00fcnstig ist.", "Cuando equipes a tu dragopavo con estos arreos, lo convertir\u00e1s en un medio de locomoci\u00f3n mecanizado barato y 100% ecol\u00f3gico.", "Equipaggiando il tuo Dragacchino con questa bardatura, lo trasformerai in un mezzo di locomozione meccanico, ecologico al 100% e a buon mercato.", "Ao colocar estes arreios no seu Dragoperu, voc\u00ea o transformar\u00e1 em um meio de locomo\u00e7\u00e3o mecanizado 100% ecol\u00f3gico e barato.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14274",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8993\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515444",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973684",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8311,
+        "key": null,
+        "name": "Dragodinde Pilote",
+        "subtitle": null,
+        "description": "<p>Si vous n\u2019avez pas froid aux yeux, vous pourrez transformer votre dragodinde en b\u00eate de course avec ce harnachement. Enfin, en apparence seulement.<\/p>\r\n\r\n<p><em>Attention : cet harnachement ne peut pas \u00eatre \u00e9quip\u00e9 sur une dragodinde en armure ou une dragodinde \u00e0 pl\u00fbme. Il est compatible avec toutes les dragodindes d'\u00e9levage.<\/em><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-12-05T15:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13101\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13101\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Si vous n\u2019avez pas froid aux yeux, vous pourrez transformer votre dragodinde en b\u00eate de course avec ce harnachement. Enfin, en apparence seulement.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde Pilote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13101\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13101\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1153,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Pilote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17838,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T12:06:29+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Pilote", "Pilot Dragoturkey Harness", "Zaumzeug f\u00fcr Piloten-Dracotruter", "Arreos de dragopavo de carreras", "Bardatura da Dragacchino Pilota", "Arreios de Dragoperu piloto", null, null, null],
+                    "definition_description": ["Si vous n\u2019avez pas froid aux yeux, vous pourrez transformer votre dragodinde en b\u00eate de course avec ce harnachement. Enfin, en apparence seulement.", "If you're not timid, you can transform your Dragoturkey into a racing animal with this harness. Or at least make it look like one.", "Wenn euch nichts Angst macht, dann k\u00f6nnt ihr euren Dracotruter mit diesem Zaumzeug in einen Renntruter verwandeln. Also, nur dem Aussehen nach.", "Si eres de los que no temen nada ni a nadie, con estos arreos podr\u00e1s transformar a tu dragopavo en un animal de carrera. Bueno, solo en apariencia.", "Se non hai paura, con questa bardatura puoi trasformare il tuo Dragacchino in un esemplare da corsa. In realt\u00e0 cambier\u00e0 solo l'aspetto, non le sue capacit\u00e0.", "Se voc\u00ea \u00e9 do tipo que n\u00e3o tem medo de nada, poder\u00e1 transformar seu Dragoperu em uma fera de corrida com estes arreios. Bom, s\u00f3 na apar\u00eancia.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "279251",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972924",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8313,
+        "key": null,
+        "name": "Muldo Sufokien",
+        "subtitle": null,
+        "description": "<p>Aux couleurs de Sufokia, votre Muldo en imposera.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-12-05T15:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8313\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8313\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Aux couleurs de Sufokia, votre Muldo en imposera.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Muldo Sufokien",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13103\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13103\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1154,
+                    "category_id": 23,
+                    "name": "Harnachement de Muldo Sufokien",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18151,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T15:02:50+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Muldo Sufokien", "Sufokian Seemyool Harness", "Sufokia-Zaumzeug f\u00fcr Seequaggas", "Arreos de mulagua sufoke\u00f1os", "Bardatura da Acquavallo di Sufokia", "Arreios de Marmula sufokiana", null, null, null],
+                    "definition_description": ["Aux couleurs de Sufokia, votre Muldo en imposera.", "Your Seemyool will be impressive in the colours of Sufokia.", "In den Farben von Sufokia wird euer Seequagga ein pr\u00e4chtiges Bild abgeben.", "Con los colores de Sufokia, tu mulagua lucir\u00e1 imponente.", "Mostra a tutti i colori di Sufokia!", "Com as cores de Sufokia l\u00e1 e c\u00e1, sua Marmula vai arrasar.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11498",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8313\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515446",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972977",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8924,
+        "key": null,
+        "name": "Dragodinde Barbare",
+        "subtitle": null,
+        "description": "Les dragodindes poss\u00e8dent d\u00e9j\u00e0 une partie des caract\u00e9ristiques du barbare : la t\u00e9m\u00e9rit\u00e9 et un certain ridicule. Pour ce qui est de la force, n'esp\u00e9rez pas qu'un simple Harnachement puisse y faire quelque chose.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-12-05T15:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8924\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8924\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Les dragodindes poss\u00e8dent d\u00e9j\u00e0 une partie des caract\u00e9ristiques du barbare : la t\u00e9m\u00e9rit\u00e9 et un certain ridicule. Pour ce qui est de la force, n'esp\u00e9rez pas qu'un simple Harnachement puisse y faire quelque chose.<p>Niveau : 60<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Harnachement de Dragodinde Barbare",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13105\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13105\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1155,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Barbare",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18157,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T15:12:06+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Barbare", "Barbaric Dragoturkey Harness", "Barbaren-Zaumzeug f\u00fcr Dracotruter", "Arreos de dragopavo b\u00e1rbaro", "Bardatura da Dragacchino Barbara", "Arreios de Dragoperu B\u00e1rbaro", null, null, null],
+                    "definition_description": ["Les dragodindes poss\u00e8dent d\u00e9j\u00e0 une partie des caract\u00e9ristiques du barbare : la t\u00e9m\u00e9rit\u00e9 et un certain ridicule. Pour ce qui est de la force, n'esp\u00e9rez pas qu'un simple Harnachement puisse y faire quelque chose.", "Dragoturkeys already have slightly barbaric characteristics: recklessness and a certain absurdity. As for their strength, don't expect a simple harness to do anything about it.", "Die Dracotruter haben ja bereits einige Merkmale mit dem Barbaren gemeinsam: die Verwegenheit und eine gewisse L\u00e4cherlichkeit. Was die Kraft angeht, d\u00fcrft ihr euch jedoch keine gro\u00dfen Hoffnungen machen; ein einfaches Zaumzeug wird da nicht viel ausrichten k\u00f6nnen.", "Los dragopavos ya poseen una parte de las caracter\u00edsticas del b\u00e1rbaro: la temeridad y cierto aire rid\u00edculo. En cuanto a la fuerza, no esperes que unos simples arreos consigan algo.", "I Dragacchini possiedono gi\u00e0 una parte delle caratteristiche del Barbaro: la temerariet\u00e0 e un certo senso del ridicolo. Per quanto riguarda la forza, non sperare che una semplice bardatura possa fare qualcosa.", "Os Dragoperus j\u00e1 possuem uma parte das caracter\u00edsticas do b\u00e1rbaro: a aud\u00e1cia e uma apar\u00eancia um tanto rid\u00edcula. No que diz respeito \u00e0 for\u00e7a, no entanto, n\u00e3o v\u00e1 pensando que uns simples arreios possam fazer alguma diferen\u00e7a.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14586",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8924\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "279252",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973631",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8418,
+        "key": null,
+        "name": "Dragodinde Likrone",
+        "subtitle": null,
+        "description": "<p>Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2017-12-05T15:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/10245\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/10245\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.<\/p>\r\n",
+            "name": "Harnachement de Dragodinde Likrone",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10245\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10245\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 550,
+                    "category_id": 23,
+                    "name": "Harnachement de Dragodinde Likrone",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18196,
+                        "effect": null,
+                        "bond": 365,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-06-21T12:22:07+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": "2020-07-28T15:08:47+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Harnachement de Dragodinde Likrone", "Unikron Dragoturkey Harness", "Einohr-Zaumzeug f\u00fcr Dracotruter", "Arreos de dragopavo urikornio", "Bardatura da Dragacchino Lunicorno", "Arreios de Dragoperu Unikr\u00f4nio", null, null, null],
+                    "definition_description": ["Mythe ou r\u00e9alit\u00e9 ? Il n'y a jamais eu autant de signalements de Likrone depuis la mise en service de ce Harnachement.", "Fact or fiction ? There've never been so many Unikrons reported since this harness was put into service.", "Mythos oder Realit\u00e4t? Es sind noch nie so viele Einohren gesichtet worden wie seit der Markteinf\u00fchrung dieses Zaumzeugs.", "\u00bfMito o realidad? Nunca se han avistado tantos urikornios como desde que salieron al mercado estos arreos.", "Leggenda o realt\u00e0? Non ci sono mai stati tanti avvistamenti di Lunicorni da quando \u00e8 disponibile questa bardatura.", "Mito ou verdade? Desde o lan\u00e7amento destes arreios, o n\u00famero de relatos de apari\u00e7\u00f5es de Unikr\u00f4nios aumentou consideravelmente.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "515445",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973279",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": null,
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": null,
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8178,
+        "key": null,
+        "name": "Dragodinde Abraknyde",
+        "subtitle": null,
+        "description": "<p>Si vous pouviez \u00e9quiper votre belle-m\u00e8re de ce harnachement, vous auriez une raison suppl\u00e9mentaire de l\u2019appeler \u00ab vieille branche \u00bb.\u00a0<\/p>\r\n\r\n<p><em>Attention : cet harnachement ne peut pas \u00eatre \u00e9quip\u00e9 sur une dragodinde en armure ou une dragodinde \u00e0 pl\u00fbme. Il est compatible avec toutes les dragodindes d'\u00e9levage.<\/em><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 3.25,
+        "startdate": "2016-12-07T09:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8178\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8178\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Si vous pouviez \u00e9quiper votre belle-m\u00e8re de ce harnachement, vous auriez une raison suppl\u00e9mentaire de l\u2019appeler \u00ab vieille branche \u00bb.\u00a0<\/p>\r\n",
+            "name": "Harnachement de Dragodinde Abraknyde",
+            "free": false,
+            "quantity": "1",
+            "type": "VIRTUALGIFT",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/8730\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/8730\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": [{
+                "image": "https:\/\/static.ankama.com\/dofus\/www\/game\/items\/200\/182004.png",
+                "description": "Si vous pouviez \u00e9quiper votre belle-m\u00e8re de ce harnachement, vous auriez une raison suppl\u00e9mentaire de l\u2019appeler \u00ab vieille branche \u00bb. ",
+                "name": "Harnachement de Dragodinde Abraknyde",
+                "id": "17839"
+            }],
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11333",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8178\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "515447",
+            "original_price": null,
+            "price": 3000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972631",
+            "original_price": null,
+            "price": 2.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": null,
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": null,
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

@@ -1,0 +1,902 @@
+{
+    "total_count": 22,
+    "articles": [{
+        "id": 2397,
+        "key": "OGRINE_47000",
+        "name": "47.000 Ogrines",
+        "subtitle": null,
+        "description": "<div>Utilisez vos Ogrines selon vos envies dans les Boutiques DOFUS, DOFUS Retro et WAKFU, depuis le Launcher, sur la boutique en ligne ou directement en jeu.<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 63.99,
+        "startdate": "2017-01-21T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/portrait_16061_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/portrait_16061_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "47000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11931",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_50_50.png"
+        }, {
+            "id": "11932",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_50_50.png"
+        }, {
+            "id": "11933",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_50_50.png"
+        }, {
+            "id": "11934",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "3",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_50_50.png"
+        }, {
+            "id": "11935",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "4",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/gallery_all_50_50.png"
+        }, {
+            "id": "16061",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "5",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2397\/portrait_16061_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "383",
+                "key": null,
+                "name": "Ogrines Wakfu"
+            }, {
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1390270",
+            "original_price": null,
+            "price": 60,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 2396,
+        "key": "OGRINE_28000",
+        "name": "28.000 Ogrines",
+        "subtitle": null,
+        "description": "<div>\r\n<div>Utilisez vos Ogrines selon vos envies dans les Boutiques DOFUS, DOFUS Retro et WAKFU, depuis le Launcher, sur la boutique en ligne ou directement en jeu.<\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 42.99,
+        "startdate": "2017-01-21T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/portrait_16060_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/portrait_16060_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "28000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11920",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/gallery_all_50_50.png"
+        }, {
+            "id": "16060",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2396\/portrait_16060_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "383",
+                "key": null,
+                "name": "Ogrines Wakfu"
+            }, {
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1390081",
+            "original_price": null,
+            "price": 40,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 2395,
+        "key": "OGRINE_13000",
+        "name": "13.000 Ogrines",
+        "subtitle": null,
+        "description": "<div>\r\n<div>Utilisez vos Ogrines selon vos envies dans les Boutiques DOFUS, DOFUS Retro et WAKFU, depuis le Launcher, sur la boutique en ligne ou directement en jeu.<\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 21.49,
+        "startdate": "2017-01-21T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/portrait_16059_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/portrait_16059_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "13000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11919",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/gallery_all_50_50.png"
+        }, {
+            "id": "11923",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/gallery_all_50_50.png"
+        }, {
+            "id": "11938",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/gallery_all_50_50.png"
+        }, {
+            "id": "16059",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "3",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2395\/portrait_16059_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "383",
+                "key": null,
+                "name": "Ogrines Wakfu"
+            }, {
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1389852",
+            "original_price": null,
+            "price": 20,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 2394,
+        "key": "OGRINE_6000",
+        "name": "6.000 Ogrines",
+        "subtitle": null,
+        "description": "<div>Utilisez vos Ogrines selon vos envies dans les Boutiques DOFUS, DOFUS Retro et WAKFU, depuis le Launcher, sur la boutique en ligne ou directement en jeu.<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 10.99,
+        "startdate": "2017-01-21T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/portrait_16058_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/portrait_16058_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "6000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11918",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/gallery_all_50_50.png"
+        }, {
+            "id": "11924",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/gallery_all_50_50.png"
+        }, {
+            "id": "11937",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/gallery_all_50_50.png"
+        }, {
+            "id": "16058",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "3",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/2394\/portrait_16058_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "383",
+                "key": null,
+                "name": "Ogrines Wakfu"
+            }, {
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1390577",
+            "original_price": null,
+            "price": 10,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 4296,
+        "key": "OGRINE_1000",
+        "name": "1.000 Ogrines",
+        "subtitle": null,
+        "description": "<div>Utilisez vos Ogrines selon vos envies dans les Boutiques DOFUS, DOFUS Retro et WAKFU, depuis le Launcher, sur la boutique en ligne ou directement en jeu.<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 1.99,
+        "startdate": "2017-01-21T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/gallery_all_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/portrait_16339_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/portrait_16339_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "1000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }],
+        "promo": [],
+        "media": [{
+            "id": "16339",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/portrait_16339_all_424_475.png"
+        }, {
+            "id": "16615",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/gallery_all_50_50.png"
+        }, {
+            "id": "16624",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "2",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/4296\/gallery_all_50_50.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "383",
+                "key": null,
+                "name": "Ogrines Wakfu"
+            }, {
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1389609",
+            "original_price": null,
+            "price": 2,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 13024,
+        "key": null,
+        "name": "Master Pack",
+        "subtitle": null,
+        "description": "<div>\r\n<div>Recevez 47.000 ogrines mais aussi\u00a0la Panopli\u00e9e*, l'Emote Origami* et le montilier Ekirin* !<\/div>\r\n\r\n<div>\u00a0<\/div>\r\n\r\n<div class=\"ak-payment-warning-info\"><span style=\"color:#e74c3c\"><strong>*ATTENTION: OBJET COMPATIBLE UNIQUEMENT AVEC DOFUS 2 : Ces objets sont li\u00e9s pendant 6 mois au compte.<\/strong><\/span><\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 75.4,
+        "startdate": "2020-12-15T09:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/gallery_fr_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/gallery_fr_200_200.png"
+        }, {
+            "width": 290,
+            "height": 325,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/portrait_16447_all_424_475.png"
+        }, {
+            "width": 424,
+            "height": 475,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/portrait_16447_all_424_475.png"
+        }],
+        "references": [{
+            "description": "",
+            "name": "Ogrines",
+            "free": false,
+            "quantity": "47000",
+            "type": "OGRINE",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/540\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": null
+        }, {
+            "description": "",
+            "name": "Panopli\u00e9e",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13288\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1523,
+                    "category_id": 18,
+                    "name": "Panopli\u00e9e",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24148,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24149,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }, {
+                        "item_id": 24147,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T15:31:55+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Panopli\u00e9e", "Dedlof Set", "Faltset", "Panoplegada", "Panopliegata", "Conjundobrado", null, null, null],
+                    "definition_description": ["Ne vous m&eacute;prenez pas, le papier a beaucoup de vertus, et peut si on le plie de la bonne mani&egrave;re devenir ultra-r&eacute;sistant. C&#39;est le cas de cette panoplie qui est structurellement parfait car il est constitu&eacute; de papier pli&eacute; 12 fois sur lui-m&ecirc;me, ce qui semble &ecirc;tre un record.&nbsp; (D&eacute;posez ces items sur des &eacute;quipements&nbsp;d&eacute;j&agrave; &eacute;quip&eacute;s pour transmettre leurs apparences)", "We all know that paper can cause horrific flesh wounds, but it also becomes ultra-strong if folded the right way. This attire is a great example. It is structurally perfect having been made from paper folded 12 times, which is probably a record.&nbsp; (Place this items over another, already-equipped to change its appearance.)", "Lasst euch nicht t&auml;uschen: das Papier hat viele Vorteile und wird &auml;u&szlig;erst robust, wenn man es nur auf die richtige Art und Weise faltet. Das gilt auch f&uuml;r diesen Prunk-Set, der extrem robust ist, da er aus zw&ouml;lffach gefaltetem Papier besteht. Das ist absoluter Rekord.&nbsp; (Verkn&uuml;pft diesen Prunk-Set mit einem bereits ausger&uuml;steten Set, um diesem das Aussehen zu &uuml;bertragen.)", "No te confundas: el papel tiene muchas virtudes y, si se dobla bien, puede llegar a ser ultrarresistente. Como sucede con este panoplia, cuya estructura es perfecta, porque est&aacute; hecho con papel plegado doce veces sobre s&iacute;, lo cual parece ser todo un r&eacute;cord.&nbsp; (Pon este panoplia sobre otro que tengas equipado para proporcionarle su apariencia.)", "Non credere! La carta ha un sacco di propriet&agrave;, tanto che se la si piega in modo giusto, pu&ograve; addirittura diventare super resistente. &Egrave; proprio il caso di questo panoplia che &egrave; strutturalmente perfetto perch&eacute; &egrave; costituito da un foglio di carta ripiegato per 12 volte su se stesso, quasi un&#39;impresa da record.&nbsp; (Associa questo panoplia a un altro panoplia gi&agrave; equipaggiato per cambiarne l&#39;aspetto)", "N&atilde;o se engane: o papel tem muitas virtudes e, dobrado do jeito certo, pode ser ultrarresistente. &Eacute; o caso deste conjunto, que tem uma estrutura perfeita, pois &eacute; constitu&iacute;da de papel dobrado 12 vezes, um recorde.&nbsp; (Coloque este conjonto por cima de outro conjunto que voc&ecirc; j&aacute; estiver usando para lhe transmitir sua apar&ecirc;ncia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Origami",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13285\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1520,
+                    "category_id": 17,
+                    "name": "Origami",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24174,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T09:45:24+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Origami", "Origami", "Origami", "Origami", "Origami", "Origami", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d&#39;apprendre l&#39;attitude Origami", "Use this scroll to learn the Origami emote.", "Mit dieser Schriftrolle k&ouml;nnt ihr das Emote &bdquo;Origami&ldquo; erlernen.", "Con este pergamino, podr&aacute;s aprender la actitud Origami.", "Questa pergamena ti permette di imparare l&#39;emote Origami.", "Com este pergaminho, voc&ecirc; poder&aacute; aprender o emote Origami.", null, null, null]
+                }
+            }
+        }, {
+            "description": "",
+            "name": "Ekirin",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13286\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1521,
+                    "category_id": 40,
+                    "name": "Ekirin",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 24175,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-12-14T09:50:48+01:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", "Ekirin", null, null, null],
+                    "definition_description": ["On raconte que seul un grand aventurier peut monter le fier Ekirin. Si vous vous sentez &agrave; la hauteur, tentez votre chance et prouvez votre valeur.\r\n(D&eacute;posez ce montilier sur un autre montilier d&eacute;j&agrave; &eacute;quip&eacute; pour lui transmettre son apparence)", "They say that only a great adventurer can ride the proud Ekirin. If you feel up to it, try your luck and prove your worth.\r\n(Place this petsmount over another, already-equipped petsmount to change its appearance.)", "Man sagt, dass nur ein gro&szlig;er Abenteurer auf dem stolzen Igamori reiten kann. Wenn ihr euch dem gewachsen f&uuml;hlt, nutzt die Chance und stellt euer K&ouml;nnen unter Beweis.", "Dicen que solo un gran aventurero puede ir a lomos del ilustre ekirin. Si crees que est&aacute;s a la altura, prueba a ver y demuestra tu val&iacute;a.\r\n(Pon esta mascotura sobre otra que tengas equipada para proporcionarle su apariencia.)", "Si dice che solo un grande avventuriero possa cavalcare il fiero Ekirin. Se ti senti all&#39;altezza, tenta la fortuna e prova il tuo valore.", "Dizem que s&oacute; um grande aventureiro pode montar no altivo Igamori. Se voc&ecirc; acha que est&aacute; &agrave; altura do desafio, tente a sorte e mostre o seu valor.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "16440",
+            "key": null,
+            "lang": "LANG",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/gallery_fr_50_50.png"
+        }, {
+            "id": "16447",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "PORTRAIT",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/13024\/portrait_16447_all_424_475.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "412",
+                "key": null,
+                "name": "Ogrines Dofus"
+            }]
+        }],
+        "pricelist": [{
+            "id": "1355299",
+            "original_price": null,
+            "price": 70,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

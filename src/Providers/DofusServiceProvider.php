@@ -50,7 +50,6 @@ class DofusServiceProvider extends BasePluginServiceProvider
      */
     public function register()
     {
-        $this->registerMiddlewares();
 
         config(['database.connections.dofus_world' => [
             'driver' => 'mysql',
@@ -124,7 +123,7 @@ class DofusServiceProvider extends BasePluginServiceProvider
     protected function routeDescriptions()
     {
         return [
-            //
+            'dofus.market.index' => 'Dofus - Character Market',
         ];
     }
 

@@ -1,0 +1,2410 @@
+{
+    "total_count": 27,
+    "articles": [{
+        "id": 12091,
+        "key": null,
+        "name": "Pack Karnaval",
+        "subtitle": null,
+        "description": "<p>Venez c\u00e9l\u00e9brer le\u00a0Karnaval des Tout-Fous au rythme de l'emote Carnaval* !<\/p>\r\n\r\n<p>M\u00eame si le port de la panoplie d'apparat Karnaval** est autoris\u00e9e toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/em><\/p>\r\n\r\n<p><em>**Ces\u00a0objets seront\u00a0li\u00e9s \u00e0 votre compte pendant 62 jours<\/em><\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<div class=\"ak-big-image template_block\"><img alt=\"\" class=\"img-responsive\" height=\"335\" src=\"http:\/\/static.ankama.com\/upload\/backoffice\/direct\/2020-02-25\/d26690c0cb357bf79c5ab1c10899c4be.gif\" width=\"600\" \/><\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 8.49,
+        "startdate": "2021-02-25T09:00:00+01:00",
+        "enddate": "2021-03-11T00:00:00+01:00",
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "M\u00eame si le port du Caskarnaval est autoris\u00e9 toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.\r\n(D\u00e9posez ce chapeau sur un autre chapeau d\u00e9j\u00e0 \u00e9quip\u00e9 pour lui transmettre son apparence)<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Caskarnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12482\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12482\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 759,
+                    "category_id": 18,
+                    "name": "Caskarnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 15097,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:55:30+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Caskarnaval", "Karnaval Headdress", "Karneval Kappe", "Casco de karnaval", "Caskarnevale", "Karnachap\u00e9u", null, null, null],
+                    "definition_description": ["M\u00eame si le port du Caskarnaval est autoris\u00e9 toute l\u2019ann\u00e9e, il est plut\u00f4t d\u00e9conseill\u00e9 de s\u2019en \u00e9quiper en dehors de la p\u00e9riode du Karnaval des Tout-Fous, au risque d\u2019\u00eatre, justement, pris pour un fou.\r\n(D\u00e9posez ce chapeau sur un autre chapeau d\u00e9j\u00e0 \u00e9quip\u00e9 pour lui transmettre son apparence)", "Although there's no law forbidding you from wearing the Karnaval Headdress all year round, you ought to know that donning it when it's not Too-Faux Karnaval weekend is seen as a sure-fire fashion faux-pas.\r\n(Place this headgear over other, already-equipped headgear to change its appearance.)", "Klar ist es erlaubt, das ganze Jahr \u00fcber mit einer solchen Kappe auf dem Kopf herumzulaufen. Aber ob das auch au\u00dferhalb des Vertofurr\u00fcckten Karnevals ratsam ist, steht auf einem anderen Blatt. Ihr k\u00f6nntet sonst glatt f\u00fcr einen Narren gehalten werden.\r\n(Verkn\u00fcpft diese Kopfbedeckung mit einer anderen Kopfbedeckung, um dieser das Aussehen zu \u00fcbertragen.)", "Aunque est\u00e9 autorizado llevar este casco todo el a\u00f1o, se desaconseja lucirlo fuera del periodo de karnaval de los Lokitofus, a riesgo de que te tomen por un loco de verdad.\r\n(Pon este sombrero sobre otro que tengas equipado para proporcionarle su apariencia.)", "Anche se indossare questo casco \u00e8 autorizzato tutto l'anno, \u00e8 comunque sconsigliato equipaggiarlo al di fuori del periodo del Karnevale dei Pazzarelli, o rischi di essere preso, appunto, per un pazzarello.\r\n(Associa questo cappello a un altro cappello gi\u00e0 equipaggiato per cambiarne l'aspetto)", "Apesar de o uso do Karnachap\u00e9u ser autorizado o ano inteiro, ele \u00e9 desaconselhado fora do per\u00edodo do Karnaval dos Tofuli\u00f5es, pois podem acabar achando que voc\u00ea n\u00e3o bate bem da bola.\r\n(Coloque este chap\u00e9u por cima de outro chap\u00e9u que voc\u00ea j\u00e1 estiver usando para lhe transmitir sua apar\u00eancia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Tout comme le Caskarnaval, il vaut mieux garder cette cape pour certaines occasions particuli\u00e8res. Ne vous y trompez pas, la porter pendant un mariage, par exemple, pourrait \u00eatre assimil\u00e9 \u00e0 une tentative de trouble \u00e0 l\u2019ordre public.\r\n(D\u00e9posez cette cape sur une autre cape d\u00e9j\u00e0 \u00e9quip\u00e9e pour lui transmettre son apparence)<p>Niveau : 1<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Karnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12483\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12483\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 760,
+                    "category_id": 18,
+                    "name": "Cape Karnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 15098,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:56:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Karnaval", "Karnaval Cape", "Cape Karneval", "Capa de karnaval", "Mantello Karnevale", "Karnacapa", null, null, null],
+                    "definition_description": ["Tout comme le Caskarnaval, il vaut mieux garder cette cape pour certaines occasions particuli\u00e8res. Ne vous y trompez pas, la porter pendant un mariage, par exemple, pourrait \u00eatre assimil\u00e9 \u00e0 une tentative de trouble \u00e0 l\u2019ordre public.\r\n(D\u00e9posez cette cape sur une autre cape d\u00e9j\u00e0 \u00e9quip\u00e9e pour lui transmettre son apparence)", "Just like the matching headdress, it is suggested that you save this cape for special occasions. As much as you'd like to parade around a wedding reception with it on, you must admit that it's kind of rude to steal the bride's limelight so flagrantly.\r\n(Place this cape over another, already-equipped cape to change its appearance.)", "Genauso wie die Karneval Kappe sollte dieser Umhang ebenfalls f\u00fcr besondere Gelegenheiten vorbehalten sein. Also seid vorsichtig ... Beispielsweise bei einer Hochzeit k\u00f6nnte das Tragen dieses Umhangs als versuchte Ruhest\u00f6rung ausgelegt werden.\r\n(Verkn\u00fcpft diesen Umhang mit einem anderen Umhang, um diesem das Aussehen zu \u00fcbertragen.)", "Al igual que el casco de karnaval, es mejor reservar esta capa para ciertas ocasiones particulares. No obstante, cuidado: lucirla durante la celebraci\u00f3n de un matrimonio podr\u00eda considerarse como una tentativa de provocar desorden p\u00fablico.\r\n(Pon esta capa sobre otra que tengas equipada para proporcionarle su apariencia.)", "Proprio come per il casco, \u00e8 preferibile tenere da parte questo mantello per determinate occasioni speciali. Ma non tutte: indossare questo mantello a un matrimonio, per esempio, potrebbe essere considerato un tentativo di disturbo dell'ordine pubblico.\r\n(Associa questo mantello a un altro mantello gi\u00e0 equipaggiato per cambiarne l'aspetto)", "Assim como o Karnachap\u00e9u, \u00e9 melhor guardar essa capa para certas ocasi\u00f5es especiais. Mas tome cuidado: se voc\u00ea us\u00e1-la em um casamento, por exemplo, pode acabar sendo acusado de perturba\u00e7\u00e3o da ordem p\u00fablica.\r\n(Coloque esta capa sobre outra capa que voc\u00ea j\u00e1 estiver usando para lhe transmitir sua apar\u00eancia)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Carnaval.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Carnaval<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Carnaval",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12484\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12484\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 758,
+                    "category_id": 17,
+                    "name": "Carnaval",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 20386,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-24T16:55:00+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Carnaval", "Carnival", "Emote-Schriftrolle: \"Karneval\"", "Carnaval", "Carnevale", "Carnaval", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Carnaval.", "Use this scroll to learn the Carnival emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"Karneval\" erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Carnaval.", "Questa pergamena ti permette di imparare l'emote Carnevale.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote \"Carnaval\".", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15498",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/12091\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1394587",
+            "original_price": null,
+            "price": 8000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1394986",
+            "original_price": null,
+            "price": 7.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7169,
+        "key": null,
+        "name": "P\u00eacheur",
+        "subtitle": null,
+        "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de m\u00e9tier P\u00eacheur.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7169\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7169\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de m\u00e9tier P\u00eacheur.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude P\u00eacheur<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "P\u00eacheur",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13042\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13042\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1087,
+                    "category_id": 17,
+                    "name": "P\u00eacheur",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17064,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:43:46+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T11:43:52+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["P\u00eacheur", "Emote Scroll: Fisherman", "Emote-Schriftrolle: \"Fischer\"", "Pescador", "Pescatore", "Pescador", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de m\u00e9tier P\u00eacheur.", "Use this scroll to learn the Fisherman profession's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote des Fischerberufs erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial  de los pescadores.", "Questa pergamena ti permette di imparare l'emote speciale del mestiere Pescatore.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da profiss\u00e3o de pescador.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "10027",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7169\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "611754",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971498",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10555,
+        "key": null,
+        "name": "Dragosaure",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude Dragosaure.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10555\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10555\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Dragosaure.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Dragosaure<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Dragosaure",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13033\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13033\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1090,
+                    "category_id": 17,
+                    "name": "Dragosaure",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19996,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:46:18+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Dragosaure", "Draeggosaure", "Dragosaurier", "Dragosaurio", "Dragosauro", "Dragossauro", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Dragosaure.", "Use this scroll to learn the Draeggosaure emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \u201eDragosaurier\u201c erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Dragosaurio.", "Questa pergamena ti permette di imparare l'emote Dragosauro.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote Dragossauro.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15915",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10555\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "611751",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "978101",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7081,
+        "key": null,
+        "name": "Col\u00e8re de Bolgrot",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude Col\u00e8re de Bolgrot.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7081\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7081\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Col\u00e8re de Bolgrot.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Col\u00e8re de Bolgrot<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Col\u00e8re de Bolgrot",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13032\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13032\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1086,
+                    "category_id": 17,
+                    "name": "Col\u00e8re de Bolgrot",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 16242,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:35:18+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Col\u00e8re de Bolgrot", "Emote Scroll: Bolgrot's Wrath", "Bolgrots Zorn", "Ira de Bolgrot", "Collera di Bolgrot", "Ira de Bolgrot", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Col\u00e8re de Bolgrot.", "Use this scroll to learn the Bolgrot's Wrath emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"Bolgrots Zorn\" erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Ira de Bolgrot.", "Questa pergamena ti permette di imparare l'emote Collera di Bolgrot.", "Use este pergaminho para aprender o emote Ira de Bolgrot.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12970",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7081\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "611752",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971311",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5567,
+        "key": null,
+        "name": "Offrir un G\u00e2teau",
+        "subtitle": null,
+        "description": "Ce parchemin vous permettra d'apprendre l'attitude Offrir un G\u00e2teau. Voil\u00e0 une d\u00e9licieuse attention qui ravira m\u00eame la plus aigrie des Mamas Bwork.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/5567\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/5567\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permettra d'apprendre l'attitude Offrir un G\u00e2teau. Voil\u00e0 une d\u00e9licieuse attention qui ravira m\u00eame la plus aigrie des Mamas Bwork.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Offrir un g\u00e2teau<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Offrir un G\u00e2teau",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13031\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13031\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1085,
+                    "category_id": 17,
+                    "name": "Offrir un G\u00e2teau",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 14812,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:58:27+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Offrir un G\u00e2teau", "Emote Scroll: Give a Cake", "Emote-Schriftrolle: \"Einen Kuchen verschenken\"", "Regalar una tarta", "Offrire un Dolce", "Dar um bolo", null, null, null],
+                    "definition_description": ["Ce parchemin vous permettra d'apprendre l'attitude Offrir un G\u00e2teau. Voil\u00e0 une d\u00e9licieuse attention qui ravira m\u00eame la plus aigrie des Mamas Bwork.", "This scroll will allow you to learn the Give a Cake emote. It's a deliciously kind thought that will charm even the sourest Mama Bwork.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"Einen Kuchen verschenken\" erlernen. Diese Aufmerksamkeit ist so k\u00f6stlich, dass sie selbst die verbittertste Bwork Mama aufheitern w\u00fcrde.", "Con este pergamino puedes aprender la actitud regalar una tarta: todo un detalle que le encantar\u00e1 hasta a la m\u00e1s amargada de las mam\u00e1s bwork.", "Questa pergamena ti permette di imparare l'emote Offrire un dolce. Ecco una squisita attenzione che render\u00e0 felice anche la pi\u00f9 acida Mamy Bwork.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote \"Dar um bolo\".", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "6806",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/5567\/gallery_all_50_50.png"
+        }],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "55",
+            "key": "dofus_supertype",
+            "name": "super type",
+            "metas": [{
+                "id": "1982",
+                "key": null,
+                "name": "super type \/ Attitude"
+            }]
+        }],
+        "pricelist": [{
+            "id": "611750",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "970204",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 10434,
+        "key": null,
+        "name": "Zombique",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude Zombique.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10434\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10434\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Zombique.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Zombique<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Zombique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13044\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13044\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1089,
+                    "category_id": 17,
+                    "name": "Zombique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19159,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:45:23+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Zombique", "Zombite", "Zombie", "Z\u00f3mbico", "Zombico", "Zumbi", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Zombique.", "Use this scroll to learn the Zombite emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \u201eZombie\u201c erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud z\u00f3mbico.", "Questa pergamena ti permette di imparare l'emote Zombico.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote Zumbi.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "13461",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/10434\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "307351",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "977551",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11516,
+        "key": null,
+        "name": "Coeur bris\u00e9",
+        "subtitle": null,
+        "description": "Ce parchemin vous permet d'apprendre l'attitude Coeur bris\u00e9.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11516\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11516\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Coeur bris\u00e9.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Coeur bris\u00e9<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 365 jours<\/p>",
+            "name": "Coeur bris\u00e9",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13034\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13034\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1091,
+                    "category_id": 17,
+                    "name": "Coeur bris\u00e9",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 20993,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:46:58+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Coeur bris\u00e9", "Heartbroken", "Gebrochenes Herz", "Coraz\u00f3n roto", "Cuore Spezzato", "Cora\u00e7\u00e3o partido", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Coeur bris\u00e9.", "Use this scroll to learn the Heartbroken emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \u201eGebrochenes Herz\u201c erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud Coraz\u00f3n roto.", "Questa pergamena ti permette di imparare l'emote Cuore spezzato.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote \"Cora\u00e7\u00e3o partido\".", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14908",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11516\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "611755",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "989104",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9469,
+        "key": null,
+        "name": "Magmatique",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude Magmatique.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2019-09-19T14:15:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9469\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9469\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude Magmatique.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Magmatique<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Magmatique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13043\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13043\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1088,
+                    "category_id": 17,
+                    "name": "Magmatique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 19094,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T11:44:37+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Magmatique", "Magmatic", "Magmatisch", "Magm\u00e1tico", "Magmatico", "Magm\u00e1tico", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude Magmatique.", "Use this scroll to learn the Magmatic emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Emote \"Magmatisch\" erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud magm\u00e1tico.", "Questa pergamena ti permette di imparare l'emote Magmatico.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote Magm\u00e1tico.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12609",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9469\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "611753",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "974967",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8225,
+        "key": null,
+        "name": "Sanguinolente",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Sacrieur.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8225\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8225\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Sacrieur.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Sanguinolent<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Sanguinolent",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13094\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13094\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1146,
+                    "category_id": 17,
+                    "name": "Sanguinolent",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17730,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:56:27+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-28T11:56:33+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Sanguinolent", "Bloody", "Blutig", "Sanguinolento", "Sanguinolento", "Sanguinolento", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Sacrieur.", "Use this scroll to learn the Sacrier class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Sacrieurs erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los sacr\u00f3gritos.", "Questa pergamena ti permette di imparare l'emote speciale della classe S\u00e0crido.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Sacrier.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15920",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8225\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "242285",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972684",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9252,
+        "key": null,
+        "name": "\u00c9l\u00e9mentaire",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Huppermage.<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9252\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9252\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Huppermage.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude \u00c9l\u00e9mentaire<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "\u00c9l\u00e9mentaire",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13097\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13097\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1149,
+                    "category_id": 17,
+                    "name": "\u00c9l\u00e9mentaire",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17453,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T12:02:04+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["\u00c9l\u00e9mentaire", "Emote Scroll: Elemental", "Elementar", "Elemental", "Elementale", "Elementar", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Huppermage.", "Use this scroll to learn the Huppermage\u00a0class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der \u00dcbermagier erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los hipermagos.", "Questa pergamena ti permette di imparare l'emote speciale della classe Hipermago.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe dos Huppermagos.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "12417",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9252\/gallery_all_50_50.png"
+        }, {
+            "id": "12418",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "1",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9252\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "279261",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973902",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7209,
+        "key": null,
+        "name": "Ethylique",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Pandawa.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.9,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7209\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7209\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Pandawa.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude \u00c9thylique<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "\u00c9thylique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13091\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13091\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1143,
+                    "category_id": 17,
+                    "name": "\u00c9thylique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17420,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:46:54+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-28T11:47:04+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["\u00c9thylique", "Emote Scroll: Ethyl", "Feuerwasser", "Et\u00edlico", "Etilico", "Et\u00edlico", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Pandawa.", "Use this scroll to learn the Pandawa class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Pandawas erlernen.", "Con este pergamino podr\u00e1s aprender la actitud especial de los pandawas.", "Questa pergamena ti permette di imparare l'emote speciale della classe Pandawa.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Pandawa.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15918",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7209\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "233277",
+            "original_price": null,
+            "price": 4500,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971609",
+            "original_price": null,
+            "price": 4.49,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8026,
+        "key": null,
+        "name": "Psychotique",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Zobal.<\/p>\r\n\r\n<div class=\"template_block ak-google-maps\">\r\n<div class=\"template_block ak-img-gif-player-block\">\r\n<div class=\"ak-img-gif-player\">\r\n<div class=\"ak-img-gif-content\">\u00a0<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8026\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8026\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Zobal.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Psychotique<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Psychotique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/12468\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/12468\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 743,
+                    "category_id": 17,
+                    "name": "Psychotique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17999,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-02-13T15:06:47+01:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Psychotique", "Emote Scroll: Psychotic", "Durchgeknallt", "Psic\u00f3tico", "Psicotico", "Psic\u00f3tico", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Zobal.", "Use this scroll to learn the Masqueraider class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Maskeradoren erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los zobals.", "Questa pergamena ti permette di imparare l'emote speciale della classe Danzal.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Zobal.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11218",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8026\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "181994",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972578",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8350,
+        "key": null,
+        "name": "Indestructible",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe F\u00e9ca.<\/p>\r\n\r\n<div class=\"template_block ak-img-gif-player-block\">\r\n<div class=\"ak-img-gif-player\">\r\n<div class=\"ak-img-gif-content\">\r\n<p style=\"text-align:center\"><img alt=\"\" class=\"ak-img-gif\" height=\"669\" src=\"http:\/\/staticns.ankama.com\/comm\/news\/dofus\/www\/09_2016\/gif-final.gif\" width=\"675\" \/><\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8350\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8350\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe F\u00e9ca.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Indestructible<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Indestructible",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13095\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13095\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1147,
+                    "category_id": 17,
+                    "name": "Indestructible",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18242,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:57:53+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Indestructible", "Indestructible", "Unzerst\u00f6rbar", "Indestructible", "Indistruttibile", "Indestructible", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe F\u00e9ca.", "Use this scroll to learn the Feca class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der F\u00e9cas erlernen.", "Con este pergamino podr\u00e1s aprender la actitud especial de los fecas.", "Questa pergamena ti permette di imparare l'emote speciale della classe Feca.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Feca.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11522",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8350\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "279259",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973030",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 9146,
+        "key": null,
+        "name": "Enrag\u00e9",
+        "subtitle": null,
+        "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ouginak.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": true,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9146\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9146\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ouginak.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Enrag\u00e9<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Enrag\u00e9",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13096\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13096\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1148,
+                    "category_id": 17,
+                    "name": "Enrag\u00e9",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18649,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T12:00:37+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Enrag\u00e9", "Rabid", "Tollw\u00fctig", "Rabioso", "Arrabbiato", "Raivoso", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ouginak.", "Use this scroll to learn the Ouginak class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Ouginaks erlernen.", "Con este pergamino podr\u00e1s aprender la actitud especial de los uginaks.", "Questa pergamena ti permette di imparare l'emote speciale della classe Uginak.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Kilorf.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14271",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/9146\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "285749",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973849",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7867,
+        "key": null,
+        "name": "Chanceux",
+        "subtitle": null,
+        "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ecaflip.",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7867\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7867\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ecaflip.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Chanceux<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chanceux",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13092\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13092\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1144,
+                    "category_id": 17,
+                    "name": "Chanceux",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17661,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:51:06+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chanceux", "Emote Scroll: Lucky", "Gl\u00fcckskind", "Afortunado", "Fortunato", "Sortudo", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Ecaflip.", "Use this scroll to learn the Ecaflip class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Ecaflips erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los zurcar\u00e1ks.", "Questa pergamena ti permette di imparare l'emote speciale della classe Ecaflip.", "Com este pergaminho, voc\u00ea aprender\u00e1 o emote especial da classe Ecaflip.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "14270",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7867\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "279258",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972391",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7917,
+        "key": null,
+        "name": "Bienfaisant",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eniripsa.<\/p>\r\n\r\n<p><img alt=\"\" src=\"http:\/\/staticns.ankama.com\/comm\/news\/akiba-manga\/www\/09_2016\/emote-eniripsa-fin.gif\" style=\"float:left\" \/><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2018-03-05T09:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7917\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7917\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eniripsa.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Bienfaisant<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Bienfaisant",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13093\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13093\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1145,
+                    "category_id": 17,
+                    "name": "Bienfaisant",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17859,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T11:52:49+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Bienfaisant", "Regenerative", "Wohlt\u00e4tig", "Bienhechor", "Benefico", "Benfeitor", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eniripsa.", "Use this scroll to learn the Eniripsa class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Eniripsa erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los aniripsas.", "Questa pergamena ti permette di imparare l'emote speciale della classe Aniripsa.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Eniripsa.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11120",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7917\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "179288",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972444",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7022,
+        "key": null,
+        "name": "Vaporeuse",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Steamer.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2017-12-05T16:45:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7022\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7022\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Steamer.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Vaporeux<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Vaporeux",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13099\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13099\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1151,
+                    "category_id": 17,
+                    "name": "Vaporeux",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 16344,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T12:03:31+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Vaporeux", "Emote Scroll: Steamy", "Dampfen", "Vaporosa", "Vaporoso", "Vaporoso", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Steamer.", "Use this scroll to learn the Foggernaut\u00a0class's special emote.", "Mit dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Steamer erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los steamers.", "Questa pergamena ti permette di imparare l'emote speciale della classe Steamer.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Steamer.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "9960",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7022\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "279260",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971254",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8413,
+        "key": null,
+        "name": "Animal",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Osamodas.<\/p>\r\n\r\n<p><img alt=\"\" src=\"http:\/\/staticns.ankama.com\/comm\/news\/akiba-manga\/www\/09_2016\/attitude-osamodas.gif\" style=\"float:left\" width=\"675\" \/><\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2017-12-05T16:30:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8413\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8413\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Osamodas.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Animal<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Animal",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13100\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13100\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1152,
+                    "category_id": 17,
+                    "name": "Animal",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18224,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T12:05:05+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Animal", "Animal", "Tier", "Animal", "Animale", "Animal", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Osamodas.", "Use this scroll to learn the Osamodas class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Osamodas erlernen.", "Con este pergamino podr\u00e1s aprender la actitud especial de los osamodas.", "Questa pergamena ti permette di imparare l'emote speciale della classe Osamodas.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Osamodas.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "11601",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/8413\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "196368",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "973226",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7094,
+        "key": null,
+        "name": "Balistique",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Cr\u00e2.<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2015-07-08T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7094\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7094\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe cr\u00e2.<s>Balistique<\/s><\/p>\r\n",
+            "name": "Balistique",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/10244\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/10244\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 546,
+                    "category_id": 17,
+                    "name": "Balistique",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 17063,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": null,
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2018-06-11T15:09:52+02:00",
+                    "added_account_id": 121592648,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt", "nl", "ja", "ru"],
+                    "definition_title": ["Attitude: Balistique", "Emote: Ballistic", "Emote: Balistisch", "Actitud: Bal\u00edstico", "Emote: Balistica", "Emote: Bal\u00edstico", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Cr\u00e2.", "Use this scroll to learn the Cra class's special emote.", "Dank dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Cr\u00e2s erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los ocras.", "Questa pergamena ti permette di apprendere l'emote speciale della classe Ocra.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Cra.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "10110",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/7094\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "157348",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971368",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 6652,
+        "key": null,
+        "name": "Transcendant",
+        "subtitle": null,
+        "description": "<p>Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eliotrope.<\/p>\r\n\r\n<div class=\"template_block ak-img-gif-player-block\">\r\n<div class=\"ak-img-gif-player\">\r\n<div class=\"ak-img-gif-content\"><img alt=\"\" class=\"ak-img-gif\" height=\"747\" src=\"\thttp:\/\/staticns.ankama.com\/comm\/news\/akiba-manga\/www\/09_2016\/attitude-elio.gif\" style=\"float:left\" width=\"675\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 5.4,
+        "startdate": "2015-02-24T00:00:00+01:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/6652\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/6652\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eliotrope.<p>Niveau : 1<\/p><p>Effets : <br\/>Attitude Transcendant<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Transcendant",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13107\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13107\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1158,
+                    "category_id": 17,
+                    "name": "Transcendant",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 16132,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T15:39:12+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Transcendant", "Emote Scroll: Transcendent", "Emote-Schriftrolle: \"Transzendent\"", "Trascendente", "Trascendente", "Transcendental", null, null, null],
+                    "definition_description": ["Ce parchemin vous permet d'apprendre l'attitude sp\u00e9ciale de la classe Eliotrope.", "Use this scroll to learn the Eliotrope class's special emote.", "Mit dieser Schriftrolle k\u00f6nnt ihr das Spezialemote der Eliotropen erlernen.", "Con este pergamino, podr\u00e1s aprender la actitud especial de los selotropes.", "Questa pergamena ti permette di imparare l'emote speciale della classe Eliotrop.", "Com este pergaminho, voc\u00ea poder\u00e1 aprender o emote especial da classe Eliotrope.", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "9954",
+            "key": "",
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/6652\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "144507",
+            "original_price": null,
+            "price": 5000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971161",
+            "original_price": null,
+            "price": 4.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}

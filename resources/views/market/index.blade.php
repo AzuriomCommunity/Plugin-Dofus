@@ -47,7 +47,7 @@
                                     <td><img src="{{plugin_asset('dofus', "img/alignment/{$item->character->AlignmentSide}.png")}}" alt="" srcset=""></td>
                                     <td>{{$item->character->Honor}}</td>
                                     <td>
-                                        <a class="mx-1" title="{{ trans('messages.actions.show') }}" data-toggle="tooltip"><i class="fas fa-eye"></i></a>
+                                        <a href="{{route('dofus.market.show', $item)}}" class="mx-1" title="{{ trans('messages.actions.show') }}" data-toggle="tooltip"><i class="fas fa-eye"></i></a>
                                     </td>
                                 </tr>
                             @endforeach

@@ -1,0 +1,2310 @@
+{
+    "total_count": 17,
+    "articles": [{
+        "id": 11924,
+        "key": null,
+        "name": "Panoplie Rolivan",
+        "subtitle": null,
+        "description": "<p>Cette panoplie polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les panoplies inanim\u00e9s. (Vous devez nourrir cette panoplie vivante en lui donnant \u00e0 manger d'autres panoplies. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>Niveau : 1<br \/>\r\n<br \/>\r\n*Ces\u00a0objets seront\u00a0li\u00e9s \u00e0 votre compte pendant 62 jours<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": 12,
+        "price": 11,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11924\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11924\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Bottes Rolivan",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1073,
+                    "category_id": 18,
+                    "name": "Bottes Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13210,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:01:09+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T10:02:23+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Bottes Rolivan", "Alyverol Boots", "Rolleb-Stiefel", "Botas rolevivas", "Stivali Ruoliventi", "Botas Rolevivas", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate boots. (You must feed these living boots by giving them other boots to eat. You can feed them a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las botas inanimadas. (Tienes que alimentar estas botas vivientes d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli stivali inanimati. (Devi nutrirlo dandogli da mangiare altri stivali. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as botas inanimadas. (Voc\u00ea deve alimentar essas botas vivas com outras botas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1074,
+                    "category_id": 18,
+                    "name": "Cape Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13211,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:02:04+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Rolivan", "Alyverol Cape", "Rolleb-Umhang", "Capa roleviva", "Mantello Ruolivente", "Capa Roleviva", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Ceinture Rolivan",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1075,
+                    "category_id": 18,
+                    "name": "Ceinture Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13212,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:02:51+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ceinture Rolivan", "Alyverol Belt", "Rolleb-G\u00fcrtel", "Cintur\u00f3n rolevivo", "Cintura Ruolivente", "Cinto Rolevivo", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate belts. (You must feed this living belt by giving it other belts to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cinturones inanimados. (Tienes que alimentar este cintur\u00f3n viviente d\u00e1ndole de comer otros cinturones. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con le cinture inanimate. (Devi nutrirlo dandogli da mangiare altre cinture. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os cintos inanimados. (Voc\u00ea deve alimentar esse cinto vivo com outros cintos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1076,
+                    "category_id": 18,
+                    "name": "Chapeau Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13213,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:03:22+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Rolivan", "Alyverol Hat", "Rolleb-Hut", "Sombrero rolevivo", "Cappello Ruolivente", "Chap\u00e9u Rolevivo", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15344",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11924\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1238940",
+            "original_price": 11200,
+            "price": 10000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1239391",
+            "original_price": 11.2,
+            "price": 10,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11922,
+        "key": null,
+        "name": "Panoplie Parabiote",
+        "subtitle": null,
+        "description": "<p>Cette panoplie polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les panoplies inanim\u00e9s. (Vous devez nourrir cette panoplie vivante en lui donnant \u00e0 manger d'autres panoplies. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>Niveau : 1<br \/>\r\n<br \/>\r\n*Ces\u00a0objets seront\u00a0li\u00e9s \u00e0 votre compte pendant 62 jours<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": 12,
+        "price": 11,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11922\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11922\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Bottes Parabiotes",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1077,
+                    "category_id": 18,
+                    "name": "Bottes Parabiotes",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12427,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:18:38+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Bottes Parabiotes", "Parasymbic Boots", "Parabiotische Stiefel", "Botas parabi\u00f3ticas", "Stivali Parabio", "Botas Parabi\u00f3ticas", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate boots. (You must feed these living boots by giving them other boots to eat. You can feed them a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Stiefeln auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Stiefel mit anderen Stiefeln f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las botas inanimadas. (Tienes que alimentar estas botas vivientes d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli stivali inanimati. (Devi nutrirlo dandogli da mangiare altri stivali. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as botas inanimadas. (Voc\u00ea deve alimentar essas botas vivas com outras botas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Parabiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1078,
+                    "category_id": 18,
+                    "name": "Cape Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12425,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:19:21+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Parabiote", "Parasymbic Cape", "Parabiotischer Umhang", "Capa parabi\u00f3tica", "Mantello Parabio", "Capa Parabi\u00f3tica", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Umh\u00e4ngen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Umhang mit anderen Umh\u00e4ngen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Ceinture Parabiote",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1079,
+                    "category_id": 18,
+                    "name": "Ceinture Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12426,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:20:05+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ceinture Parabiote", "Parasymbic Belt", "Parabiotischer G\u00fcrtel", "Cintur\u00f3n parabi\u00f3tico", "Cintura Parabio", "Cinto Parabi\u00f3tico", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate belts. (You must feed this living belt by giving it other belts to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten G\u00fcrteln auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen G\u00fcrtel mit anderen G\u00fcrteln f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cinturones inanimados. (Tienes que alimentar este cintur\u00f3n viviente d\u00e1ndole de comer otros cinturones. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con le cinture inanimate. (Devi nutrirlo dandogli da mangiare altre cinture. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os cintos inanimados. (Voc\u00ea deve alimentar esse cinto vivo com outros cintos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Parabiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1080,
+                    "category_id": 18,
+                    "name": "Chapeau Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12424,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:20:40+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Parabiote", "Parasymbic Hat", "Parabiotischer Hut", "Gorro parabi\u00f3tico", "Cappello Parabio", "Chap\u00e9u Parabi\u00f3tico", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Kopfbedeckungen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Hut mit anderen Kopfbedeckungen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15342",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11922\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1239430",
+            "original_price": 11200,
+            "price": 10000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1239881",
+            "original_price": 11.2,
+            "price": 10,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11920,
+        "key": null,
+        "name": "Panoplie Obvijevan",
+        "subtitle": null,
+        "description": "<p>Cette panoplie polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les panoplies inanim\u00e9s. (Vous devez nourrir cette panoplie vivante en lui donnant \u00e0 manger d'autres panoplies. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>Niveau : 1<br \/>\r\n<br \/>\r\n*Ces\u00a0objets seront\u00a0li\u00e9s \u00e0 votre compte pendant 62 jours<\/p>\r\n\r\n<div class=\"ak-big-image template_block\">\u00a0<\/div>\r\n\r\n<p class=\"fake\">\u00a0<\/p>\r\n",
+        "currency": "CHF",
+        "original_price": 12,
+        "price": 11,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11920\/gallery_all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11920\/gallery_all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les amulettes inanim\u00e9es. (Vous devez nourrir cette amulette vivante en lui donnant \u00e0 manger d'autres amulettes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Amulette Obvijevan",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1081,
+                    "category_id": 18,
+                    "name": "Amulette Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9255,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:33:04+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Amulette Obvijevan", "Livitinem Amulet", "Lebending: Amulett", "Amuleto Objevivo", "Amuleto Vivoggetto", "Amuleto Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les amulettes inanim\u00e9es. (Vous devez nourrir cette amulette vivante en lui donnant \u00e0 manger d'autres amulettes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate amulets. (You must feed this living amulet by giving it other amulets to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Dieses lebendige Amulett m\u00fcsst ihr also mit anderen Amuletten f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los amuletos inanimados. (Tienes que alimentar este amuleto viviente d\u00e1ndole de comer otros amuletos. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli amuleti inanimati. (Devi nutrirlo dandogli da mangiare altri amuleti. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os amuletos inanimados. (Voc\u00ea deve alimentar esse amuleto vivo com outros amuletos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les anneaux inanim\u00e9s. (Vous devez nourrir cet anneau vivant en lui donnant \u00e0 manger d'autres anneaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Anneau Obvijevan",
+            "free": true,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1082,
+                    "category_id": 18,
+                    "name": "Anneau Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9256,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:34:36+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Anneau Obvijevan", "Livitinem Ring", "Lebending: Ring", "Anillo objevivo", "Anello Vivoggetto", "Anel Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les anneaux inanim\u00e9s. (Vous devez nourrir cet anneau vivant en lui donnant \u00e0 manger d'autres anneaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate rings. (You must feed this living ring by giving it other rings to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Ring m\u00fcsst ihr also mit anderen Ringen f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los anillos inanimados. (Tienes que alimentar este anillo viviente d\u00e1ndole de comer otros anillos. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli anelli inanimati. (Devi nutrirlo dandogli da mangiare altri anelli. Puoi dargli un nuovo pasto ogni dodici ore.)", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os an\u00e9is inanimados. (Voc\u00ea deve alimentar esse anel vivo com outros an\u00e9is. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1083,
+                    "category_id": 18,
+                    "name": "Cape Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9233,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:35:10+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T10:35:17+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Obvijevan", "Livitinem Cape", "Lebending: Umhang", "Capa objeviva", "Mantello Vivoggetto", "Capa Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Umhang m\u00fcsst ihr also mit anderen Umh\u00e4ngen f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }, {
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1084,
+                    "category_id": 18,
+                    "name": "Chapeau Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9234,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:35:57+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Obvijevan", "Livitinem Hat", "Lebending: Hut", "Sombrero objevivo", "Cappello Vivoggetto", "Chap\u00e9u Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Hut m\u00fcsst ihr also mit anderen H\u00fcten f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [{
+            "id": "15340",
+            "key": null,
+            "lang": "ALL",
+            "type": "IMAGE",
+            "param": "GALLERY",
+            "order": "0",
+            "url": "https:\/\/static.ankama.com\/shops\/img\/article\/11920\/gallery_all_50_50.png"
+        }],
+        "metas": [],
+        "pricelist": [{
+            "id": "1271485",
+            "original_price": 11200,
+            "price": 10000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "1272072",
+            "original_price": 11.2,
+            "price": 10,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11474,
+        "key": null,
+        "name": "Chapeau Obvijevan",
+        "subtitle": null,
+        "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<br\/><br\/>Niveau : 1<br\/><br\/>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<br\/><br\/> *Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 6.5,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13030\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1084,
+                    "category_id": 18,
+                    "name": "Chapeau Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9234,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:35:57+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Obvijevan", "Livitinem Hat", "Lebending: Hut", "Sombrero objevivo", "Cappello Vivoggetto", "Chap\u00e9u Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Hut m\u00fcsst ihr also mit anderen H\u00fcten f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "602773",
+            "original_price": null,
+            "price": 6000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "987736",
+            "original_price": null,
+            "price": 5.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11473,
+        "key": null,
+        "name": "Cape Obvijevan",
+        "subtitle": null,
+        "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<br\/><br\/>Niveau : 1<br\/><br\/>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<br\/><br\/> *Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.35,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13029\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1083,
+                    "category_id": 18,
+                    "name": "Cape Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9233,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:35:10+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T10:35:17+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Obvijevan", "Livitinem Cape", "Lebending: Umhang", "Capa objeviva", "Mantello Vivoggetto", "Capa Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Umhang m\u00fcsst ihr also mit anderen Umh\u00e4ngen f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "602772",
+            "original_price": null,
+            "price": 4000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "987683",
+            "original_price": null,
+            "price": 3.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11472,
+        "key": null,
+        "name": "Anneau Obvijevan",
+        "subtitle": null,
+        "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les anneaux inanim\u00e9s. (Vous devez nourrir cet anneau vivant en lui donnant \u00e0 manger d'autres anneaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<br\/><br\/>Niveau : 1<br\/><br\/>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<br\/><br\/> *Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les anneaux inanim\u00e9s. (Vous devez nourrir cet anneau vivant en lui donnant \u00e0 manger d'autres anneaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Anneau Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13028\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1082,
+                    "category_id": 18,
+                    "name": "Anneau Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9256,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:34:36+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Anneau Obvijevan", "Livitinem Ring", "Lebending: Ring", "Anillo objevivo", "Anello Vivoggetto", "Anel Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les anneaux inanim\u00e9s. (Vous devez nourrir cet anneau vivant en lui donnant \u00e0 manger d'autres anneaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate rings. (You must feed this living ring by giving it other rings to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Diesen lebendigen Ring m\u00fcsst ihr also mit anderen Ringen f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los anillos inanimados. (Tienes que alimentar este anillo viviente d\u00e1ndole de comer otros anillos. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli anelli inanimati. (Devi nutrirlo dandogli da mangiare altri anelli. Puoi dargli un nuovo pasto ogni dodici ore.)", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os an\u00e9is inanimados. (Voc\u00ea deve alimentar esse anel vivo com outros an\u00e9is. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "602771",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 11471,
+        "key": null,
+        "name": "Amulette Obvijevan",
+        "subtitle": null,
+        "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les amulettes inanim\u00e9es. (Vous devez nourrir cette amulette vivante en lui donnant \u00e0 manger d'autres amulettes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<br\/><br\/>Niveau : 1<br\/><br\/>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<br\/><br\/> *Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": null,
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les amulettes inanim\u00e9es. (Vous devez nourrir cette amulette vivante en lui donnant \u00e0 manger d'autres amulettes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Amulette Obvijevan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13027\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1081,
+                    "category_id": 18,
+                    "name": "Amulette Obvijevan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 9255,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:33:04+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Amulette Obvijevan", "Livitinem Amulet", "Lebending: Amulett", "Amuleto Objevivo", "Amuleto Vivoggetto", "Amuleto Ovivmeti", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les amulettes inanim\u00e9es. (Vous devez nourrir cette amulette vivante en lui donnant \u00e0 manger d'autres amulettes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate amulets. (You must feed this living amulet by giving it other amulets to eat. You can feed it a new meal every twelve hours.)", "Dieser polymorphe Gegenstand geht eine Symbiose mit anderen unbelebten Gegenst\u00e4nden ein, bevor ihm diese schlie\u00dflich als Nahrung dienen. (Dieses lebendige Amulett m\u00fcsst ihr also mit anderen Amuletten f\u00fcttern. Dabei k\u00f6nnt ihr ihm alle zw\u00f6lf Stunden neue Nahrung geben.)", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los amuletos inanimados. (Tienes que alimentar este amuleto viviente d\u00e1ndole de comer otros amuletos. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli amuleti inanimati. (Devi nutrirlo dandogli da mangiare altri amuleti. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os amuletos inanimados. (Voc\u00ea deve alimentar esse amuleto vivo com outros amuletos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "602770",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8252,
+        "key": null,
+        "name": "Chapeau Shushivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 6.5,
+        "startdate": "2017-10-11T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13115\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13115\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Shushivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13115\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13115\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1156,
+                    "category_id": 18,
+                    "name": "Chapeau Shushivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18154,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T15:22:46+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Shushivan", "Shushivin Hat", "Shushending-Hut", "Sombrero fab\u2019huvivo", "Cappello Shushente", "Chap\u00e9u Shushuvivo", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Kopfbedeckungen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Hut mit anderen Kopfbedeckungen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Este chap\u00e9u vivo se alimenta de outros chap\u00e9us. Voc\u00ea pode aliment\u00e1-lo a cada doze horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250321",
+            "original_price": null,
+            "price": 6000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972804",
+            "original_price": null,
+            "price": 5.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 8253,
+        "key": null,
+        "name": "Cape Shushivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.35,
+        "startdate": "2017-10-11T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": true,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13116\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13116\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Shushivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13116\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13116\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1157,
+                    "category_id": 18,
+                    "name": "Cape Shushivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 18155,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-28T15:23:25+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Shushivan", "Shushivin Cape", "Shushending-Umhang", "Capa fab\u2019huviva", "Mantello Shushente", "Capa Shushuviva", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Umh\u00e4ngen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Umhang mit anderen Umh\u00e4ngen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Esta capa viva se alimenta de outras capas. Voc\u00ea pode aliment\u00e1-la a cada doze horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250319",
+            "original_price": null,
+            "price": 4000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "972857",
+            "original_price": null,
+            "price": 3.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7197,
+        "key": null,
+        "name": "Ceinture Rolivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": "2017-05-31T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Ceinture Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13020\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1075,
+                    "category_id": 18,
+                    "name": "Ceinture Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13212,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:02:51+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ceinture Rolivan", "Alyverol Belt", "Rolleb-G\u00fcrtel", "Cintur\u00f3n rolevivo", "Cintura Ruolivente", "Cinto Rolevivo", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate belts. (You must feed this living belt by giving it other belts to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cinturones inanimados. (Tienes que alimentar este cintur\u00f3n viviente d\u00e1ndole de comer otros cinturones. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con le cinture inanimate. (Devi nutrirlo dandogli da mangiare altre cinture. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os cintos inanimados. (Voc\u00ea deve alimentar esse cinto vivo com outros cintos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250337",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7198,
+        "key": null,
+        "name": "Bottes Rolivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": "2017-05-31T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Bottes Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13018\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1073,
+                    "category_id": 18,
+                    "name": "Bottes Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13210,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:01:09+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": "2020-07-27T10:02:23+02:00",
+                    "modified_account_id": 145961480,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Bottes Rolivan", "Alyverol Boots", "Rolleb-Stiefel", "Botas rolevivas", "Stivali Ruoliventi", "Botas Rolevivas", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate boots. (You must feed these living boots by giving them other boots to eat. You can feed them a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las botas inanimadas. (Tienes que alimentar estas botas vivientes d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli stivali inanimati. (Devi nutrirlo dandogli da mangiare altri stivali. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as botas inanimadas. (Voc\u00ea deve alimentar essas botas vivas com outras botas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250338",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7199,
+        "key": null,
+        "name": "Cape Rolivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.35,
+        "startdate": "2017-05-31T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13019\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1074,
+                    "category_id": 18,
+                    "name": "Cape Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13211,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:02:04+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Rolivan", "Alyverol Cape", "Rolleb-Umhang", "Capa roleviva", "Mantello Ruolivente", "Capa Roleviva", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250339",
+            "original_price": null,
+            "price": 4000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971552",
+            "original_price": null,
+            "price": 3.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 7145,
+        "key": null,
+        "name": "Chapeau Rolivan",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 6.5,
+        "startdate": "2017-05-31T10:30:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Rolivan",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13021\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1076,
+                    "category_id": 18,
+                    "name": "Chapeau Rolivan",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 13213,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:03:22+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Rolivan", "Alyverol Hat", "Rolleb-Hut", "Sombrero rolevivo", "Cappello Ruolivente", "Chap\u00e9u Rolevivo", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Diese polymorphe Gegenstand baut eine besondere Verbindung mit anderen Gegenst\u00e4nden seiner Gattung auf. Teils symbiotischer, teils parasit\u00e4rer Natur - dar\u00fcber herrscht nach wie vor Uneinigkeit bei den Forschern. Alle 12 Stunden k\u00f6nnt ihr sie mit einem Gegenstand derselben Gattung f\u00fcttern.", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [],
+        "pricelist": [{
+            "id": "250340",
+            "original_price": null,
+            "price": 6000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "971445",
+            "original_price": null,
+            "price": 5.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5691,
+        "key": null,
+        "name": "Chapeau Parabiote",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 6.5,
+        "startdate": "2014-04-04T05:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Chapeau Parabiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13026\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1080,
+                    "category_id": 18,
+                    "name": "Chapeau Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12424,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:20:40+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Chapeau Parabiote", "Parasymbic Hat", "Parabiotischer Hut", "Gorro parabi\u00f3tico", "Cappello Parabio", "Chap\u00e9u Parabi\u00f3tico", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les couvres-chef inanim\u00e9s. (Vous devez nourrir ce chapeau vivant en lui donnant \u00e0 manger d'autres chapeaux. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate items of headgear. (You must feed this living hat by giving it other hats to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Kopfbedeckungen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Hut mit anderen Kopfbedeckungen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cubrecabezas inanimados. (Tienes que alimentar este sombrero viviente d\u00e1ndole de comer otros sombreros. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i cappelli inanimati. (Devi nutrirlo dandogli da mangiare altri cappelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os chap\u00e9us inanimados. (Voc\u00ea deve alimentar esse chap\u00e9u vivo com outros chap\u00e9us. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "114",
+            "key": null,
+            "name": "Compagnon",
+            "metas": [{
+                "id": "2222",
+                "key": null,
+                "name": "Objets vivants"
+            }]
+        }],
+        "pricelist": [{
+            "id": "119504",
+            "original_price": null,
+            "price": 6000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "970268",
+            "original_price": null,
+            "price": 5.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5692,
+        "key": null,
+        "name": "Cape Parabiote",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "CHF",
+        "original_price": null,
+        "price": 4.35,
+        "startdate": "2014-04-04T05:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Cape Parabiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13024\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1078,
+                    "category_id": 18,
+                    "name": "Cape Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12425,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:19:21+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Cape Parabiote", "Parasymbic Cape", "Parabiotischer Umhang", "Capa parabi\u00f3tica", "Mantello Parabio", "Capa Parabi\u00f3tica", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les capes inanim\u00e9es. (Vous devez nourrir cette cape vivante en lui donnant \u00e0 manger d'autres capes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate capes. (You must feed this living cape by giving it other capes to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Umh\u00e4ngen auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Umhang mit anderen Umh\u00e4ngen f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las capas inanimadas. (Tienes que alimentar esta capa viviente d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con i mantelli inanimati. (Devi nutrirlo dandogli da mangiare altri mantelli. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as capas inanimadas. (Voc\u00ea deve alimentar essa capa viva com outras capas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "114",
+            "key": null,
+            "name": "Compagnon",
+            "metas": [{
+                "id": "2222",
+                "key": null,
+                "name": "Objets vivants"
+            }]
+        }],
+        "pricelist": [{
+            "id": "119505",
+            "original_price": null,
+            "price": 4000,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }, {
+            "id": "970321",
+            "original_price": null,
+            "price": 3.99,
+            "currency": "EUR",
+            "country": "FR",
+            "paymentmode": "OK"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5693,
+        "key": null,
+        "name": "Bottes Parabiotes",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": "2014-04-04T05:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Bottes Parabiotes",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13022\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1077,
+                    "category_id": 18,
+                    "name": "Bottes Parabiotes",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12427,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:18:38+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Bottes Parabiotes", "Parasymbic Boots", "Parabiotische Stiefel", "Botas parabi\u00f3ticas", "Stivali Parabio", "Botas Parabi\u00f3ticas", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les bottes inanim\u00e9es. (Vous devez nourrir ces bottes vivantes en leur donnant \u00e0 manger d'autres bottes. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate boots. (You must feed these living boots by giving them other boots to eat. You can feed them a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten Stiefeln auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen Stiefel mit anderen Stiefeln f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con las botas inanimadas. (Tienes que alimentar estas botas vivientes d\u00e1ndole de comer otras capas. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con gli stivali inanimati. (Devi nutrirlo dandogli da mangiare altri stivali. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com as botas inanimadas. (Voc\u00ea deve alimentar essas botas vivas com outras botas. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "114",
+            "key": null,
+            "name": "Compagnon",
+            "metas": [{
+                "id": "2222",
+                "key": null,
+                "name": "Objets vivants"
+            }]
+        }],
+        "pricelist": [{
+            "id": "119506",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }, {
+        "id": 5694,
+        "key": null,
+        "name": "Ceinture Parabiote",
+        "subtitle": null,
+        "description": "<p>Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<\/p>\r\n\r\n<p>\u00a0<\/p>\r\n\r\n<p><em>Il est impossible d'associer un objet vivant avec :<\/em><\/p>\r\n\r\n<ul>\r\n\t<li><em>un objet non \u00e9changeable li\u00e9 d\u00e9finitivement ou temporairement au compte<\/em><\/li>\r\n\t<li><em>un objet mimibiot\u00e9<\/em><\/li>\r\n<\/ul>\r\n",
+        "currency": "OGR",
+        "original_price": null,
+        "price": 600,
+        "startdate": "2014-04-04T05:00:00+02:00",
+        "enddate": null,
+        "showCountDown": false,
+        "stock": null,
+        "is_free": false,
+        "image": [{
+            "width": 70,
+            "height": 70,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_70_70.png"
+        }, {
+            "width": 200,
+            "height": 200,
+            "url": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_200_200.png"
+        }],
+        "references": [{
+            "description": "Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)<p>Niveau : 1<\/p><p>Effets : <br\/>A mang\u00e9 le : 01\/01\/600 01:00<\/p><p>*Cet objet sera li\u00e9 \u00e0 votre compte pendant 62 jours<\/p>",
+            "name": "Ceinture Parabiote",
+            "free": false,
+            "quantity": "1",
+            "type": "GAMEACTION",
+            "image": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_70_70.png",
+            "image_big": "https:\/\/static.ankama.com\/shops\/img\/reference\/13025\/all_475_475.png",
+            "reference_accountstatus": null,
+            "reference_icegift": null,
+            "reference_virtualgift": null,
+            "reference_kard": null,
+            "reference_krosmaster": null,
+            "reference_nothing": null,
+            "reference_tactilewars": null,
+            "reference_virtualsubscriptionlevel": null,
+            "reference_video": null,
+            "reference_music": null,
+            "reference_flag": null,
+            "reference_chartransfer": null,
+            "reference_digitalcomic": null,
+            "reference_premium": null,
+            "reference_recurringvirtualsubscription": null,
+            "reference_ogrine": null,
+            "reference_gameaction": {
+                "definition": {
+                    "id": 1079,
+                    "category_id": 18,
+                    "name": "Ceinture Parabiote",
+                    "restriction_id": null,
+                    "actions": [{
+                        "item_id": 12426,
+                        "effect": null,
+                        "bond": null,
+                        "distribution": "ALL_SERVER",
+                        "type": "DofusItem",
+                        "quantity": 1
+                    }],
+                    "online_date": null,
+                    "offline_date": null,
+                    "added_date": "2020-07-27T10:20:05+02:00",
+                    "added_account_id": 145961480,
+                    "modified_date": null,
+                    "modified_account_id": null,
+                    "available_date": null,
+                    "definition_lang": ["fr", "en", "de", "es", "it", "pt"],
+                    "definition_title": ["Ceinture Parabiote", "Parasymbic Belt", "Parabiotischer G\u00fcrtel", "Cintur\u00f3n parabi\u00f3tico", "Cintura Parabio", "Cinto Parabi\u00f3tico", null, null, null],
+                    "definition_description": ["Cet objet polymorphe \u00e9tablit une relation de pr\u00e9dateur ou de symbiote avec les ceintures inanim\u00e9es. (Vous devez nourrir cette ceinture vivante en lui donnant \u00e0 manger d'autres ceintures. Vous pouvez lui donner un nouveau repas toutes les douze heures.)", "This polymorphic item establishes a predatory or symbiotic relationship with inanimate belts. (You must feed this living belt by giving it other belts to eat. You can feed it a new meal every twelve hours.)", "Dieser polyforme Gegenstand baut entweder eine J\u00e4ger- oder eine Symbionten-Beziehung mit unbelebten G\u00fcrteln auf. (Das bedeutet, ihr m\u00fcsst diesen lebendigen G\u00fcrtel mit anderen G\u00fcrteln f\u00fcttern und das einmal alle 12 Stunden).", "Este objeto polimorfo establece una relaci\u00f3n de par\u00e1sito o simbionte con los cinturones inanimados. (Tienes que alimentar este cintur\u00f3n viviente d\u00e1ndole de comer otros cinturones. Puedes darle de comer cada doce horas.)", "Questo oggetto polimorfo stabilisce una relazione di predatore o simbionte con le cinture inanimate. (Devi nutrirlo dandogli da mangiare altre cinture. Puoi dargli un nuovo pasto ogni dodici ore).", "Este item polimorfo estabelece uma rela\u00e7\u00e3o predat\u00f3ria ou simbi\u00f3tica com os cintos inanimados. (Voc\u00ea deve alimentar esse cinto vivo com outros cintos. Pode fazer uma refei\u00e7\u00e3o a cada 12 horas.)", null, null, null]
+                }
+            }
+        }],
+        "promo": [],
+        "media": [],
+        "metas": [{
+            "id": "44",
+            "key": "ARTICLE_TYPE",
+            "name": "Type d'articles",
+            "metas": [{
+                "id": "411",
+                "key": null,
+                "name": "Objets Dofus"
+            }]
+        }, {
+            "id": "114",
+            "key": null,
+            "name": "Compagnon",
+            "metas": [{
+                "id": "2222",
+                "key": null,
+                "name": "Objets vivants"
+            }]
+        }],
+        "pricelist": [{
+            "id": "119507",
+            "original_price": null,
+            "price": 600,
+            "currency": "OGR",
+            "country": "WD",
+            "paymentmode": "OG"
+        }],
+        "most_precise_category_id": null,
+        "flag": {
+            "key": "",
+            "value": ""
+        },
+        "availability": "NORMAL",
+        "marketing_display": {
+            "flag": {
+                "key": "",
+                "value": ""
+            },
+            "discount_percent": null,
+            "countdown": null
+        }
+    }]
+}
